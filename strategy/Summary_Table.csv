@@ -1,0 +1,7 @@
+Drug,Total_DEGs,Count_Defensive,Count_Evasive,Count_Pessimistic,Percent_Defensive,Percent_Evasive,Percent_Pessimistic
+Amikacin,47,42,4,0,89.36170213,8.510638298,0
+Ciprofloxacin,150,146,4,0,97.33333333,2.666666667,0
+Colistin,92,61,31,0,66.30434783,33.69565217,0
+Meropenem,96,83,13,0,86.45833333,13.54166667,0
+Polymyxin B,91,52,39,0,57.14285714,42.85714286,0
+Tigecycline,114,31,0,83,27.19298246,0,72.80701754
