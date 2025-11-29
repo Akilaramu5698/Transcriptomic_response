@@ -1,0 +1,1773 @@
+Preferred_name,Pathway_name,FC,Strain
+hppD,Ubiquinone and other terpenoid-quinone biosynthesis,1.738343824,Ab ATCC 17978
+hppD, Tyrosine metabolism,1.738343824,Ab ATCC 17978
+hppD, Phenylalanine metabolism,1.738343824,Ab ATCC 17978
+hppD, Metabolic pathways,1.738343824,Ab ATCC 17978
+hppD, Biosynthesis of cofactors,1.738343824,Ab ATCC 17978
+maiA,Tyrosine metabolism,1.235204907,Ab ATCC 17978
+maiA, Styrene degradation,1.235204907,Ab ATCC 17978
+maiA, Metabolic pathways,1.235204907,Ab ATCC 17978
+maiA, Microbial metabolism in diverse environments,1.235204907,Ab ATCC 17978
+fahA,Tyrosine metabolism,1.207986359,Ab ATCC 17978
+fahA, Styrene degradation,1.207986359,Ab ATCC 17978
+fahA, Metabolic pathways,1.207986359,Ab ATCC 17978
+fahA, Microbial metabolism in diverse environments,1.207986359,Ab ATCC 17978
+hutU,Histidine metabolism,1.270246137,Ab ATCC 17978
+hutU, Metabolic pathways,1.270246137,Ab ATCC 17978
+hutI,Histidine metabolism,1.453779894,Ab ATCC 17978
+hutI, Metabolic pathways,1.453779894,Ab ATCC 17978
+hutG,Histidine metabolism,1.077369523,Ab ATCC 17978
+hutG, Metabolic pathways,1.077369523,Ab ATCC 17978
+hutG, Arginine and proline metabolism,1.077369523,Ab ATCC 17978
+hutG, Biosynthesis of secondary metabolites,1.077369523,Ab ATCC 17978
+gabD,"Alanine, aspartate and glutamate metabolism",1.350482265,Ab ATCC 17978
+gabD, Lysine degradation,1.350482265,Ab ATCC 17978
+gabD, Tyrosine metabolism,1.350482265,Ab ATCC 17978
+gabD, Butanoate metabolism,1.350482265,Ab ATCC 17978
+gabD, Nicotinate and nicotinamide metabolism,1.350482265,Ab ATCC 17978
+gabD, Metabolic pathways,1.350482265,Ab ATCC 17978
+gabD, Microbial metabolism in diverse environments,1.350482265,Ab ATCC 17978
+bfr,Porphyrin metabolism,1.442504747,Ab ATCC 17978
+ttg2C,ABC transporters,2.294923216,Ab ATCC 17978
+ttg2D,ABC transporters,3.143537821,Ab ATCC 17978
+-,ABC transporters,3.221153593,Ab ATCC 17978
+almA,Caprolactam degradation,1.17723907,Ab ATCC 17978
+almA, Microbial metabolism in diverse environments,1.17723907,Ab ATCC 17978
+almA, Degradation of aromatic compounds,1.17723907,Ab ATCC 17978
+xpt,Purine metabolism,1.123826221,Ab ATCC 17978
+xpt, Metabolic pathways,1.123826221,Ab ATCC 17978
+xpt, Biosynthesis of secondary metabolites,1.123826221,Ab ATCC 17978
+xpt, Nucleotide metabolism,1.123826221,Ab ATCC 17978
+baeS,Two-component system,3.086361286,Ab ATCC 17978
+baeR,Two-component system,2.782158635,Ab ATCC 17978
+baeR, beta-Lactam resistance,2.782158635,Ab ATCC 17978
+acrB,beta-Lactam resistance,1.390624585,Ab ATCC 17978
+acrB, Cationic antimicrobial peptide (CAMP) resistance,1.390624585,Ab ATCC 17978
+acrA,beta-Lactam resistance,1.521608063,Ab ATCC 17978
+acrA, Cationic antimicrobial peptide (CAMP) resistance,1.521608063,Ab ATCC 17978
+-,Glycerophospholipid metabolism,2.065552019,Ab ATCC 17978
+-, Metabolic pathways,2.065552019,Ab ATCC 17978
+-, Peptidoglycan biosynthesis,2.065552019,Ab ATCC 17978
+-, Teichoic acid biosynthesis,2.065552019,Ab ATCC 17978
+-,Glycolysis / Gluconeogenesis,1.042804351,Ab ATCC 17978
+-, Fatty acid degradation,1.042804351,Ab ATCC 17978
+-, Tyrosine metabolism,1.042804351,Ab ATCC 17978
+-, Pyruvate metabolism,1.042804351,Ab ATCC 17978
+-, Chloroalkane and chloroalkene degradation,1.042804351,Ab ATCC 17978
+-, Naphthalene degradation,1.042804351,Ab ATCC 17978
+-, Retinol metabolism,1.042804351,Ab ATCC 17978
+-, Metabolism of xenobiotics by cytochrome P450,1.042804351,Ab ATCC 17978
+-, Drug metabolism - cytochrome P450,1.042804351,Ab ATCC 17978
+-, Metabolic pathways,1.042804351,Ab ATCC 17978
+-, Biosynthesis of secondary metabolites,1.042804351,Ab ATCC 17978
+-, Microbial metabolism in diverse environments,1.042804351,Ab ATCC 17978
+-, Degradation of aromatic compounds,1.042804351,Ab ATCC 17978
+acrB,beta-Lactam resistance,1.584132698,Ab ATCC 17978
+acrB, Cationic antimicrobial peptide (CAMP) resistance,1.584132698,Ab ATCC 17978
+lolC,ABC transporters,2.666116643,Ab ATCC 17978
+lolD,ABC transporters,2.815038733,Ab ATCC 17978
+pstS,ABC transporters,2.011395784,Ab ATCC 17978
+pstS, Two-component system,2.011395784,Ab ATCC 17978
+pstS, Tuberculosis,2.011395784,Ab ATCC 17978
+pstC,ABC transporters,1.57654569,Ab ATCC 17978
+pstA,ABC transporters,1.523700892,Ab ATCC 17978
+yegE,Two-component system,1.074641574,Ab ATCC 17978
+yegE, Bacterial chemotaxis,1.074641574,Ab ATCC 17978
+narK,Nitrogen metabolism,2.089993436,Ab ATCC 17978
+dctA,Two-component system,1.099855479,Ab ATCC 17978
+fadI,Fatty acid degradation,1.795226344,Ab ATCC 17978
+fadI," Valine, leucine and isoleucine degradation",1.795226344,Ab ATCC 17978
+fadI, Lysine degradation,1.795226344,Ab ATCC 17978
+fadI, Benzoate degradation,1.795226344,Ab ATCC 17978
+fadI, Tryptophan metabolism,1.795226344,Ab ATCC 17978
+fadI, Pyruvate metabolism,1.795226344,Ab ATCC 17978
+fadI, Glyoxylate and dicarboxylate metabolism,1.795226344,Ab ATCC 17978
+fadI, Butanoate metabolism,1.795226344,Ab ATCC 17978
+fadI, Other carbon fixation pathways,1.795226344,Ab ATCC 17978
+fadI, Terpenoid backbone biosynthesis,1.795226344,Ab ATCC 17978
+fadI, Metabolic pathways,1.795226344,Ab ATCC 17978
+fadI, Biosynthesis of secondary metabolites,1.795226344,Ab ATCC 17978
+fadI, Microbial metabolism in diverse environments,1.795226344,Ab ATCC 17978
+fadI, Carbon metabolism,1.795226344,Ab ATCC 17978
+fadI, Fatty acid metabolism,1.795226344,Ab ATCC 17978
+fadI, Two-component system,1.795226344,Ab ATCC 17978
+fadI, Fat digestion and absorption,1.795226344,Ab ATCC 17978
+fabG,Fatty acid biosynthesis,1.215116346,Ab ATCC 17978
+fabG, Prodigiosin biosynthesis,1.215116346,Ab ATCC 17978
+fabG, Biotin metabolism,1.215116346,Ab ATCC 17978
+fabG, Metabolic pathways,1.215116346,Ab ATCC 17978
+fabG, Biosynthesis of secondary metabolites,1.215116346,Ab ATCC 17978
+fabG, Fatty acid metabolism,1.215116346,Ab ATCC 17978
+fabG, Biosynthesis of cofactors,1.215116346,Ab ATCC 17978
+kynU,Tryptophan metabolism,4.315481166,Ab ATCC 17978
+kynU, Metabolic pathways,4.315481166,Ab ATCC 17978
+kynU, Biosynthesis of cofactors,4.315481166,Ab ATCC 17978
+pcaC,Benzoate degradation,1.184590501,Ab ATCC 17978
+pcaC, Metabolic pathways,1.184590501,Ab ATCC 17978
+pcaC, Microbial metabolism in diverse environments,1.184590501,Ab ATCC 17978
+pcaC, Degradation of aromatic compounds,1.184590501,Ab ATCC 17978
+aroD,"Phenylalanine, tyrosine and tryptophan biosynthesis",1.316759773,Ab ATCC 17978
+aroD, Metabolic pathways,1.316759773,Ab ATCC 17978
+aroD, Biosynthesis of secondary metabolites,1.316759773,Ab ATCC 17978
+aroD, Biosynthesis of amino acids,1.316759773,Ab ATCC 17978
+-,Glycolysis / Gluconeogenesis,1.028346922,Ab ATCC 17978
+-, Ascorbate and aldarate metabolism,1.028346922,Ab ATCC 17978
+-, Fatty acid degradation,1.028346922,Ab ATCC 17978
+-," Valine, leucine and isoleucine degradation",1.028346922,Ab ATCC 17978
+-, Lysine degradation,1.028346922,Ab ATCC 17978
+-, Arginine and proline metabolism,1.028346922,Ab ATCC 17978
+-, Histidine metabolism,1.028346922,Ab ATCC 17978
+-, Tryptophan metabolism,1.028346922,Ab ATCC 17978
+-, beta-Alanine metabolism,1.028346922,Ab ATCC 17978
+-, Glycerolipid metabolism,1.028346922,Ab ATCC 17978
+-, Pyruvate metabolism,1.028346922,Ab ATCC 17978
+-, Chloroalkane and chloroalkene degradation,1.028346922,Ab ATCC 17978
+-, Pantothenate and CoA biosynthesis,1.028346922,Ab ATCC 17978
+-, Limonene degradation,1.028346922,Ab ATCC 17978
+-, Insect hormone biosynthesis,1.028346922,Ab ATCC 17978
+-, Metabolic pathways,1.028346922,Ab ATCC 17978
+-, Biosynthesis of secondary metabolites,1.028346922,Ab ATCC 17978
+-, Microbial metabolism in diverse environments,1.028346922,Ab ATCC 17978
+-, Biosynthesis of cofactors,1.028346922,Ab ATCC 17978
+-, Alcoholic liver disease,1.028346922,Ab ATCC 17978
+-, Tyrosine metabolism,1.028346922,Ab ATCC 17978
+-, Phenylalanine metabolism,1.028346922,Ab ATCC 17978
+-, Styrene degradation,1.028346922,Ab ATCC 17978
+-,beta-Lactam resistance,1.316764127,Ab ATCC 17978
+yhcR,Purine metabolism,1.524191134,Ab ATCC 17978
+yhcR, Pyrimidine metabolism,1.524191134,Ab ATCC 17978
+yhcR, Nicotinate and nicotinamide metabolism,1.524191134,Ab ATCC 17978
+yhcR, Metabolic pathways,1.524191134,Ab ATCC 17978
+yhcR, Biosynthesis of secondary metabolites,1.524191134,Ab ATCC 17978
+yhcR, Nucleotide metabolism,1.524191134,Ab ATCC 17978
+atoB,Fatty acid degradation,1.124177055,Ab ATCC 17978
+atoB," Valine, leucine and isoleucine degradation",1.124177055,Ab ATCC 17978
+atoB, Lysine degradation,1.124177055,Ab ATCC 17978
+atoB, Benzoate degradation,1.124177055,Ab ATCC 17978
+atoB, Tryptophan metabolism,1.124177055,Ab ATCC 17978
+atoB, Pyruvate metabolism,1.124177055,Ab ATCC 17978
+atoB, Glyoxylate and dicarboxylate metabolism,1.124177055,Ab ATCC 17978
+atoB, Butanoate metabolism,1.124177055,Ab ATCC 17978
+atoB, Other carbon fixation pathways,1.124177055,Ab ATCC 17978
+atoB, Terpenoid backbone biosynthesis,1.124177055,Ab ATCC 17978
+atoB, Metabolic pathways,1.124177055,Ab ATCC 17978
+atoB, Biosynthesis of secondary metabolites,1.124177055,Ab ATCC 17978
+atoB, Microbial metabolism in diverse environments,1.124177055,Ab ATCC 17978
+atoB, Carbon metabolism,1.124177055,Ab ATCC 17978
+atoB, Fatty acid metabolism,1.124177055,Ab ATCC 17978
+atoB, Two-component system,1.124177055,Ab ATCC 17978
+atoB, Fat digestion and absorption,1.124177055,Ab ATCC 17978
+acoC,Glycolysis / Gluconeogenesis,1.026784724,Ab ATCC 17978
+acoC, Citrate cycle (TCA cycle),1.026784724,Ab ATCC 17978
+acoC, Pyruvate metabolism,1.026784724,Ab ATCC 17978
+acoC, Lipoic acid metabolism,1.026784724,Ab ATCC 17978
+acoC, Metabolic pathways,1.026784724,Ab ATCC 17978
+acoC, Biosynthesis of secondary metabolites,1.026784724,Ab ATCC 17978
+acoC, Microbial metabolism in diverse environments,1.026784724,Ab ATCC 17978
+acoC, Carbon metabolism,1.026784724,Ab ATCC 17978
+acoC, 2-Oxocarboxylic acid metabolism,1.026784724,Ab ATCC 17978
+phaC,Butanoate metabolism,1.489191872,Ab ATCC 17978
+phaC, Metabolic pathways,1.489191872,Ab ATCC 17978
+-,Fatty acid degradation,1.571793166,Ab ATCC 17978
+-," Valine, leucine and isoleucine degradation",1.571793166,Ab ATCC 17978
+-, Metabolic pathways,1.571793166,Ab ATCC 17978
+-, Biosynthesis of secondary metabolites,1.571793166,Ab ATCC 17978
+-, Fatty acid metabolism,1.571793166,Ab ATCC 17978
+-, PPAR signaling pathway,1.571793166,Ab ATCC 17978
+-, Alcoholic liver disease,1.571793166,Ab ATCC 17978
+-,Caprolactam degradation,1.823247819,Ab ATCC 17978
+-, Microbial metabolism in diverse environments,1.823247819,Ab ATCC 17978
+-, Degradation of aromatic compounds,1.823247819,Ab ATCC 17978
+ung,Base excision repair,1.38914484,Ab ATCC 17978
+ung, Primary immunodeficiency,1.38914484,Ab ATCC 17978
+-,Folate biosynthesis,1.66264364,Ab ATCC 17978
+-, Metabolic pathways,1.66264364,Ab ATCC 17978
+-, Biosynthesis of cofactors,1.66264364,Ab ATCC 17978
+mdcB,Two-component system,1.619183836,Ab ATCC 17978
+srpA,Tryptophan metabolism,1.602902595,Ab ATCC 17978
+srpA, Glyoxylate and dicarboxylate metabolism,1.602902595,Ab ATCC 17978
+srpA, Metabolic pathways,1.602902595,Ab ATCC 17978
+srpA, Biosynthesis of secondary metabolites,1.602902595,Ab ATCC 17978
+srpA, Carbon metabolism,1.602902595,Ab ATCC 17978
+srpA, MAPK signaling pathway - yeast,1.602902595,Ab ATCC 17978
+srpA, MAPK signaling pathway - plant,1.602902595,Ab ATCC 17978
+srpA, FoxO signaling pathway,1.602902595,Ab ATCC 17978
+srpA, Peroxisome,1.602902595,Ab ATCC 17978
+srpA, Longevity regulating pathway,1.602902595,Ab ATCC 17978
+srpA, Longevity regulating pathway - worm,1.602902595,Ab ATCC 17978
+srpA, Longevity regulating pathway - multiple species,1.602902595,Ab ATCC 17978
+srpA, Amyotrophic lateral sclerosis,1.602902595,Ab ATCC 17978
+srpA, Pathways of neurodegeneration - multiple diseases,1.602902595,Ab ATCC 17978
+srpA, Chemical carcinogenesis - reactive oxygen species,1.602902595,Ab ATCC 17978
+-,Phenylalanine metabolism,1.954256415,Ab ATCC 17978
+-, Metabolic pathways,1.954256415,Ab ATCC 17978
+paaK,Phenylalanine metabolism,1.598810515,Ab ATCC 17978
+paaK, Metabolic pathways,1.598810515,Ab ATCC 17978
+paaK, Microbial metabolism in diverse environments,1.598810515,Ab ATCC 17978
+paaK, Biofilm formation - Vibrio cholerae,1.598810515,Ab ATCC 17978
+paaJ,Fatty acid degradation,1.29038378,Ab ATCC 17978
+paaJ," Valine, leucine and isoleucine degradation",1.29038378,Ab ATCC 17978
+paaJ, Lysine degradation,1.29038378,Ab ATCC 17978
+paaJ, Benzoate degradation,1.29038378,Ab ATCC 17978
+paaJ, Tryptophan metabolism,1.29038378,Ab ATCC 17978
+paaJ, Pyruvate metabolism,1.29038378,Ab ATCC 17978
+paaJ, Glyoxylate and dicarboxylate metabolism,1.29038378,Ab ATCC 17978
+paaJ, Butanoate metabolism,1.29038378,Ab ATCC 17978
+paaJ, Other carbon fixation pathways,1.29038378,Ab ATCC 17978
+paaJ, Terpenoid backbone biosynthesis,1.29038378,Ab ATCC 17978
+paaJ, Metabolic pathways,1.29038378,Ab ATCC 17978
+paaJ, Biosynthesis of secondary metabolites,1.29038378,Ab ATCC 17978
+paaJ, Microbial metabolism in diverse environments,1.29038378,Ab ATCC 17978
+paaJ, Carbon metabolism,1.29038378,Ab ATCC 17978
+paaJ, Fatty acid metabolism,1.29038378,Ab ATCC 17978
+paaJ, Two-component system,1.29038378,Ab ATCC 17978
+paaJ, Fat digestion and absorption,1.29038378,Ab ATCC 17978
+paaJ, alpha-Linolenic acid metabolism,1.29038378,Ab ATCC 17978
+paaJ, Ethylbenzene degradation,1.29038378,Ab ATCC 17978
+paaJ," Pinene, camphor and geraniol degradation",1.29038378,Ab ATCC 17978
+paaJ, Phenylalanine metabolism,1.29038378,Ab ATCC 17978
+paaH,Phenylalanine metabolism,1.200532623,Ab ATCC 17978
+paaH, Benzoate degradation,1.200532623,Ab ATCC 17978
+paaH, Butanoate metabolism,1.200532623,Ab ATCC 17978
+paaH, Metabolic pathways,1.200532623,Ab ATCC 17978
+paaH, Microbial metabolism in diverse environments,1.200532623,Ab ATCC 17978
+paaH, Carbon metabolism,1.200532623,Ab ATCC 17978
+paaG,Phenylalanine metabolism,1.144706278,Ab ATCC 17978
+paaG, Metabolic pathways,1.144706278,Ab ATCC 17978
+paaG, Microbial metabolism in diverse environments,1.144706278,Ab ATCC 17978
+paaF,Fatty acid degradation,1.262682505,Ab ATCC 17978
+paaF," Valine, leucine and isoleucine degradation",1.262682505,Ab ATCC 17978
+paaF, Lysine degradation,1.262682505,Ab ATCC 17978
+paaF, Phenylalanine metabolism,1.262682505,Ab ATCC 17978
+paaF, Benzoate degradation,1.262682505,Ab ATCC 17978
+paaF, Tryptophan metabolism,1.262682505,Ab ATCC 17978
+paaF, beta-Alanine metabolism,1.262682505,Ab ATCC 17978
+paaF, Aminobenzoate degradation,1.262682505,Ab ATCC 17978
+paaF, Propanoate metabolism,1.262682505,Ab ATCC 17978
+paaF, Butanoate metabolism,1.262682505,Ab ATCC 17978
+paaF," Pinene, camphor and geraniol degradation",1.262682505,Ab ATCC 17978
+paaF, Caprolactam degradation,1.262682505,Ab ATCC 17978
+paaF, Metabolic pathways,1.262682505,Ab ATCC 17978
+paaF, Biosynthesis of secondary metabolites,1.262682505,Ab ATCC 17978
+paaF, Microbial metabolism in diverse environments,1.262682505,Ab ATCC 17978
+paaF, Fatty acid metabolism,1.262682505,Ab ATCC 17978
+paaE,Phenylalanine metabolism,1.10601142,Ab ATCC 17978
+paaE, Metabolic pathways,1.10601142,Ab ATCC 17978
+paaE, Microbial metabolism in diverse environments,1.10601142,Ab ATCC 17978
+paaD,Phenylalanine metabolism,1.033348169,Ab ATCC 17978
+paaD, Metabolic pathways,1.033348169,Ab ATCC 17978
+paaD, Microbial metabolism in diverse environments,1.033348169,Ab ATCC 17978
+-,D-Amino acid metabolism,1.094808982,Ab ATCC 17978
+-, Metabolic pathways,1.094808982,Ab ATCC 17978
+kdsC,Biosynthesis of various nucleotide sugars,1.757736124,Ab ATCC 17978
+kdsC, Metabolic pathways,1.757736124,Ab ATCC 17978
+kdsC, Biosynthesis of nucleotide sugars,1.757736124,Ab ATCC 17978
+kdsD,Biosynthesis of various nucleotide sugars,1.735352261,Ab ATCC 17978
+kdsD, Metabolic pathways,1.735352261,Ab ATCC 17978
+kdsD, Biosynthesis of nucleotide sugars,1.735352261,Ab ATCC 17978
+astA,Arginine and proline metabolism,1.083223756,Ab ATCC 17978
+astA, Metabolic pathways,1.083223756,Ab ATCC 17978
+rubA,Fatty acid degradation,1.162915404,Ab ATCC 17978
+nadX,Nicotinate and nicotinamide metabolism,1.541030912,Ab ATCC 17978
+nadX, Metabolic pathways,1.541030912,Ab ATCC 17978
+nadX, Biosynthesis of cofactors,1.541030912,Ab ATCC 17978
+ispE,Terpenoid backbone biosynthesis,1.415779868,Ab ATCC 17978
+ispE, Metabolic pathways,1.415779868,Ab ATCC 17978
+ispE, Biosynthesis of secondary metabolites,1.415779868,Ab ATCC 17978
+bfrA,Porphyrin metabolism,1.24584412,Ab ATCC 17978
+macB,ABC transporters,5.095818217,Ab ATCC 17978
+Z012_08070,Pantothenate and CoA biosynthesis,1.077845186,Ab ATCC 17978
+Z012_08070, Metabolic pathways,1.077845186,Ab ATCC 17978
+fabF,Fatty acid biosynthesis,1.910382582,Ab ATCC 17978
+fabF, Biotin metabolism,1.910382582,Ab ATCC 17978
+fabF, Metabolic pathways,1.910382582,Ab ATCC 17978
+fabF, Fatty acid metabolism,1.910382582,Ab ATCC 17978
+fabF, Biosynthesis of cofactors,1.910382582,Ab ATCC 17978
+fabG,Fatty acid biosynthesis,2.059757338,Ab ATCC 17978
+fabG, Prodigiosin biosynthesis,2.059757338,Ab ATCC 17978
+fabG, Biotin metabolism,2.059757338,Ab ATCC 17978
+fabG, Metabolic pathways,2.059757338,Ab ATCC 17978
+fabG, Biosynthesis of secondary metabolites,2.059757338,Ab ATCC 17978
+fabG, Fatty acid metabolism,2.059757338,Ab ATCC 17978
+fabG, Biosynthesis of cofactors,2.059757338,Ab ATCC 17978
+fabF2,Fatty acid biosynthesis,2.304578792,Ab ATCC 17978
+fabF2, Biotin metabolism,2.304578792,Ab ATCC 17978
+fabF2, Metabolic pathways,2.304578792,Ab ATCC 17978
+fabF2, Fatty acid metabolism,2.304578792,Ab ATCC 17978
+fabF2, Biosynthesis of cofactors,2.304578792,Ab ATCC 17978
+hutH,Histidine metabolism,2.085362077,Ab ATCC 17978
+hutH, Metabolic pathways,2.085362077,Ab ATCC 17978
+acpP2,Biosynthesis of various antibiotics,5.88706347,Ab ATCC 17978
+acpP2," Including: Kanosamine biosynthesis, Aurachin biosynthesis, Bacilysin biosynthesis, Puromycin biosynthesis, Dapdiamides biosynthesis, Fosfomycin biosynthesis, Cremeomycin biosynthesis, Fumagillin biosynthesis, Pentalenolactone biosynthesis, Terpentecin biosynthesis, Roseoflavin biosynthesis, Cycloserine biosynthesis",5.88706347,Ab ATCC 17978
+acpP2, Metabolic pathways,5.88706347,Ab ATCC 17978
+acpP2, Biosynthesis of secondary metabolites,5.88706347,Ab ATCC 17978
+RS00794,Biosynthesis of various antibiotics,3.163836781,Ab ATCC 17978
+RS00794," Including: Kanosamine biosynthesis, Aurachin biosynthesis, Bacilysin biosynthesis, Puromycin biosynthesis, Dapdiamides biosynthesis, Fosfomycin biosynthesis, Cremeomycin biosynthesis, Fumagillin biosynthesis, Pentalenolactone biosynthesis, Terpentecin biosynthesis, Roseoflavin biosynthesis, Cycloserine biosynthesis",3.163836781,Ab ATCC 17978
+RS00794, Metabolic pathways,3.163836781,Ab ATCC 17978
+RS00794, Biosynthesis of secondary metabolites,3.163836781,Ab ATCC 17978
+katG,Phenylalanine metabolism,1.062822189,Ab ATCC 17978
+katG, Tryptophan metabolism,1.062822189,Ab ATCC 17978
+katG, Phenylpropanoid biosynthesis,1.062822189,Ab ATCC 17978
+katG, Drug metabolism - other enzymes,1.062822189,Ab ATCC 17978
+katG, Metabolic pathways,1.062822189,Ab ATCC 17978
+katG, Biosynthesis of secondary metabolites,1.062822189,Ab ATCC 17978
+-,"Pinene, camphor and geraniol degradation",1.753076082,Ab ATCC 17978
+-, Microbial metabolism in diverse environments,1.753076082,Ab ATCC 17978
+rpmE2,Ribosome,1.099833812,Ab ATCC 17978
+algR,Two-component system,1.105463893,Ab ATCC 17978
+-,Purine metabolism,3.088568707,Ab ATCC 17978
+-, Pyrimidine metabolism,3.088568707,Ab ATCC 17978
+-, Metabolic pathways,3.088568707,Ab ATCC 17978
+-, Nucleotide metabolism,3.088568707,Ab ATCC 17978
+acnD,Citrate cycle (TCA cycle),2.086644211,Ab ATCC 17978
+acnD, Glyoxylate and dicarboxylate metabolism,2.086644211,Ab ATCC 17978
+acnD, Other carbon fixation pathways,2.086644211,Ab ATCC 17978
+acnD, Metabolic pathways,2.086644211,Ab ATCC 17978
+acnD, Biosynthesis of secondary metabolites,2.086644211,Ab ATCC 17978
+acnD, Microbial metabolism in diverse environments,2.086644211,Ab ATCC 17978
+acnD, Carbon metabolism,2.086644211,Ab ATCC 17978
+acnD, 2-Oxocarboxylic acid metabolism,2.086644211,Ab ATCC 17978
+acnD, Biosynthesis of amino acids,2.086644211,Ab ATCC 17978
+acnD, Propanoate metabolism,2.086644211,Ab ATCC 17978
+prpC,Citrate cycle (TCA cycle),2.155892119,Ab ATCC 17978
+prpC, Glyoxylate and dicarboxylate metabolism,2.155892119,Ab ATCC 17978
+prpC, Propanoate metabolism,2.155892119,Ab ATCC 17978
+prpC, Metabolic pathways,2.155892119,Ab ATCC 17978
+prpC, Biosynthesis of secondary metabolites,2.155892119,Ab ATCC 17978
+prpC, Microbial metabolism in diverse environments,2.155892119,Ab ATCC 17978
+prpC, Carbon metabolism,2.155892119,Ab ATCC 17978
+prpC, 2-Oxocarboxylic acid metabolism,2.155892119,Ab ATCC 17978
+prpC, Biosynthesis of amino acids,2.155892119,Ab ATCC 17978
+prpB,Propanoate metabolism,2.459111013,Ab ATCC 17978
+prpB, Metabolic pathways,2.459111013,Ab ATCC 17978
+prpB, Microbial metabolism in diverse environments,2.459111013,Ab ATCC 17978
+prpB, Carbon metabolism,2.459111013,Ab ATCC 17978
+nadC,Nicotinate and nicotinamide metabolism,2.529154648,Ab ATCC 17978
+nadC, Metabolic pathways,2.529154648,Ab ATCC 17978
+nadC, Biosynthesis of cofactors,2.529154648,Ab ATCC 17978
+dsbA,Cationic antimicrobial peptide (CAMP) resistance,2.434127057,Ab ATCC 17978
+argA,Arginine biosynthesis,3.458149405,Ab ATCC 17978
+argA, Metabolic pathways,3.458149405,Ab ATCC 17978
+argA, Biosynthesis of secondary metabolites,3.458149405,Ab ATCC 17978
+argA, 2-Oxocarboxylic acid metabolism,3.458149405,Ab ATCC 17978
+argA, Biosynthesis of amino acids,3.458149405,Ab ATCC 17978
+-,Glycolysis / Gluconeogenesis,1.588972793,Ab ATCC 17978
+-, Metabolic pathways,1.588972793,Ab ATCC 17978
+-, Biosynthesis of secondary metabolites,1.588972793,Ab ATCC 17978
+-, Microbial metabolism in diverse environments,1.588972793,Ab ATCC 17978
+ivd,"Valine, leucine and isoleucine degradation",1.260299205,Ab ATCC 19606
+ivd, Metabolic pathways,1.260299205,Ab ATCC 19606
+ydcW,"Glycine, serine and threonine metabolism",1.010157103,Ab ATCC 19606
+ydcW, One carbon pool by folate,1.010157103,Ab ATCC 19606
+ydcW, Metabolic pathways,1.010157103,Ab ATCC 19606
+rplT,Ribosome,1.121797411,Ab ATCC 19606
+hutI,Histidine metabolism,1.461898821,Ab ATCC 19606
+hutI, Metabolic pathways,1.461898821,Ab ATCC 19606
+hutG,Histidine metabolism,1.206609044,Ab ATCC 19606
+hutG, Metabolic pathways,1.206609044,Ab ATCC 19606
+hutG, Arginine and proline metabolism,1.206609044,Ab ATCC 19606
+hutG, Biosynthesis of secondary metabolites,1.206609044,Ab ATCC 19606
+gabT,"Alanine, aspartate and glutamate metabolism",2.038796541,
+gabT, beta-Alanine metabolism,2.038796541,
+gabT, Propanoate metabolism,2.038796541,
+gabT, Butanoate metabolism,2.038796541,
+gabT, Metabolic pathways,2.038796541,
+gabT, Microbial metabolism in diverse environments,2.038796541,
+gabT," Valine, leucine and isoleucine degradation",2.038796541,
+gabT, Lysine degradation,2.038796541,
+gabD,"Alanine, aspartate and glutamate metabolism",2.721395567,
+gabD, Lysine degradation,2.721395567,
+gabD, Tyrosine metabolism,2.721395567,
+gabD, Butanoate metabolism,2.721395567,
+gabD, Nicotinate and nicotinamide metabolism,2.721395567,
+gabD, Metabolic pathways,2.721395567,
+gabD, Microbial metabolism in diverse environments,2.721395567,
+ychM,Nitrogen metabolism,1.104367916,
+ychM, Metabolic pathways,1.104367916,
+sodC,Peroxisome,1.436437321,
+sodC, Longevity regulating pathway - multiple species,1.436437321,
+sodC, Parkinson disease,1.436437321,
+sodC, Amyotrophic lateral sclerosis,1.436437321,
+sodC, Huntington disease,1.436437321,
+sodC, Prion disease,1.436437321,
+sodC, Pathways of neurodegeneration - multiple diseases,1.436437321,
+sodC, Chemical carcinogenesis - reactive oxygen species,1.436437321,
+hemF,Porphyrin metabolism,1.160691173,
+hemF, Metabolic pathways,1.160691173,
+hemF, Biosynthesis of secondary metabolites,1.160691173,
+hemF, Biosynthesis of cofactors,1.160691173,
+ttg2C,ABC transporters,2.334050393,
+ttg2D,ABC transporters,3.123929089,
+-,ABC transporters,2.783174127,
+almA,Caprolactam degradation,1.536801492,
+almA, Microbial metabolism in diverse environments,1.536801492,
+almA, Degradation of aromatic compounds,1.536801492,
+atuC,"Pinene, camphor and geraniol degradation",1.622463983,
+atuC, Microbial metabolism in diverse environments,1.622463983,
+baeS,Two-component system,3.195316314,
+baeR,Two-component system,2.012861091,
+baeR, beta-Lactam resistance,2.012861091,
+atoB,Fatty acid degradation,1.013694559,
+atoB," Valine, leucine and isoleucine degradation",1.013694559,
+atoB, Lysine degradation,1.013694559,
+atoB, Benzoate degradation,1.013694559,
+atoB, Tryptophan metabolism,1.013694559,
+atoB, Pyruvate metabolism,1.013694559,
+atoB, Glyoxylate and dicarboxylate metabolism,1.013694559,
+atoB, Butanoate metabolism,1.013694559,
+atoB, Other carbon fixation pathways,1.013694559,
+atoB, Terpenoid backbone biosynthesis,1.013694559,
+atoB, Metabolic pathways,1.013694559,
+atoB, Biosynthesis of secondary metabolites,1.013694559,
+atoB, Microbial metabolism in diverse environments,1.013694559,
+atoB, Carbon metabolism,1.013694559,
+atoB, Fatty acid metabolism,1.013694559,
+atoB, Two-component system,1.013694559,
+atoB, Fat digestion and absorption,1.013694559,
+piuB,Sulfur metabolism,1.790570495,
+piuB, Metabolic pathways,1.790570495,
+piuB, Microbial metabolism in diverse environments,1.790570495,
+piuB, Sulfur cycle,1.790570495,
+oprM,beta-Lactam resistance,1.413877665,
+oprM, Quorum sensing,1.413877665,
+oprM, Two-component system,1.413877665,
+acrB,beta-Lactam resistance,1.690877821,
+acrB, Cationic antimicrobial peptide (CAMP) resistance,1.690877821,
+acrA,beta-Lactam resistance,1.796657209,
+acrA, Cationic antimicrobial peptide (CAMP) resistance,1.796657209,
+-,Glycerophospholipid metabolism,1.584841423,
+-, Metabolic pathways,1.584841423,
+-, Peptidoglycan biosynthesis,1.584841423,
+-, Teichoic acid biosynthesis,1.584841423,
+sucB,Citrate cycle (TCA cycle),1.121911165,
+sucB, Lysine degradation,1.121911165,
+sucB, Tryptophan metabolism,1.121911165,
+sucB, Lipoic acid metabolism,1.121911165,
+sucB, Metabolic pathways,1.121911165,
+sucB, Biosynthesis of secondary metabolites,1.121911165,
+sucB, Microbial metabolism in diverse environments,1.121911165,
+sucB, Carbon metabolism,1.121911165,
+sucB, 2-Oxocarboxylic acid metabolism,1.121911165,
+sucD,Citrate cycle (TCA cycle),1.016573486,
+sucD, Propanoate metabolism,1.016573486,
+sucD, C5-Branched dibasic acid metabolism,1.016573486,
+sucD, Other carbon fixation pathways,1.016573486,
+sucD, Metabolic pathways,1.016573486,
+sucD, Biosynthesis of secondary metabolites,1.016573486,
+sucD, Microbial metabolism in diverse environments,1.016573486,
+sucD, Carbon metabolism,1.016573486,
+groL,RNA degradation,1.198082681,
+groL, Longevity regulating pathway - worm,1.198082681,
+groL, Type I diabetes mellitus,1.198082681,
+groL, Legionellosis,1.198082681,
+groL, Tuberculosis,1.198082681,
+groL, Lipid and atherosclerosis,1.198082681,
+acrB,beta-Lactam resistance,3.139466971,
+acrB, Cationic antimicrobial peptide (CAMP) resistance,3.139466971,
+ydeP,Glyoxylate and dicarboxylate metabolism,1.337101504,
+ydeP, Methane metabolism,1.337101504,
+ydeP, Metabolic pathways,1.337101504,
+ydeP, Microbial metabolism in diverse environments,1.337101504,
+ydeP, Carbon metabolism,1.337101504,
+lolC,ABC transporters,2.150157564,
+lolD,ABC transporters,2.270347042,
+mucD,Cationic antimicrobial peptide (CAMP) resistance,2.839026879,
+mucD, Two-component system,2.839026879,
+ndh,Oxidative phosphorylation,1.087235949,
+ndh, Metabolic pathways,1.087235949,
+ampC,beta-Lactam resistance,1.412068084,
+ampC, Two-component system,1.412068084,
+sodB,MAPK signaling pathway - fly,1.200509676,
+sodB, FoxO signaling pathway,1.200509676,
+sodB, Peroxisome,1.200509676,
+sodB, Longevity regulating pathway,1.200509676,
+sodB, Longevity regulating pathway - worm,1.200509676,
+sodB, Longevity regulating pathway - multiple species,1.200509676,
+sodB, Huntington disease,1.200509676,
+sodB, Chemical carcinogenesis - reactive oxygen species,1.200509676,
+sodB, Lipid and atherosclerosis,1.200509676,
+fadE,Fatty acid degradation,2.495124834,
+fadE," Valine, leucine and isoleucine degradation",2.495124834,
+fadE, Metabolic pathways,2.495124834,
+fadE, Biosynthesis of secondary metabolites,2.495124834,
+fadE, Fatty acid metabolism,2.495124834,
+fadE, PPAR signaling pathway,2.495124834,
+fadE, Alcoholic liver disease,2.495124834,
+mrcB,Peptidoglycan biosynthesis,1.111204022,
+mrcB, Metabolic pathways,1.111204022,
+pepD,Glutathione metabolism,1.108923183,
+pepD, Metabolic pathways,1.108923183,
+gpsA,Glycerophospholipid metabolism,1.540602432,
+gpsA, Biosynthesis of secondary metabolites,1.540602432,
+pgaA,Biofilm formation - Escherichia coli,3.996131404,
+pgaB,Biofilm formation - Escherichia coli,3.732081994,
+pgaC,Exopolysaccharide biosynthesis,3.165609798,
+pgaC, Biofilm formation - Escherichia coli,3.165609798,
+-,Exopolysaccharide biosynthesis,3.221729517,
+-, Biofilm formation - Escherichia coli,3.221729517,
+moeB,Thiamine metabolism,1.420563948,
+moeB, Metabolic pathways,1.420563948,
+moeB, Biosynthesis of cofactors,1.420563948,
+moeB, Sulfur relay system,1.420563948,
+miaA,Zeatin biosynthesis,1.308236875,
+miaA, Metabolic pathways,1.308236875,
+miaA, Biosynthesis of secondary metabolites,1.308236875,
+tal,Pentose phosphate pathway,1.404413952,
+tal, Carbon fixation by Calvin cycle,1.404413952,
+tal, Metabolic pathways,1.404413952,
+tal, Biosynthesis of secondary metabolites,1.404413952,
+tal, Microbial metabolism in diverse environments,1.404413952,
+tal, Carbon metabolism,1.404413952,
+tal, Biosynthesis of amino acids,1.404413952,
+fadI,Fatty acid degradation,1.449113164,
+fadI," Valine, leucine and isoleucine degradation",1.449113164,
+fadI, Lysine degradation,1.449113164,
+fadI, Benzoate degradation,1.449113164,
+fadI, Tryptophan metabolism,1.449113164,
+fadI, Pyruvate metabolism,1.449113164,
+fadI, Glyoxylate and dicarboxylate metabolism,1.449113164,
+fadI, Butanoate metabolism,1.449113164,
+fadI, Other carbon fixation pathways,1.449113164,
+fadI, Terpenoid backbone biosynthesis,1.449113164,
+fadI, Metabolic pathways,1.449113164,
+fadI, Biosynthesis of secondary metabolites,1.449113164,
+fadI, Microbial metabolism in diverse environments,1.449113164,
+fadI, Carbon metabolism,1.449113164,
+fadI, Fatty acid metabolism,1.449113164,
+fadI, Two-component system,1.449113164,
+fadI, Fat digestion and absorption,1.449113164,
+fabG,Fatty acid biosynthesis,2.219329114,
+fabG, Prodigiosin biosynthesis,2.219329114,
+fabG, Biotin metabolism,2.219329114,
+fabG, Metabolic pathways,2.219329114,
+fabG, Biosynthesis of secondary metabolites,2.219329114,
+fabG, Fatty acid metabolism,2.219329114,
+fabG, Biosynthesis of cofactors,2.219329114,
+tusD,Sulfur relay system,2.354473398,
+-,Galactose metabolism,1.900120821,
+-, Amino sugar and nucleotide sugar metabolism,1.900120821,
+-, Metabolic pathways,1.900120821,
+-, Biosynthesis of nucleotide sugars,1.900120821,
+fumC,Citrate cycle (TCA cycle),1.908514186,
+fumC, Pyruvate metabolism,1.908514186,
+fumC, Other carbon fixation pathways,1.908514186,
+fumC, Metabolic pathways,1.908514186,
+fumC, Biosynthesis of secondary metabolites,1.908514186,
+fumC, Microbial metabolism in diverse environments,1.908514186,
+fumC, Carbon metabolism,1.908514186,
+fumC, Cushing syndrome,1.908514186,
+fumC, Pathways in cancer,1.908514186,
+fumC, Renal cell carcinoma,1.908514186,
+bamA,Mitophagy - animal,1.033924226,
+-,Pentose phosphate pathway,1.74218279,
+-, Metabolic pathways,1.74218279,
+-, Biosynthesis of secondary metabolites,1.74218279,
+catB,Chlorocyclohexane and chlorobenzene degradation,1.737405725,
+catB, Benzoate degradation,1.737405725,
+catB, Fluorobenzoate degradation,1.737405725,
+catB, Toluene degradation,1.737405725,
+catB, Metabolic pathways,1.737405725,
+catB, Microbial metabolism in diverse environments,1.737405725,
+catB, Degradation of aromatic compounds,1.737405725,
+-,Oxidative phosphorylation,1.508743112,
+-, Metabolic pathways,1.508743112,
+-,Fatty acid degradation,1.389519395,
+-," Valine, leucine and isoleucine degradation",1.389519395,
+-, beta-Alanine metabolism,1.389519395,
+-, Propanoate metabolism,1.389519395,
+-, Butanoate metabolism,1.389519395,
+-, Metabolic pathways,1.389519395,
+-, Biosynthesis of secondary metabolites,1.389519395,
+-, Microbial metabolism in diverse environments,1.389519395,
+-, Carbon metabolism,1.389519395,
+-, Fatty acid metabolism,1.389519395,
+-,beta-Lactam resistance,1.211043879,
+acrF,beta-Lactam resistance,1.358387117,
+sqrdl,Sulfur metabolism,1.036705477,
+sqrdl, Microbial metabolism in diverse environments,1.036705477,
+mfd,Nucleotide excision repair,1.258633551,
+glcB,Pyruvate metabolism,1.026960312,
+glcB, Glyoxylate and dicarboxylate metabolism,1.026960312,
+glcB, Metabolic pathways,1.026960312,
+glcB, Biosynthesis of secondary metabolites,1.026960312,
+glcB, Microbial metabolism in diverse environments,1.026960312,
+glcB, Carbon metabolism,1.026960312,
+ung,Base excision repair,1.116836724,
+ung, Primary immunodeficiency,1.116836724,
+-,Folate biosynthesis,1.419779873,
+-, Metabolic pathways,1.419779873,
+-, Biosynthesis of cofactors,1.419779873,
+fba,Glycolysis / Gluconeogenesis,1.118926045,
+fba, Pentose phosphate pathway,1.118926045,
+fba, Fructose and mannose metabolism,1.118926045,
+fba, Methane metabolism,1.118926045,
+fba, Carbon fixation by Calvin cycle,1.118926045,
+fba, Metabolic pathways,1.118926045,
+fba, Biosynthesis of secondary metabolites,1.118926045,
+fba, Microbial metabolism in diverse environments,1.118926045,
+fba, Carbon metabolism,1.118926045,
+fba, Biosynthesis of amino acids,1.118926045,
+bla,beta-Lactam resistance,1.106392682,
+gpo,Glutathione metabolism,1.112385129,
+gpo, Metabolic pathways,1.112385129,
+gpo, Thyroid hormone synthesis,1.112385129,
+gpo, Amyotrophic lateral sclerosis,1.112385129,
+gpo, Huntington disease,1.112385129,
+gpo, Pathways of neurodegeneration - multiple diseases,1.112385129,
+katE,Tryptophan metabolism,2.063354586,
+katE, Glyoxylate and dicarboxylate metabolism,2.063354586,
+katE, Metabolic pathways,2.063354586,
+katE, Biosynthesis of secondary metabolites,2.063354586,
+katE, Carbon metabolism,2.063354586,
+katE, MAPK signaling pathway - yeast,2.063354586,
+katE, MAPK signaling pathway - plant,2.063354586,
+katE, FoxO signaling pathway,2.063354586,
+katE, Peroxisome,2.063354586,
+katE, Longevity regulating pathway,2.063354586,
+katE, Longevity regulating pathway - worm,2.063354586,
+katE, Longevity regulating pathway - multiple species,2.063354586,
+katE, Amyotrophic lateral sclerosis,2.063354586,
+katE, Pathways of neurodegeneration - multiple diseases,2.063354586,
+katE, Chemical carcinogenesis - reactive oxygen species,2.063354586,
+ahpC,Apoptosis - fly,1.191242726,
+vdh,Aminobenzoate degradation,1.224939223,
+vdh, Microbial metabolism in diverse environments,1.224939223,
+aceA,Glyoxylate and dicarboxylate metabolism,1.360057236,
+aceA, Propanoate metabolism,1.360057236,
+aceA, Metabolic pathways,1.360057236,
+aceA, Biosynthesis of secondary metabolites,1.360057236,
+aceA, Microbial metabolism in diverse environments,1.360057236,
+aceA, Carbon metabolism,1.360057236,
+tesA,Biosynthesis of unsaturated fatty acids,1.267852161,
+dsdA,"Glycine, serine and threonine metabolism",1.254513515,
+dsdA, D-Amino acid metabolism,1.254513515,
+dsdA, Metabolic pathways,1.254513515,
+galM,Glycolysis / Gluconeogenesis,1.941233169,
+galM, Galactose metabolism,1.941233169,
+galM, Metabolic pathways,1.941233169,
+galM, Biosynthesis of secondary metabolites,1.941233169,
+galM, Microbial metabolism in diverse environments,1.941233169,
+algC,Fructose and mannose metabolism,1.281933623,
+algC, Amino sugar and nucleotide sugar metabolism,1.281933623,
+algC, Metabolic pathways,1.281933623,
+algC, Biosynthesis of secondary metabolites,1.281933623,
+algC, Biosynthesis of nucleotide sugars,1.281933623,
+algC, Glycolysis / Gluconeogenesis,1.281933623,
+algC, Pentose phosphate pathway,1.281933623,
+algC, Galactose metabolism,1.281933623,
+algC, Purine metabolism,1.281933623,
+algC, Starch and sucrose metabolism,1.281933623,
+algC, Streptomycin biosynthesis,1.281933623,
+algC, Microbial metabolism in diverse environments,1.281933623,
+nuoK,Oxidative phosphorylation,1.219227495,
+nuoK, Metabolic pathways,1.219227495,
+nuoJ,Oxidative phosphorylation,1.052496234,
+nuoJ, Metabolic pathways,1.052496234,
+nuoI,Oxidative phosphorylation,1.008439925,
+nuoI, Metabolic pathways,1.008439925,
+nuoH,Oxidative phosphorylation,1.116621902,
+nuoH, Metabolic pathways,1.116621902,
+rstB,Two-component system,1.478590058,
+rstA,Two-component system,2.071481733,
+metE,Cysteine and methionine metabolism,1.361823222,
+metE, Selenocompound metabolism,1.361823222,
+metE, Metabolic pathways,1.361823222,
+metE, Biosynthesis of secondary metabolites,1.361823222,
+metE, Biosynthesis of amino acids,1.361823222,
+add,Purine metabolism,1.575734603,
+add, Metabolic pathways,1.575734603,
+add, Nucleotide metabolism,1.575734603,
+add, Primary immunodeficiency,1.575734603,
+hyi,Glyoxylate and dicarboxylate metabolism,1.234447843,
+hyi, Metabolic pathways,1.234447843,
+acnA,Citrate cycle (TCA cycle),2.282295469,
+acnA, Glyoxylate and dicarboxylate metabolism,2.282295469,
+acnA, Other carbon fixation pathways,2.282295469,
+acnA, Metabolic pathways,2.282295469,
+acnA, Biosynthesis of secondary metabolites,2.282295469,
+acnA, Microbial metabolism in diverse environments,2.282295469,
+acnA, Carbon metabolism,2.282295469,
+acnA, 2-Oxocarboxylic acid metabolism,2.282295469,
+acnA, Biosynthesis of amino acids,2.282295469,
+acnA, Propanoate metabolism,2.282295469,
+macB,ABC transporters,5.167664478,
+edd,Pentose phosphate pathway,1.083995733,
+edd, Metabolic pathways,1.083995733,
+edd, Microbial metabolism in diverse environments,1.083995733,
+edd, Carbon metabolism,1.083995733,
+nudH,RNA degradation,1.01738572,
+katG,Phenylalanine metabolism,1.289583287,
+katG, Tryptophan metabolism,1.289583287,
+katG, Phenylpropanoid biosynthesis,1.289583287,
+katG, Drug metabolism - other enzymes,1.289583287,
+katG, Metabolic pathways,1.289583287,
+katG, Biosynthesis of secondary metabolites,1.289583287,
+-,"Pinene, camphor and geraniol degradation",1.167136495,
+-, Microbial metabolism in diverse environments,1.167136495,
+rpmE2,Ribosome,1.59389621,
+fadB,Fatty acid degradation,1.611188307,
+fadB," Valine, leucine and isoleucine degradation",1.611188307,
+fadB, Lysine degradation,1.611188307,
+fadB, Benzoate degradation,1.611188307,
+fadB, Tryptophan metabolism,1.611188307,
+fadB, beta-Alanine metabolism,1.611188307,
+fadB, Propanoate metabolism,1.611188307,
+fadB, Butanoate metabolism,1.611188307,
+fadB," Pinene, camphor and geraniol degradation",1.611188307,
+fadB, Caprolactam degradation,1.611188307,
+fadB, Metabolic pathways,1.611188307,
+fadB, Biosynthesis of secondary metabolites,1.611188307,
+fadB, Microbial metabolism in diverse environments,1.611188307,
+fadB, Carbon metabolism,1.611188307,
+fadB, Fatty acid metabolism,1.611188307,
+fadA,Fatty acid degradation,1.803055372,
+fadA," Valine, leucine and isoleucine degradation",1.803055372,
+fadA, Benzoate degradation,1.803055372,
+fadA, alpha-Linolenic acid metabolism,1.803055372,
+fadA, Ethylbenzene degradation,1.803055372,
+fadA," Pinene, camphor and geraniol degradation",1.803055372,
+fadA, Metabolic pathways,1.803055372,
+fadA, Biosynthesis of secondary metabolites,1.803055372,
+fadA, Microbial metabolism in diverse environments,1.803055372,
+fadA, Fatty acid metabolism,1.803055372,
+htpG,Protein processing in endoplasmic reticulum,1.41183909,
+htpG, PI3K-Akt signaling pathway,1.41183909,
+htpG, Necroptosis,1.41183909,
+htpG, Antigen processing and presentation,1.41183909,
+htpG, NOD-like receptor signaling pathway,1.41183909,
+htpG, Plant-pathogen interaction,1.41183909,
+htpG, IL-17 signaling pathway,1.41183909,
+htpG, Th17 cell differentiation,1.41183909,
+htpG, Progesterone-mediated oocyte maturation,1.41183909,
+htpG, Estrogen signaling pathway,1.41183909,
+htpG, Salmonella infection,1.41183909,
+htpG, Pathways in cancer,1.41183909,
+htpG, Chemical carcinogenesis - receptor activation,1.41183909,
+htpG, Prostate cancer,1.41183909,
+htpG, Lipid and atherosclerosis,1.41183909,
+htpG, Fluid shear stress and atherosclerosis,1.41183909,
+-,Purine metabolism,2.826997228,
+-, Pyrimidine metabolism,2.826997228,
+-, Metabolic pathways,2.826997228,
+-, Nucleotide metabolism,2.826997228,
+btuE,Glutathione metabolism,1.587707573,
+btuE, Metabolic pathways,1.587707573,
+btuE, Thyroid hormone synthesis,1.587707573,
+btuE, Amyotrophic lateral sclerosis,1.587707573,
+btuE, Huntington disease,1.587707573,
+btuE, Pathways of neurodegeneration - multiple diseases,1.587707573,
+maeA,Pyruvate metabolism,1.115495521,
+maeA, Carbon metabolism,1.115495521,
+maeA, Two-component system,1.115495521,
+maeA, Carbon fixation by Calvin cycle,1.115495521,
+maeA, Metabolic pathways,1.115495521,
+maeA, Microbial metabolism in diverse environments,1.115495521,
+maeA, PPAR signaling pathway,1.115495521,
+gstA,Glutathione metabolism,1.165649566,
+gstA, Metabolism of xenobiotics by cytochrome P450,1.165649566,
+gstA, Drug metabolism - cytochrome P450,1.165649566,
+gstA, Drug metabolism - other enzymes,1.165649566,
+gstA, Metabolic pathways,1.165649566,
+gstA, Platinum drug resistance,1.165649566,
+gstA, Longevity regulating pathway - worm,1.165649566,
+gstA, Pathways in cancer,1.165649566,
+gstA, Chemical carcinogenesis - DNA adducts,1.165649566,
+gstA, Chemical carcinogenesis - receptor activation,1.165649566,
+gstA, Chemical carcinogenesis - reactive oxygen species,1.165649566,
+gstA, Hepatocellular carcinoma,1.165649566,
+gstA, Fluid shear stress and atherosclerosis,1.165649566,
+acnD,Citrate cycle (TCA cycle),1.418464284,
+acnD, Glyoxylate and dicarboxylate metabolism,1.418464284,
+acnD, Other carbon fixation pathways,1.418464284,
+acnD, Metabolic pathways,1.418464284,
+acnD, Biosynthesis of secondary metabolites,1.418464284,
+acnD, Microbial metabolism in diverse environments,1.418464284,
+acnD, Carbon metabolism,1.418464284,
+acnD, 2-Oxocarboxylic acid metabolism,1.418464284,
+acnD, Biosynthesis of amino acids,1.418464284,
+acnD, Propanoate metabolism,1.418464284,
+prpC,Citrate cycle (TCA cycle),1.169321355,
+prpC, Glyoxylate and dicarboxylate metabolism,1.169321355,
+prpC, Propanoate metabolism,1.169321355,
+prpC, Metabolic pathways,1.169321355,
+prpC, Biosynthesis of secondary metabolites,1.169321355,
+prpC, Microbial metabolism in diverse environments,1.169321355,
+prpC, Carbon metabolism,1.169321355,
+prpC, 2-Oxocarboxylic acid metabolism,1.169321355,
+prpC, Biosynthesis of amino acids,1.169321355,
+manB,Fructose and mannose metabolism,1.479688452,
+manB, Amino sugar and nucleotide sugar metabolism,1.479688452,
+manB, Metabolic pathways,1.479688452,
+manB, Biosynthesis of secondary metabolites,1.479688452,
+manB, Biosynthesis of nucleotide sugars,1.479688452,
+manB, Glycolysis / Gluconeogenesis,1.479688452,
+manB, Pentose phosphate pathway,1.479688452,
+manB, Galactose metabolism,1.479688452,
+manB, Purine metabolism,1.479688452,
+manB, Starch and sucrose metabolism,1.479688452,
+manB, Streptomycin biosynthesis,1.479688452,
+manB, Microbial metabolism in diverse environments,1.479688452,
+nadC,Nicotinate and nicotinamide metabolism,2.146201736,
+nadC, Metabolic pathways,2.146201736,
+nadC, Biosynthesis of cofactors,2.146201736,
+-,Aminobenzoate degradation,1.157013478,
+-, Microbial metabolism in diverse environments,1.157013478,
+dsbA,Cationic antimicrobial peptide (CAMP) resistance,2.795494896,
+ubiG,Ubiquinone and other terpenoid-quinone biosynthesis,1.085287599,
+ubiG, Metabolic pathways,1.085287599,
+ubiG, Biosynthesis of secondary metabolites,1.085287599,
+ubiG, Biosynthesis of cofactors,1.085287599,
+argA,Arginine biosynthesis,3.196832286,
+argA, Metabolic pathways,3.196832286,
+argA, Biosynthesis of secondary metabolites,3.196832286,
+argA, 2-Oxocarboxylic acid metabolism,3.196832286,
+argA, Biosynthesis of amino acids,3.196832286,
+-,Glycolysis / Gluconeogenesis,1.180820531,
+-, Metabolic pathways,1.180820531,
+-, Biosynthesis of secondary metabolites,1.180820531,
+-, Microbial metabolism in diverse environments,1.180820531,
+-,beta-Lactam resistance,2.120096554,
+-, Cationic antimicrobial peptide (CAMP) resistance,2.120096554,
+glmU,Amino sugar and nucleotide sugar metabolism,1.067521045,
+glmU, Biosynthesis of various nucleotide sugars,1.067521045,
+glmU, Metabolic pathways,1.067521045,
+glmU, Biosynthesis of nucleotide sugars,1.067521045,
+uvrA,Nucleotide excision repair,1.190113749,
+gabT,"Alanine, aspartate and glutamate metabolism",2.502764672,Ab ATCC 19606
+gabT, beta-Alanine metabolism,2.502764672,Ab ATCC 19606
+gabT, Propanoate metabolism,2.502764672,Ab ATCC 19606
+gabT, Butanoate metabolism,2.502764672,Ab ATCC 19606
+gabT, Metabolic pathways,2.502764672,Ab ATCC 19606
+gabT, Microbial metabolism in diverse environments,2.502764672,Ab ATCC 19606
+gabT," Valine, leucine and isoleucine degradation",2.502764672,Ab ATCC 19606
+gabT, Lysine degradation,2.502764672,Ab ATCC 19606
+gabD,"Alanine, aspartate and glutamate metabolism",2.520045543,Ab ATCC 19606
+gabD, Lysine degradation,2.520045543,Ab ATCC 19606
+gabD, Tyrosine metabolism,2.520045543,Ab ATCC 19606
+gabD, Butanoate metabolism,2.520045543,Ab ATCC 19606
+gabD, Nicotinate and nicotinamide metabolism,2.520045543,Ab ATCC 19606
+gabD, Metabolic pathways,2.520045543,Ab ATCC 19606
+gabD, Microbial metabolism in diverse environments,2.520045543,Ab ATCC 19606
+sodC,Peroxisome,1.15451388,Ab ATCC 19606
+sodC, Longevity regulating pathway - multiple species,1.15451388,Ab ATCC 19606
+sodC, Parkinson disease,1.15451388,Ab ATCC 19606
+sodC, Amyotrophic lateral sclerosis,1.15451388,Ab ATCC 19606
+sodC, Huntington disease,1.15451388,Ab ATCC 19606
+sodC, Prion disease,1.15451388,Ab ATCC 19606
+sodC, Pathways of neurodegeneration - multiple diseases,1.15451388,Ab ATCC 19606
+sodC, Chemical carcinogenesis - reactive oxygen species,1.15451388,Ab ATCC 19606
+ttg2C,ABC transporters,2.660028598,Ab ATCC 19606
+ttg2D,ABC transporters,3.408374962,Ab ATCC 19606
+-,ABC transporters,3.331589025,Ab ATCC 19606
+almA,Caprolactam degradation,2.009107163,Ab ATCC 19606
+almA, Microbial metabolism in diverse environments,2.009107163,Ab ATCC 19606
+almA, Degradation of aromatic compounds,2.009107163,Ab ATCC 19606
+xpt,Purine metabolism,1.26983173,Ab ATCC 19606
+xpt, Metabolic pathways,1.26983173,Ab ATCC 19606
+xpt, Biosynthesis of secondary metabolites,1.26983173,Ab ATCC 19606
+xpt, Nucleotide metabolism,1.26983173,Ab ATCC 19606
+baeS,Two-component system,3.110665814,Ab ATCC 19606
+baeR,Two-component system,2.048681669,Ab ATCC 19606
+baeR, beta-Lactam resistance,2.048681669,Ab ATCC 19606
+oprM,beta-Lactam resistance,1.483041311,Ab ATCC 19606
+oprM, Quorum sensing,1.483041311,Ab ATCC 19606
+oprM, Two-component system,1.483041311,Ab ATCC 19606
+acrB,beta-Lactam resistance,1.78891917,Ab ATCC 19606
+acrB, Cationic antimicrobial peptide (CAMP) resistance,1.78891917,Ab ATCC 19606
+acrA,beta-Lactam resistance,1.793305925,Ab ATCC 19606
+acrA, Cationic antimicrobial peptide (CAMP) resistance,1.793305925,Ab ATCC 19606
+-,Glycerophospholipid metabolism,1.643803278,Ab ATCC 19606
+-, Metabolic pathways,1.643803278,Ab ATCC 19606
+-, Peptidoglycan biosynthesis,1.643803278,Ab ATCC 19606
+-, Teichoic acid biosynthesis,1.643803278,Ab ATCC 19606
+groL,RNA degradation,1.082765156,Ab ATCC 19606
+groL, Longevity regulating pathway - worm,1.082765156,Ab ATCC 19606
+groL, Type I diabetes mellitus,1.082765156,Ab ATCC 19606
+groL, Legionellosis,1.082765156,Ab ATCC 19606
+groL, Tuberculosis,1.082765156,Ab ATCC 19606
+groL, Lipid and atherosclerosis,1.082765156,Ab ATCC 19606
+acrB,beta-Lactam resistance,2.907033111,Ab ATCC 19606
+acrB, Cationic antimicrobial peptide (CAMP) resistance,2.907033111,Ab ATCC 19606
+ydeP,Glyoxylate and dicarboxylate metabolism,1.019230636,Ab ATCC 19606
+ydeP, Methane metabolism,1.019230636,Ab ATCC 19606
+ydeP, Metabolic pathways,1.019230636,Ab ATCC 19606
+ydeP, Microbial metabolism in diverse environments,1.019230636,Ab ATCC 19606
+ydeP, Carbon metabolism,1.019230636,Ab ATCC 19606
+lolC,ABC transporters,2.652333076,Ab ATCC 19606
+lolD,ABC transporters,2.414387721,Ab ATCC 19606
+queC,Folate biosynthesis,1.132735708,Ab ATCC 19606
+queC, Metabolic pathways,1.132735708,Ab ATCC 19606
+mucD,Cationic antimicrobial peptide (CAMP) resistance,2.187299638,Ab ATCC 19606
+mucD, Two-component system,2.187299638,Ab ATCC 19606
+ndh,Oxidative phosphorylation,1.225883593,Ab ATCC 19606
+ndh, Metabolic pathways,1.225883593,Ab ATCC 19606
+ddc,"Glycine, serine and threonine metabolism",1.026418197,Ab ATCC 19606
+ddc, Metabolic pathways,1.026418197,Ab ATCC 19606
+ddc, Microbial metabolism in diverse environments,1.026418197,Ab ATCC 19606
+ampC,beta-Lactam resistance,1.044270293,Ab ATCC 19606
+ampC, Two-component system,1.044270293,Ab ATCC 19606
+fadE,Fatty acid degradation,1.788273846,Ab ATCC 19606
+fadE," Valine, leucine and isoleucine degradation",1.788273846,Ab ATCC 19606
+fadE, Metabolic pathways,1.788273846,Ab ATCC 19606
+fadE, Biosynthesis of secondary metabolites,1.788273846,Ab ATCC 19606
+fadE, Fatty acid metabolism,1.788273846,Ab ATCC 19606
+fadE, PPAR signaling pathway,1.788273846,Ab ATCC 19606
+fadE, Alcoholic liver disease,1.788273846,Ab ATCC 19606
+gpsA,Glycerophospholipid metabolism,1.096317866,Ab ATCC 19606
+gpsA, Biosynthesis of secondary metabolites,1.096317866,Ab ATCC 19606
+pgaA,Biofilm formation - Escherichia coli,3.420608693,Ab ATCC 19606
+pgaB,Biofilm formation - Escherichia coli,3.248717537,Ab ATCC 19606
+pgaC,Exopolysaccharide biosynthesis,3.307886849,Ab ATCC 19606
+pgaC, Biofilm formation - Escherichia coli,3.307886849,Ab ATCC 19606
+-,Exopolysaccharide biosynthesis,2.396191399,Ab ATCC 19606
+-, Biofilm formation - Escherichia coli,2.396191399,Ab ATCC 19606
+moeB,Thiamine metabolism,1.403963974,Ab ATCC 19606
+moeB, Metabolic pathways,1.403963974,Ab ATCC 19606
+moeB, Biosynthesis of cofactors,1.403963974,Ab ATCC 19606
+moeB, Sulfur relay system,1.403963974,Ab ATCC 19606
+nfnB,Nitrotoluene degradation,1.057976478,Ab ATCC 19606
+nfnB, Microbial metabolism in diverse environments,1.057976478,Ab ATCC 19606
+tal,Pentose phosphate pathway,1.187797012,Ab ATCC 19606
+tal, Carbon fixation by Calvin cycle,1.187797012,Ab ATCC 19606
+tal, Metabolic pathways,1.187797012,Ab ATCC 19606
+tal, Biosynthesis of secondary metabolites,1.187797012,Ab ATCC 19606
+tal, Microbial metabolism in diverse environments,1.187797012,Ab ATCC 19606
+tal, Carbon metabolism,1.187797012,Ab ATCC 19606
+tal, Biosynthesis of amino acids,1.187797012,Ab ATCC 19606
+fadI,Fatty acid degradation,2.272104706,Ab ATCC 19606
+fadI," Valine, leucine and isoleucine degradation",2.272104706,Ab ATCC 19606
+fadI, Lysine degradation,2.272104706,Ab ATCC 19606
+fadI, Benzoate degradation,2.272104706,Ab ATCC 19606
+fadI, Tryptophan metabolism,2.272104706,Ab ATCC 19606
+fadI, Pyruvate metabolism,2.272104706,Ab ATCC 19606
+fadI, Glyoxylate and dicarboxylate metabolism,2.272104706,Ab ATCC 19606
+fadI, Butanoate metabolism,2.272104706,Ab ATCC 19606
+fadI, Other carbon fixation pathways,2.272104706,Ab ATCC 19606
+fadI, Terpenoid backbone biosynthesis,2.272104706,Ab ATCC 19606
+fadI, Metabolic pathways,2.272104706,Ab ATCC 19606
+fadI, Biosynthesis of secondary metabolites,2.272104706,Ab ATCC 19606
+fadI, Microbial metabolism in diverse environments,2.272104706,Ab ATCC 19606
+fadI, Carbon metabolism,2.272104706,Ab ATCC 19606
+fadI, Fatty acid metabolism,2.272104706,Ab ATCC 19606
+fadI, Two-component system,2.272104706,Ab ATCC 19606
+fadI, Fat digestion and absorption,2.272104706,Ab ATCC 19606
+fabG,Fatty acid biosynthesis,2.465987105,Ab ATCC 19606
+fabG, Prodigiosin biosynthesis,2.465987105,Ab ATCC 19606
+fabG, Biotin metabolism,2.465987105,Ab ATCC 19606
+fabG, Metabolic pathways,2.465987105,Ab ATCC 19606
+fabG, Biosynthesis of secondary metabolites,2.465987105,Ab ATCC 19606
+fabG, Fatty acid metabolism,2.465987105,Ab ATCC 19606
+fabG, Biosynthesis of cofactors,2.465987105,Ab ATCC 19606
+tusD,Sulfur relay system,1.453148429,Ab ATCC 19606
+-,Galactose metabolism,1.709470272,Ab ATCC 19606
+-, Amino sugar and nucleotide sugar metabolism,1.709470272,Ab ATCC 19606
+-, Metabolic pathways,1.709470272,Ab ATCC 19606
+-, Biosynthesis of nucleotide sugars,1.709470272,Ab ATCC 19606
+fumC,Citrate cycle (TCA cycle),1.308189782,Ab ATCC 19606
+fumC, Pyruvate metabolism,1.308189782,Ab ATCC 19606
+fumC, Other carbon fixation pathways,1.308189782,Ab ATCC 19606
+fumC, Metabolic pathways,1.308189782,Ab ATCC 19606
+fumC, Biosynthesis of secondary metabolites,1.308189782,Ab ATCC 19606
+fumC, Microbial metabolism in diverse environments,1.308189782,Ab ATCC 19606
+fumC, Carbon metabolism,1.308189782,Ab ATCC 19606
+fumC, Cushing syndrome,1.308189782,Ab ATCC 19606
+fumC, Pathways in cancer,1.308189782,Ab ATCC 19606
+fumC, Renal cell carcinoma,1.308189782,Ab ATCC 19606
+bamA,Mitophagy - animal,1.062519342,Ab ATCC 19606
+kynU,Tryptophan metabolism,2.05432922,Ab ATCC 19606
+kynU, Metabolic pathways,2.05432922,Ab ATCC 19606
+kynU, Biosynthesis of cofactors,2.05432922,Ab ATCC 19606
+catB,Chlorocyclohexane and chlorobenzene degradation,1.636604887,Ab ATCC 19606
+catB, Benzoate degradation,1.636604887,Ab ATCC 19606
+catB, Fluorobenzoate degradation,1.636604887,Ab ATCC 19606
+catB, Toluene degradation,1.636604887,Ab ATCC 19606
+catB, Metabolic pathways,1.636604887,Ab ATCC 19606
+catB, Microbial metabolism in diverse environments,1.636604887,Ab ATCC 19606
+catB, Degradation of aromatic compounds,1.636604887,Ab ATCC 19606
+-,Fatty acid degradation,1.038463494,Ab ATCC 19606
+-," Valine, leucine and isoleucine degradation",1.038463494,Ab ATCC 19606
+-, beta-Alanine metabolism,1.038463494,Ab ATCC 19606
+-, Propanoate metabolism,1.038463494,Ab ATCC 19606
+-, Butanoate metabolism,1.038463494,Ab ATCC 19606
+-, Metabolic pathways,1.038463494,Ab ATCC 19606
+-, Biosynthesis of secondary metabolites,1.038463494,Ab ATCC 19606
+-, Microbial metabolism in diverse environments,1.038463494,Ab ATCC 19606
+-, Carbon metabolism,1.038463494,Ab ATCC 19606
+-, Fatty acid metabolism,1.038463494,Ab ATCC 19606
+aldH,Pentose and glucuronate interconversions,1.810730472,Ab ATCC 19606
+aldH, Ascorbate and aldarate metabolism,1.810730472,Ab ATCC 19606
+aldH, D-Amino acid metabolism,1.810730472,Ab ATCC 19606
+aldH, Metabolic pathways,1.810730472,Ab ATCC 19606
+yahK,Glycolysis / Gluconeogenesis,1.258239406,Ab ATCC 19606
+yahK, Glycerolipid metabolism,1.258239406,Ab ATCC 19606
+yahK, Pyruvate metabolism,1.258239406,Ab ATCC 19606
+yahK, Metabolic pathways,1.258239406,Ab ATCC 19606
+yahK, Biosynthesis of secondary metabolites,1.258239406,Ab ATCC 19606
+yahK, Microbial metabolism in diverse environments,1.258239406,Ab ATCC 19606
+acrF,beta-Lactam resistance,1.30552283,Ab ATCC 19606
+yhcR,Purine metabolism,1.409019723,Ab ATCC 19606
+yhcR, Pyrimidine metabolism,1.409019723,Ab ATCC 19606
+yhcR, Nicotinate and nicotinamide metabolism,1.409019723,Ab ATCC 19606
+yhcR, Metabolic pathways,1.409019723,Ab ATCC 19606
+yhcR, Biosynthesis of secondary metabolites,1.409019723,Ab ATCC 19606
+yhcR, Nucleotide metabolism,1.409019723,Ab ATCC 19606
+bdhA,Butanoate metabolism,1.138562667,Ab ATCC 19606
+bdhA, Metabolic pathways,1.138562667,Ab ATCC 19606
+phaC,Butanoate metabolism,1.259529717,Ab ATCC 19606
+phaC, Metabolic pathways,1.259529717,Ab ATCC 19606
+-,Folate biosynthesis,1.617572933,Ab ATCC 19606
+-, Metabolic pathways,1.617572933,Ab ATCC 19606
+-, Biosynthesis of cofactors,1.617572933,Ab ATCC 19606
+yfcF,Glutathione metabolism,1.373583847,Ab ATCC 19606
+yfcF, Metabolism of xenobiotics by cytochrome P450,1.373583847,Ab ATCC 19606
+yfcF, Drug metabolism - cytochrome P450,1.373583847,Ab ATCC 19606
+yfcF, Drug metabolism - other enzymes,1.373583847,Ab ATCC 19606
+yfcF, Metabolic pathways,1.373583847,Ab ATCC 19606
+yfcF, Platinum drug resistance,1.373583847,Ab ATCC 19606
+yfcF, Longevity regulating pathway - worm,1.373583847,Ab ATCC 19606
+yfcF, Pathways in cancer,1.373583847,Ab ATCC 19606
+yfcF, Chemical carcinogenesis - DNA adducts,1.373583847,Ab ATCC 19606
+yfcF, Chemical carcinogenesis - receptor activation,1.373583847,Ab ATCC 19606
+yfcF, Chemical carcinogenesis - reactive oxygen species,1.373583847,Ab ATCC 19606
+yfcF, Hepatocellular carcinoma,1.373583847,Ab ATCC 19606
+yfcF, Fluid shear stress and atherosclerosis,1.373583847,Ab ATCC 19606
+katE,Tryptophan metabolism,1.863650316,Ab ATCC 19606
+katE, Glyoxylate and dicarboxylate metabolism,1.863650316,Ab ATCC 19606
+katE, Metabolic pathways,1.863650316,Ab ATCC 19606
+katE, Biosynthesis of secondary metabolites,1.863650316,Ab ATCC 19606
+katE, Carbon metabolism,1.863650316,Ab ATCC 19606
+katE, MAPK signaling pathway - yeast,1.863650316,Ab ATCC 19606
+katE, MAPK signaling pathway - plant,1.863650316,Ab ATCC 19606
+katE, FoxO signaling pathway,1.863650316,Ab ATCC 19606
+katE, Peroxisome,1.863650316,Ab ATCC 19606
+katE, Longevity regulating pathway,1.863650316,Ab ATCC 19606
+katE, Longevity regulating pathway - worm,1.863650316,Ab ATCC 19606
+katE, Longevity regulating pathway - multiple species,1.863650316,Ab ATCC 19606
+katE, Amyotrophic lateral sclerosis,1.863650316,Ab ATCC 19606
+katE, Pathways of neurodegeneration - multiple diseases,1.863650316,Ab ATCC 19606
+katE, Chemical carcinogenesis - reactive oxygen species,1.863650316,Ab ATCC 19606
+kdsD,Biosynthesis of various nucleotide sugars,1.190376251,Ab ATCC 19606
+kdsD, Metabolic pathways,1.190376251,Ab ATCC 19606
+kdsD, Biosynthesis of nucleotide sugars,1.190376251,Ab ATCC 19606
+ahpC,Apoptosis - fly,1.125886575,Ab ATCC 19606
+acdS,Fatty acid degradation,1.824297387,Ab ATCC 19606
+acdS," Valine, leucine and isoleucine degradation",1.824297387,Ab ATCC 19606
+acdS, beta-Alanine metabolism,1.824297387,Ab ATCC 19606
+acdS, Propanoate metabolism,1.824297387,Ab ATCC 19606
+acdS, Butanoate metabolism,1.824297387,Ab ATCC 19606
+acdS, Metabolic pathways,1.824297387,Ab ATCC 19606
+acdS, Biosynthesis of secondary metabolites,1.824297387,Ab ATCC 19606
+acdS, Microbial metabolism in diverse environments,1.824297387,Ab ATCC 19606
+acdS, Carbon metabolism,1.824297387,Ab ATCC 19606
+acdS, Fatty acid metabolism,1.824297387,Ab ATCC 19606
+vdh,Aminobenzoate degradation,1.61612081,Ab ATCC 19606
+vdh, Microbial metabolism in diverse environments,1.61612081,Ab ATCC 19606
+lon,Cell cycle - Caulobacter,1.072038558,Ab ATCC 19606
+aceA,Glyoxylate and dicarboxylate metabolism,1.316811674,Ab ATCC 19606
+aceA, Propanoate metabolism,1.316811674,Ab ATCC 19606
+aceA, Metabolic pathways,1.316811674,Ab ATCC 19606
+aceA, Biosynthesis of secondary metabolites,1.316811674,Ab ATCC 19606
+aceA, Microbial metabolism in diverse environments,1.316811674,Ab ATCC 19606
+aceA, Carbon metabolism,1.316811674,Ab ATCC 19606
+tesA,Biosynthesis of unsaturated fatty acids,1.131529456,Ab ATCC 19606
+galM,Glycolysis / Gluconeogenesis,1.453244566,Ab ATCC 19606
+galM, Galactose metabolism,1.453244566,Ab ATCC 19606
+galM, Metabolic pathways,1.453244566,Ab ATCC 19606
+galM, Biosynthesis of secondary metabolites,1.453244566,Ab ATCC 19606
+galM, Microbial metabolism in diverse environments,1.453244566,Ab ATCC 19606
+algC,Fructose and mannose metabolism,1.228834518,Ab ATCC 19606
+algC, Amino sugar and nucleotide sugar metabolism,1.228834518,Ab ATCC 19606
+algC, Metabolic pathways,1.228834518,Ab ATCC 19606
+algC, Biosynthesis of secondary metabolites,1.228834518,Ab ATCC 19606
+algC, Biosynthesis of nucleotide sugars,1.228834518,Ab ATCC 19606
+algC, Glycolysis / Gluconeogenesis,1.228834518,Ab ATCC 19606
+algC, Pentose phosphate pathway,1.228834518,Ab ATCC 19606
+algC, Galactose metabolism,1.228834518,Ab ATCC 19606
+algC, Purine metabolism,1.228834518,Ab ATCC 19606
+algC, Starch and sucrose metabolism,1.228834518,Ab ATCC 19606
+algC, Streptomycin biosynthesis,1.228834518,Ab ATCC 19606
+algC, Microbial metabolism in diverse environments,1.228834518,Ab ATCC 19606
+nadE,Nicotinate and nicotinamide metabolism,1.06742688,Ab ATCC 19606
+nadE, Metabolic pathways,1.06742688,Ab ATCC 19606
+nadE, Biosynthesis of cofactors,1.06742688,Ab ATCC 19606
+rstB,Two-component system,1.246215597,Ab ATCC 19606
+rstA,Two-component system,1.734864529,Ab ATCC 19606
+-,Pyrimidine metabolism,1.010927737,Ab ATCC 19606
+-, Metabolic pathways,1.010927737,Ab ATCC 19606
+metE,Cysteine and methionine metabolism,1.169759951,Ab ATCC 19606
+metE, Selenocompound metabolism,1.169759951,Ab ATCC 19606
+metE, Metabolic pathways,1.169759951,Ab ATCC 19606
+metE, Biosynthesis of secondary metabolites,1.169759951,Ab ATCC 19606
+metE, Biosynthesis of amino acids,1.169759951,Ab ATCC 19606
+add,Purine metabolism,1.837535014,Ab ATCC 19606
+add, Metabolic pathways,1.837535014,Ab ATCC 19606
+add, Nucleotide metabolism,1.837535014,Ab ATCC 19606
+add, Primary immunodeficiency,1.837535014,Ab ATCC 19606
+hyi,Glyoxylate and dicarboxylate metabolism,1.318257337,Ab ATCC 19606
+hyi, Metabolic pathways,1.318257337,Ab ATCC 19606
+acnA,Citrate cycle (TCA cycle),1.790342878,Ab ATCC 19606
+acnA, Glyoxylate and dicarboxylate metabolism,1.790342878,Ab ATCC 19606
+acnA, Other carbon fixation pathways,1.790342878,Ab ATCC 19606
+acnA, Metabolic pathways,1.790342878,Ab ATCC 19606
+acnA, Biosynthesis of secondary metabolites,1.790342878,Ab ATCC 19606
+acnA, Microbial metabolism in diverse environments,1.790342878,Ab ATCC 19606
+acnA, Carbon metabolism,1.790342878,Ab ATCC 19606
+acnA, 2-Oxocarboxylic acid metabolism,1.790342878,Ab ATCC 19606
+acnA, Biosynthesis of amino acids,1.790342878,Ab ATCC 19606
+acnA, Propanoate metabolism,1.790342878,Ab ATCC 19606
+macB,ABC transporters,5.24457539,Ab ATCC 19606
+katG,Phenylalanine metabolism,1.246733151,Ab ATCC 19606
+katG, Tryptophan metabolism,1.246733151,Ab ATCC 19606
+katG, Phenylpropanoid biosynthesis,1.246733151,Ab ATCC 19606
+katG, Drug metabolism - other enzymes,1.246733151,Ab ATCC 19606
+katG, Metabolic pathways,1.246733151,Ab ATCC 19606
+katG, Biosynthesis of secondary metabolites,1.246733151,Ab ATCC 19606
+-,"Pinene, camphor and geraniol degradation",1.145450229,Ab ATCC 19606
+-, Microbial metabolism in diverse environments,1.145450229,Ab ATCC 19606
+rpmE2,Ribosome,1.655211396,Ab ATCC 19606
+fadB,Fatty acid degradation,1.624913407,Ab ATCC 19606
+fadB," Valine, leucine and isoleucine degradation",1.624913407,Ab ATCC 19606
+fadB, Lysine degradation,1.624913407,Ab ATCC 19606
+fadB, Benzoate degradation,1.624913407,Ab ATCC 19606
+fadB, Tryptophan metabolism,1.624913407,Ab ATCC 19606
+fadB, beta-Alanine metabolism,1.624913407,Ab ATCC 19606
+fadB, Propanoate metabolism,1.624913407,Ab ATCC 19606
+fadB, Butanoate metabolism,1.624913407,Ab ATCC 19606
+fadB," Pinene, camphor and geraniol degradation",1.624913407,Ab ATCC 19606
+fadB, Caprolactam degradation,1.624913407,Ab ATCC 19606
+fadB, Metabolic pathways,1.624913407,Ab ATCC 19606
+fadB, Biosynthesis of secondary metabolites,1.624913407,Ab ATCC 19606
+fadB, Microbial metabolism in diverse environments,1.624913407,Ab ATCC 19606
+fadB, Carbon metabolism,1.624913407,Ab ATCC 19606
+fadB, Fatty acid metabolism,1.624913407,Ab ATCC 19606
+fadA,Fatty acid degradation,1.865922844,Ab ATCC 19606
+fadA," Valine, leucine and isoleucine degradation",1.865922844,Ab ATCC 19606
+fadA, Benzoate degradation,1.865922844,Ab ATCC 19606
+fadA, alpha-Linolenic acid metabolism,1.865922844,Ab ATCC 19606
+fadA, Ethylbenzene degradation,1.865922844,Ab ATCC 19606
+fadA," Pinene, camphor and geraniol degradation",1.865922844,Ab ATCC 19606
+fadA, Metabolic pathways,1.865922844,Ab ATCC 19606
+fadA, Biosynthesis of secondary metabolites,1.865922844,Ab ATCC 19606
+fadA, Microbial metabolism in diverse environments,1.865922844,Ab ATCC 19606
+fadA, Fatty acid metabolism,1.865922844,Ab ATCC 19606
+-,Purine metabolism,2.660962081,Ab ATCC 19606
+-, Pyrimidine metabolism,2.660962081,Ab ATCC 19606
+-, Metabolic pathways,2.660962081,Ab ATCC 19606
+-, Nucleotide metabolism,2.660962081,Ab ATCC 19606
+btuE,Glutathione metabolism,1.387391152,Ab ATCC 19606
+btuE, Metabolic pathways,1.387391152,Ab ATCC 19606
+btuE, Thyroid hormone synthesis,1.387391152,Ab ATCC 19606
+btuE, Amyotrophic lateral sclerosis,1.387391152,Ab ATCC 19606
+btuE, Huntington disease,1.387391152,Ab ATCC 19606
+btuE, Pathways of neurodegeneration - multiple diseases,1.387391152,Ab ATCC 19606
+gstA,Glutathione metabolism,1.208760792,Ab ATCC 19606
+gstA, Metabolism of xenobiotics by cytochrome P450,1.208760792,Ab ATCC 19606
+gstA, Drug metabolism - cytochrome P450,1.208760792,Ab ATCC 19606
+gstA, Drug metabolism - other enzymes,1.208760792,Ab ATCC 19606
+gstA, Metabolic pathways,1.208760792,Ab ATCC 19606
+gstA, Platinum drug resistance,1.208760792,Ab ATCC 19606
+gstA, Longevity regulating pathway - worm,1.208760792,Ab ATCC 19606
+gstA, Pathways in cancer,1.208760792,Ab ATCC 19606
+gstA, Chemical carcinogenesis - DNA adducts,1.208760792,Ab ATCC 19606
+gstA, Chemical carcinogenesis - receptor activation,1.208760792,Ab ATCC 19606
+gstA, Chemical carcinogenesis - reactive oxygen species,1.208760792,Ab ATCC 19606
+gstA, Hepatocellular carcinoma,1.208760792,Ab ATCC 19606
+gstA, Fluid shear stress and atherosclerosis,1.208760792,Ab ATCC 19606
+lldD,Pyruvate metabolism,1.328620385,Ab ATCC 19606
+lldD, Metabolic pathways,1.328620385,Ab ATCC 19606
+manB,Fructose and mannose metabolism,1.201413534,Ab ATCC 19606
+manB, Amino sugar and nucleotide sugar metabolism,1.201413534,Ab ATCC 19606
+manB, Metabolic pathways,1.201413534,Ab ATCC 19606
+manB, Biosynthesis of secondary metabolites,1.201413534,Ab ATCC 19606
+manB, Biosynthesis of nucleotide sugars,1.201413534,Ab ATCC 19606
+manB, Glycolysis / Gluconeogenesis,1.201413534,Ab ATCC 19606
+manB, Pentose phosphate pathway,1.201413534,Ab ATCC 19606
+manB, Galactose metabolism,1.201413534,Ab ATCC 19606
+manB, Purine metabolism,1.201413534,Ab ATCC 19606
+manB, Starch and sucrose metabolism,1.201413534,Ab ATCC 19606
+manB, Streptomycin biosynthesis,1.201413534,Ab ATCC 19606
+manB, Microbial metabolism in diverse environments,1.201413534,Ab ATCC 19606
+nadC,Nicotinate and nicotinamide metabolism,2.413757437,Ab ATCC 19606
+nadC, Metabolic pathways,2.413757437,Ab ATCC 19606
+nadC, Biosynthesis of cofactors,2.413757437,Ab ATCC 19606
+dsbA,Cationic antimicrobial peptide (CAMP) resistance,2.928610426,Ab ATCC 19606
+argA,Arginine biosynthesis,2.948081685,Ab ATCC 19606
+argA, Metabolic pathways,2.948081685,Ab ATCC 19606
+argA, Biosynthesis of secondary metabolites,2.948081685,Ab ATCC 19606
+argA, 2-Oxocarboxylic acid metabolism,2.948081685,Ab ATCC 19606
+argA, Biosynthesis of amino acids,2.948081685,Ab ATCC 19606
+-,Glycolysis / Gluconeogenesis,1.619550148,Ab ATCC 19606
+-, Metabolic pathways,1.619550148,Ab ATCC 19606
+-, Biosynthesis of secondary metabolites,1.619550148,Ab ATCC 19606
+-, Microbial metabolism in diverse environments,1.619550148,Ab ATCC 19606
+-,beta-Lactam resistance,1.080934806,Ab ATCC 19606
+-, Cationic antimicrobial peptide (CAMP) resistance,1.080934806,Ab ATCC 19606
+glmS,"Alanine, aspartate and glutamate metabolism",1.038113549,Ab ATCC 19606
+glmS, Amino sugar and nucleotide sugar metabolism,1.038113549,Ab ATCC 19606
+glmS, Metabolic pathways,1.038113549,Ab ATCC 19606
+glmS, Biosynthesis of nucleotide sugars,1.038113549,Ab ATCC 19606
+glmS, Insulin resistance,1.038113549,Ab ATCC 19606
+glmS, Diabetic cardiomyopathy,1.038113549,Ab ATCC 19606
+glmU,Amino sugar and nucleotide sugar metabolism,1.100571072,Ab ATCC 19606
+glmU, Biosynthesis of various nucleotide sugars,1.100571072,Ab ATCC 19606
+glmU, Metabolic pathways,1.100571072,Ab ATCC 19606
+glmU, Biosynthesis of nucleotide sugars,1.100571072,Ab ATCC 19606
+pgpA,Glycerophospholipid metabolism,1.360768659,Ab ATCC 19606
+pgpA, Metabolic pathways,1.360768659,Ab ATCC 19606
+msuE,Riboflavin metabolism,1.415326973,Ab ATCC 19606
+msuE, Sulfur metabolism,1.415326973,Ab ATCC 19606
+msuE, Metabolic pathways,1.415326973,Ab ATCC 19606
+msuE, Microbial metabolism in diverse environments,1.415326973,Ab ATCC 19606
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,

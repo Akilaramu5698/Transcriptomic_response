@@ -1,0 +1,13 @@
+Protein accession,Locus tag,FC,Description,Name,evalue,score,COG_category,Preferred_name,KEGG_ko,PFAMs,Pathway_name,Strain
+QXV69829.1,HTZ92_1902,1.260299205,"Acyl-CoA dehydrogenase, C-terminal domain",isovaleryl-CoA dehydrogenase,7.27E-287,783,I,ivd,K00253,"Acyl-CoA_dh_1,Acyl-CoA_dh_M,Acyl-CoA_dh_N","Valine, leucine and isoleucine degradation",Ab ATCC 19606
+QXV69829.1,HTZ92_1902,1.260299205,"Acyl-CoA dehydrogenase, C-terminal domain",isovaleryl-CoA dehydrogenase,7.27E-287,783,I,ivd,K00253,"Acyl-CoA_dh_1,Acyl-CoA_dh_M,Acyl-CoA_dh_N", Metabolic pathways,Ab ATCC 19606
+QXV70257.1,HTZ92_2332,1.010157103,Aldehyde dehydrogenase family,gamma-aminobutyraldehyde dehydrogenase,0,932,C,ydcW,K00130,Aldedh,"Glycine, serine and threonine metabolism",Ab ATCC 19606
+QXV70257.1,HTZ92_2332,1.010157103,Aldehyde dehydrogenase family,gamma-aminobutyraldehyde dehydrogenase,0,932,C,ydcW,K00130,Aldedh, One carbon pool by folate,Ab ATCC 19606
+QXV70257.1,HTZ92_2332,1.010157103,Aldehyde dehydrogenase family,gamma-aminobutyraldehyde dehydrogenase,0,932,C,ydcW,K00130,Aldedh, Metabolic pathways,Ab ATCC 19606
+QXV70743.1,HTZ92_2818,1.121797411,Binds directly to 23S ribosomal RNA and is necessary for the in vitro assembly process of the 50S ribosomal subunit. It is not involved in the protein synthesizing functions of that subunit,50S ribosomal protein L20,3.67E-73,220,J,rplT,K02887,Ribosomal_L20,Ribosome,Ab ATCC 19606
+QXV71434.1,HTZ92_3509,1.461898821,Amidohydrolase family,imidazolonepropionase,9.28E-291,793,Q,hutI,K01468,"Amidohydro_1,Amidohydro_3",Histidine metabolism,Ab ATCC 19606
+QXV71434.1,HTZ92_3509,1.461898821,Amidohydrolase family,imidazolonepropionase,9.28E-291,793,Q,hutI,K01468,"Amidohydro_1,Amidohydro_3", Metabolic pathways,Ab ATCC 19606
+QXV71435.1,HTZ92_3510,1.206609044,Catalyzes the conversion of N-formimidoyl-L-glutamate to L-glutamate and formamide,formimidoylglutamase,1.28E-225,622,E,hutG,"K01479,K01480",Arginase,Histidine metabolism,Ab ATCC 19606
+QXV71435.1,HTZ92_3510,1.206609044,Catalyzes the conversion of N-formimidoyl-L-glutamate to L-glutamate and formamide,formimidoylglutamase,1.28E-225,622,E,hutG,"K01479,K01480",Arginase, Metabolic pathways,Ab ATCC 19606
+QXV71435.1,HTZ92_3510,1.206609044,Catalyzes the conversion of N-formimidoyl-L-glutamate to L-glutamate and formamide,formimidoylglutamase,1.28E-225,622,E,hutG,"K01479,K01480",Arginase, Arginine and proline metabolism,Ab ATCC 19606
+QXV71435.1,HTZ92_3510,1.206609044,Catalyzes the conversion of N-formimidoyl-L-glutamate to L-glutamate and formamide,formimidoylglutamase,1.28E-225,622,E,hutG,"K01479,K01480",Arginase, Biosynthesis of secondary metabolites,Ab ATCC 19606

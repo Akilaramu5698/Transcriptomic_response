@@ -1,0 +1,721 @@
+Protein accession,Locus tag,log2FoldChange,Description,Name,evalue,score,COG_category,Preferred_name,KEGG_ko,PFAMs,Pathway_name
+QXV67937.1,HTZ92_0002,1.29672849,AzlC protein,branched-chain amino acid ABC transporter permease,1.81e-157,442.0,E,azlC,-,AzlC,
+QXV67941.1,HTZ92_0006,2.038796541,Belongs to the class-III pyridoxal-phosphate-dependent aminotransferase family,4-aminobutyrate aminotransferase,0.0,845.0,E,gabT,"K00823,K07250",Aminotran_3,"Alanine, aspartate and glutamate metabolism"
+QXV67941.1,HTZ92_0006,2.038796541,Belongs to the class-III pyridoxal-phosphate-dependent aminotransferase family,4-aminobutyrate aminotransferase,0.0,845.0,E,gabT,"K00823,K07250",Aminotran_3, beta-Alanine metabolism
+QXV67941.1,HTZ92_0006,2.038796541,Belongs to the class-III pyridoxal-phosphate-dependent aminotransferase family,4-aminobutyrate aminotransferase,0.0,845.0,E,gabT,"K00823,K07250",Aminotran_3, Propanoate metabolism
+QXV67941.1,HTZ92_0006,2.038796541,Belongs to the class-III pyridoxal-phosphate-dependent aminotransferase family,4-aminobutyrate aminotransferase,0.0,845.0,E,gabT,"K00823,K07250",Aminotran_3, Butanoate metabolism
+QXV67941.1,HTZ92_0006,2.038796541,Belongs to the class-III pyridoxal-phosphate-dependent aminotransferase family,4-aminobutyrate aminotransferase,0.0,845.0,E,gabT,"K00823,K07250",Aminotran_3, Metabolic pathways
+QXV67941.1,HTZ92_0006,2.038796541,Belongs to the class-III pyridoxal-phosphate-dependent aminotransferase family,4-aminobutyrate aminotransferase,0.0,845.0,E,gabT,"K00823,K07250",Aminotran_3, Microbial metabolism in diverse environments
+QXV67941.1,HTZ92_0006,2.038796541,Belongs to the class-III pyridoxal-phosphate-dependent aminotransferase family,4-aminobutyrate aminotransferase,0.0,845.0,E,gabT,"K00823,K07250",Aminotran_3," Valine, leucine and isoleucine degradation"
+QXV67941.1,HTZ92_0006,2.038796541,Belongs to the class-III pyridoxal-phosphate-dependent aminotransferase family,4-aminobutyrate aminotransferase,0.0,845.0,E,gabT,"K00823,K07250",Aminotran_3, Lysine degradation
+QXV67942.1,HTZ92_0007,2.721395567,Involved in the biosynthesis of the osmoprotectant glycine betaine. Catalyzes the reversible oxidation of betaine aldehyde to the corresponding acid,NAD-dependent succinate-semialdehyde dehydrogenase,0.0,933.0,C,gabD,K00135,Aldedh,"Alanine, aspartate and glutamate metabolism"
+QXV67942.1,HTZ92_0007,2.721395567,Involved in the biosynthesis of the osmoprotectant glycine betaine. Catalyzes the reversible oxidation of betaine aldehyde to the corresponding acid,NAD-dependent succinate-semialdehyde dehydrogenase,0.0,933.0,C,gabD,K00135,Aldedh, Lysine degradation
+QXV67942.1,HTZ92_0007,2.721395567,Involved in the biosynthesis of the osmoprotectant glycine betaine. Catalyzes the reversible oxidation of betaine aldehyde to the corresponding acid,NAD-dependent succinate-semialdehyde dehydrogenase,0.0,933.0,C,gabD,K00135,Aldedh, Tyrosine metabolism
+QXV67942.1,HTZ92_0007,2.721395567,Involved in the biosynthesis of the osmoprotectant glycine betaine. Catalyzes the reversible oxidation of betaine aldehyde to the corresponding acid,NAD-dependent succinate-semialdehyde dehydrogenase,0.0,933.0,C,gabD,K00135,Aldedh, Butanoate metabolism
+QXV67942.1,HTZ92_0007,2.721395567,Involved in the biosynthesis of the osmoprotectant glycine betaine. Catalyzes the reversible oxidation of betaine aldehyde to the corresponding acid,NAD-dependent succinate-semialdehyde dehydrogenase,0.0,933.0,C,gabD,K00135,Aldedh, Nicotinate and nicotinamide metabolism
+QXV67942.1,HTZ92_0007,2.721395567,Involved in the biosynthesis of the osmoprotectant glycine betaine. Catalyzes the reversible oxidation of betaine aldehyde to the corresponding acid,NAD-dependent succinate-semialdehyde dehydrogenase,0.0,933.0,C,gabD,K00135,Aldedh, Metabolic pathways
+QXV67942.1,HTZ92_0007,2.721395567,Involved in the biosynthesis of the osmoprotectant glycine betaine. Catalyzes the reversible oxidation of betaine aldehyde to the corresponding acid,NAD-dependent succinate-semialdehyde dehydrogenase,0.0,933.0,C,gabD,K00135,Aldedh, Microbial metabolism in diverse environments
+QXV67967.1,HTZ92_0032,4.681586284,-,hypothetical protein,1.27e-75,228.0,-,-,-,-,
+QXV67977.1,HTZ92_0042,1.331499188,membrane,hypothetical protein,8.61e-89,260.0,S,-,-,-,
+QXV67991.1,HTZ92_0056,1.104367916,Carbonic anhydrase,sulfate permease,0.0,1357.0,P,ychM,K01673,"Pro_CA,Sulfate_transp",Nitrogen metabolism
+QXV67991.1,HTZ92_0056,1.104367916,Carbonic anhydrase,sulfate permease,0.0,1357.0,P,ychM,K01673,"Pro_CA,Sulfate_transp", Metabolic pathways
+QXV67999.1,HTZ92_0064,1.202603877,Barrel-sandwich domain of CusB or HlyD membrane-fusion,"efflux transporter, RND family, MFP subunit",6.36e-250,691.0,M,czcB,K15727,HlyD_D23,No pathway found
+QXV68000.1,HTZ92_0065,1.31229658,Belongs to the resistance-nodulation-cell division (RND) (TC 2.A.6) family,cobalt-zinc-cadmium resistance protein CzcA,0.0,1957.0,P,czcA,K15726,ACR_tran,No pathway found
+QXV68028.1,HTZ92_0095,1.872812463,LemA family,LemA family protein,1.78e-133,379.0,S,lemA,K03744,LemA,No pathway found
+QXV68029.1,HTZ92_0096,2.075781194,TPM domain,TPM domain-containing protein,2.96e-216,602.0,S,-,K06872,TPM_phosphatase,No pathway found
+QXV68030.1,HTZ92_0097,1.496720244,TPM domain,TPM domain-containing protein,9.32e-131,371.0,S,-,-,TPM_phosphatase,
+QXV68056.1,HTZ92_0123,2.33315014,Hemerythrin HHE cation binding domain,hemerythrin,2.02e-97,283.0,S,-,-,Hemerythrin,
+QXV68061.1,HTZ92_0128,1.566598045,-,hypothetical protein,5.15e-79,235.0,-,-,-,-,
+QXV68064.1,HTZ92_0131,1.205474471,-,hypothetical protein,4.6e-77,230.0,-,-,-,-,
+QXV68067.1,HTZ92_0134,1.436437321,Destroys radicals which are normally produced within the cells and which are toxic to biological systems,superoxide dismutase precursor (Cu-Zn),5.16e-135,382.0,P,sodC,K04565,Sod_Cu,Peroxisome
+QXV68067.1,HTZ92_0134,1.436437321,Destroys radicals which are normally produced within the cells and which are toxic to biological systems,superoxide dismutase precursor (Cu-Zn),5.16e-135,382.0,P,sodC,K04565,Sod_Cu, Longevity regulating pathway - multiple species
+QXV68067.1,HTZ92_0134,1.436437321,Destroys radicals which are normally produced within the cells and which are toxic to biological systems,superoxide dismutase precursor (Cu-Zn),5.16e-135,382.0,P,sodC,K04565,Sod_Cu, Parkinson disease
+QXV68067.1,HTZ92_0134,1.436437321,Destroys radicals which are normally produced within the cells and which are toxic to biological systems,superoxide dismutase precursor (Cu-Zn),5.16e-135,382.0,P,sodC,K04565,Sod_Cu, Amyotrophic lateral sclerosis
+QXV68067.1,HTZ92_0134,1.436437321,Destroys radicals which are normally produced within the cells and which are toxic to biological systems,superoxide dismutase precursor (Cu-Zn),5.16e-135,382.0,P,sodC,K04565,Sod_Cu, Huntington disease
+QXV68067.1,HTZ92_0134,1.436437321,Destroys radicals which are normally produced within the cells and which are toxic to biological systems,superoxide dismutase precursor (Cu-Zn),5.16e-135,382.0,P,sodC,K04565,Sod_Cu, Prion disease
+QXV68067.1,HTZ92_0134,1.436437321,Destroys radicals which are normally produced within the cells and which are toxic to biological systems,superoxide dismutase precursor (Cu-Zn),5.16e-135,382.0,P,sodC,K04565,Sod_Cu, Pathways of neurodegeneration - multiple diseases
+QXV68067.1,HTZ92_0134,1.436437321,Destroys radicals which are normally produced within the cells and which are toxic to biological systems,superoxide dismutase precursor (Cu-Zn),5.16e-135,382.0,P,sodC,K04565,Sod_Cu, Chemical carcinogenesis - reactive oxygen species
+QXV68071.1,HTZ92_0138,3.741676411,-,hypothetical protein,1.49e-132,375.0,-,-,-,-,
+QXV68072.1,HTZ92_0139,1.832115016,-,hypothetical protein,4.82e-115,330.0,-,-,-,-,
+QXV68082.1,HTZ92_0149,5.523845978,-,hypothetical protein,1.9e-46,162.0,-,-,-,-,
+QXV68085.1,HTZ92_0152,2.550521616,-,hypothetical protein,1.28e-98,286.0,-,-,-,-,
+QXV68086.1,HTZ92_0153,2.551503438,-,signal peptide protein,4.27e-77,231.0,-,-,-,-,
+QXV68098.1,HTZ92_0165,2.281593492,acyl-CoA dehydrogenase,acyl-CoA dehydrogenase,0.0,1231.0,I,-,-,"Acyl-CoA_dh_1,Acyl-CoA_dh_C,Acyl-CoA_dh_M,Acyl-CoA_dh_N,AcylCoA_DH_N",
+QXV68101.1,HTZ92_0168,1.160691173,Involved in the heme biosynthesis. Catalyzes the aerobic oxidative decarboxylation of propionate groups of rings A and B of coproporphyrinogen-III to yield the vinyl groups in protoporphyrinogen-IX,coproporphyrinogen III oxidase,1.53e-246,674.0,H,hemF,K00228,Coprogen_oxidas,Porphyrin metabolism
+QXV68101.1,HTZ92_0168,1.160691173,Involved in the heme biosynthesis. Catalyzes the aerobic oxidative decarboxylation of propionate groups of rings A and B of coproporphyrinogen-III to yield the vinyl groups in protoporphyrinogen-IX,coproporphyrinogen III oxidase,1.53e-246,674.0,H,hemF,K00228,Coprogen_oxidas, Metabolic pathways
+QXV68101.1,HTZ92_0168,1.160691173,Involved in the heme biosynthesis. Catalyzes the aerobic oxidative decarboxylation of propionate groups of rings A and B of coproporphyrinogen-III to yield the vinyl groups in protoporphyrinogen-IX,coproporphyrinogen III oxidase,1.53e-246,674.0,H,hemF,K00228,Coprogen_oxidas, Biosynthesis of secondary metabolites
+QXV68101.1,HTZ92_0168,1.160691173,Involved in the heme biosynthesis. Catalyzes the aerobic oxidative decarboxylation of propionate groups of rings A and B of coproporphyrinogen-III to yield the vinyl groups in protoporphyrinogen-IX,coproporphyrinogen III oxidase,1.53e-246,674.0,H,hemF,K00228,Coprogen_oxidas, Biosynthesis of cofactors
+QXV68108.1,HTZ92_0175,2.334050393,MlaD protein,mammalian cell entry protein,5.18e-150,423.0,Q,ttg2C,K02067,MlaD,ABC transporters
+QXV68109.1,HTZ92_0176,3.123929089,MlaC protein,toluene tolerance protein Ttg2D,5.48e-150,422.0,Q,ttg2D,K07323,MlaC,ABC transporters
+QXV68110.1,HTZ92_0177,2.783174127,STAS domain,toluene tolerance protein,8.64e-63,192.0,S,-,K07122,STAS_2,ABC transporters
+QXV68156.1,HTZ92_0223,1.536801492,Flavin-binding monooxygenase-like,FAD-containing monooxygenase EthA,0.0,1002.0,P,almA,K03379,"FMO-like,NAD_binding_8,Pyr_redox_3",Caprolactam degradation
+QXV68156.1,HTZ92_0223,1.536801492,Flavin-binding monooxygenase-like,FAD-containing monooxygenase EthA,0.0,1002.0,P,almA,K03379,"FMO-like,NAD_binding_8,Pyr_redox_3", Microbial metabolism in diverse environments
+QXV68156.1,HTZ92_0223,1.536801492,Flavin-binding monooxygenase-like,FAD-containing monooxygenase EthA,0.0,1002.0,P,almA,K03379,"FMO-like,NAD_binding_8,Pyr_redox_3", Degradation of aromatic compounds
+QXV68160.1,HTZ92_0227,1.135704449,-,hypothetical protein,4.99e-13,62.0,-,-,-,-,
+QXV68166.1,HTZ92_0233,1.100925885,Peptidase family M3,peptidase M3,0.0,1341.0,E,prlC,K01414,Peptidase_M3,No pathway found
+QXV68178.1,HTZ92_0245,3.742591204,Protein of unknown function (DUF3108),hypothetical protein,6.57e-163,456.0,S,-,-,DUF3108,
+QXV68184.1,HTZ92_0251,2.292247673,COG0741 Soluble lytic murein transglycosylase and related regulatory proteins (some contain LysM invasin domains),lytic transglycosylase,0.0,1303.0,M,slt,K08309,"SLT,SLT_L",No pathway found
+QXV68187.1,HTZ92_0254,2.259249454,Protein of unknown function (DUF2789),hypothetical protein,1.07e-52,165.0,E,-,-,DUF2789,
+QXV68197.1,HTZ92_0264,1.711553757,Pfam:DUF1446,terpene utilization protein AtuA,0.0,1158.0,E,atuA,-,AtuA,
+QXV68199.1,HTZ92_0266,1.622463983,Carboxyl transferase domain,acetyl-CoA carboxylase carboxyltransferase subunit,0.0,1050.0,I,atuC,K13778,Carboxyl_trans,"Pinene, camphor and geraniol degradation"
+QXV68199.1,HTZ92_0266,1.622463983,Carboxyl transferase domain,acetyl-CoA carboxylase carboxyltransferase subunit,0.0,1050.0,I,atuC,K13778,Carboxyl_trans, Microbial metabolism in diverse environments
+QXV68227.1,HTZ92_0294,1.125364909,Domain of unknown function (DUF4442),hypothetical protein,1.73e-113,325.0,Q,-,-,DUF4442,
+QXV68258.1,HTZ92_0325,3.778769619,"Stealth protein CR3, conserved region 3",glycosyl transferase. Similar to IclR (P795_0315),5.68e-262,716.0,M,-,-,"Stealth_CR2,Stealth_CR3",
+QXV68260.1,HTZ92_0327,1.170109061,Zinc dependent phospholipase C,zinc dependent phospholipase C,4.17e-188,521.0,S,-,-,DUF4184,
+QXV68264.1,HTZ92_0331,8.64413961,Nickel/cobalt transporter regulator,Nickel/cobalt transporter regulator,1.1e-80,239.0,S,-,-,RcnB,
+QXV68268.1,HTZ92_0335,1.727513594,acyl-CoA dehydrogenase,acyl-CoA dehydrogenase A,0.0,1177.0,I,acdA,-,"Acyl-CoA_dh_1,Acyl-CoA_dh_C,Acyl-CoA_dh_M,Acyl-CoA_dh_N,AcylCoA_DH_N",
+QXV68269.1,HTZ92_0336,2.349501874,acyl-CoA dehydrogenase,acyl-CoA dehydrogenase,0.0,1208.0,I,-,-,"Acyl-CoA_dh_1,Acyl-CoA_dh_C,Acyl-CoA_dh_M,Acyl-CoA_dh_N,AcylCoA_DH_N",
+QXV68270.1,HTZ92_0337,7.682786319,-,hypothetical protein,4.51e-84,248.0,-,-,-,-,
+QXV68271.1,HTZ92_0338,3.195316314,"HAMP (Histidine kinases, Adenylyl cyclases, Methyl binding proteins, Phosphatases) domain",kinase sensor component of a two component signal transduction system,0.0,1072.0,T,baeS,K07642,"HAMP,HATPase_c,HisKA",Two-component system
+QXV68272.1,HTZ92_0339,2.012861091,"Transcriptional regulatory protein, C terminal",DNA-binding response regulator,9.42e-163,455.0,K,baeR,"K07664,K18144","Response_reg,Trans_reg_C",Two-component system
+QXV68272.1,HTZ92_0339,2.012861091,"Transcriptional regulatory protein, C terminal",DNA-binding response regulator,9.42e-163,455.0,K,baeR,"K07664,K18144","Response_reg,Trans_reg_C", beta-Lactam resistance
+QXV68275.1,HTZ92_0342,1.486229973,META domain,META domain-containing protein,4.5e-124,353.0,O,-,-,META,
+QXV68291.1,HTZ92_0358,2.456611627,C-terminal domain of 1-Cys peroxiredoxin,peroxidase,3.58e-155,435.0,O,lsfA,-,"1-cysPrx_C,AhpC-TSA",
+QXV68293.1,HTZ92_0360,1.813120597,-,hypothetical protein,3.46e-89,263.0,-,-,-,-,
+QXV68310.1,HTZ92_0377,1.991315216,Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily,hypothetical protein,1.66e-105,304.0,S,phnB,K04750,"3-dmu-9_3-mt,Glyoxalase",No pathway found
+QXV68311.1,HTZ92_0378,1.013694559,Belongs to the thiolase family,acetyl-CoA acetyltransferase,4.11e-273,748.0,I,atoB,K00626,"Thiolase_C,Thiolase_N",Fatty acid degradation
+QXV68311.1,HTZ92_0378,1.013694559,Belongs to the thiolase family,acetyl-CoA acetyltransferase,4.11e-273,748.0,I,atoB,K00626,"Thiolase_C,Thiolase_N"," Valine, leucine and isoleucine degradation"
+QXV68311.1,HTZ92_0378,1.013694559,Belongs to the thiolase family,acetyl-CoA acetyltransferase,4.11e-273,748.0,I,atoB,K00626,"Thiolase_C,Thiolase_N", Lysine degradation
+QXV68311.1,HTZ92_0378,1.013694559,Belongs to the thiolase family,acetyl-CoA acetyltransferase,4.11e-273,748.0,I,atoB,K00626,"Thiolase_C,Thiolase_N", Benzoate degradation
+QXV68311.1,HTZ92_0378,1.013694559,Belongs to the thiolase family,acetyl-CoA acetyltransferase,4.11e-273,748.0,I,atoB,K00626,"Thiolase_C,Thiolase_N", Tryptophan metabolism
+QXV68311.1,HTZ92_0378,1.013694559,Belongs to the thiolase family,acetyl-CoA acetyltransferase,4.11e-273,748.0,I,atoB,K00626,"Thiolase_C,Thiolase_N", Pyruvate metabolism
+QXV68311.1,HTZ92_0378,1.013694559,Belongs to the thiolase family,acetyl-CoA acetyltransferase,4.11e-273,748.0,I,atoB,K00626,"Thiolase_C,Thiolase_N", Glyoxylate and dicarboxylate metabolism
+QXV68311.1,HTZ92_0378,1.013694559,Belongs to the thiolase family,acetyl-CoA acetyltransferase,4.11e-273,748.0,I,atoB,K00626,"Thiolase_C,Thiolase_N", Butanoate metabolism
+QXV68311.1,HTZ92_0378,1.013694559,Belongs to the thiolase family,acetyl-CoA acetyltransferase,4.11e-273,748.0,I,atoB,K00626,"Thiolase_C,Thiolase_N", Other carbon fixation pathways
+QXV68311.1,HTZ92_0378,1.013694559,Belongs to the thiolase family,acetyl-CoA acetyltransferase,4.11e-273,748.0,I,atoB,K00626,"Thiolase_C,Thiolase_N", Terpenoid backbone biosynthesis
+QXV68311.1,HTZ92_0378,1.013694559,Belongs to the thiolase family,acetyl-CoA acetyltransferase,4.11e-273,748.0,I,atoB,K00626,"Thiolase_C,Thiolase_N", Metabolic pathways
+QXV68311.1,HTZ92_0378,1.013694559,Belongs to the thiolase family,acetyl-CoA acetyltransferase,4.11e-273,748.0,I,atoB,K00626,"Thiolase_C,Thiolase_N", Biosynthesis of secondary metabolites
+QXV68311.1,HTZ92_0378,1.013694559,Belongs to the thiolase family,acetyl-CoA acetyltransferase,4.11e-273,748.0,I,atoB,K00626,"Thiolase_C,Thiolase_N", Microbial metabolism in diverse environments
+QXV68311.1,HTZ92_0378,1.013694559,Belongs to the thiolase family,acetyl-CoA acetyltransferase,4.11e-273,748.0,I,atoB,K00626,"Thiolase_C,Thiolase_N", Carbon metabolism
+QXV68311.1,HTZ92_0378,1.013694559,Belongs to the thiolase family,acetyl-CoA acetyltransferase,4.11e-273,748.0,I,atoB,K00626,"Thiolase_C,Thiolase_N", Fatty acid metabolism
+QXV68311.1,HTZ92_0378,1.013694559,Belongs to the thiolase family,acetyl-CoA acetyltransferase,4.11e-273,748.0,I,atoB,K00626,"Thiolase_C,Thiolase_N", Two-component system
+QXV68311.1,HTZ92_0378,1.013694559,Belongs to the thiolase family,acetyl-CoA acetyltransferase,4.11e-273,748.0,I,atoB,K00626,"Thiolase_C,Thiolase_N", Fat digestion and absorption
+QXV68334.1,HTZ92_0401,1.807898349,Domain of unknown function (DUF1508),hypothetical protein,2.86e-74,222.0,S,-,K09946,DUF1508,No pathway found
+QXV68346.1,HTZ92_0413,2.27675327,Entericidin EcnA/B family,bacteriolytic lipoprotein entericidin B,3.96e-24,90.9,S,ecnB,-,Entericidin,
+,HTZ92_tRNA18,1.037441532,,tRNA-Val,,,,,,,
+QXV68351.1,HTZ92_0418,1.790570495,Flavodoxin,PepSY-associated TM region,0.0,1699.0,P,piuB,K00380,"Flavodoxin_1,NAD_binding_1,PepSY_TM",Sulfur metabolism
+QXV68351.1,HTZ92_0418,1.790570495,Flavodoxin,PepSY-associated TM region,0.0,1699.0,P,piuB,K00380,"Flavodoxin_1,NAD_binding_1,PepSY_TM", Metabolic pathways
+QXV68351.1,HTZ92_0418,1.790570495,Flavodoxin,PepSY-associated TM region,0.0,1699.0,P,piuB,K00380,"Flavodoxin_1,NAD_binding_1,PepSY_TM", Microbial metabolism in diverse environments
+QXV68351.1,HTZ92_0418,1.790570495,Flavodoxin,PepSY-associated TM region,0.0,1699.0,P,piuB,K00380,"Flavodoxin_1,NAD_binding_1,PepSY_TM", Sulfur cycle
+QXV68358.1,HTZ92_0425,1.962618923,Patatin-like phospholipase,alpha/beta hydrolase,7.76e-220,607.0,S,-,K07001,Patatin,No pathway found
+QXV68363.1,HTZ92_0430,2.034645148,-,signal peptide protein,1.11e-113,327.0,-,-,-,-,
+QXV68411.1,HTZ92_0478,1.413877665,Outer membrane efflux protein,RND family drug transporter,0.0,927.0,M,oprM,"K18139,K18323",OEP,beta-Lactam resistance
+QXV68411.1,HTZ92_0478,1.413877665,Outer membrane efflux protein,RND family drug transporter,0.0,927.0,M,oprM,"K18139,K18323",OEP, Quorum sensing
+QXV68411.1,HTZ92_0478,1.413877665,Outer membrane efflux protein,RND family drug transporter,0.0,927.0,M,oprM,"K18139,K18323",OEP, Two-component system
+QXV68412.1,HTZ92_0479,1.690877821,efflux pump,resistance nodulation cell division family member TbtB,0.0,1959.0,V,acrB,K18138,ACR_tran,beta-Lactam resistance
+QXV68412.1,HTZ92_0479,1.690877821,efflux pump,resistance nodulation cell division family member TbtB,0.0,1959.0,V,acrB,K18138,ACR_tran, Cationic antimicrobial peptide (CAMP) resistance
+QXV68413.1,HTZ92_0480,1.796657209,Belongs to the membrane fusion protein (MFP) (TC 8.A.1) family,AdeA/AdeI family multidrug efflux RND transporter periplasmic adaptor subunit,1.98e-279,766.0,M,acrA,K03585,HlyD_D23,beta-Lactam resistance
+QXV68413.1,HTZ92_0480,1.796657209,Belongs to the membrane fusion protein (MFP) (TC 8.A.1) family,AdeA/AdeI family multidrug efflux RND transporter periplasmic adaptor subunit,1.98e-279,766.0,M,acrA,K03585,HlyD_D23, Cationic antimicrobial peptide (CAMP) resistance
+QXV68414.1,HTZ92_0481,1.584841423,Acid phosphatase homologues,phosphatidylglycerophosphatase,2.73e-152,427.0,I,-,"K01096,K19302",PAP2,Glycerophospholipid metabolism
+QXV68414.1,HTZ92_0481,1.584841423,Acid phosphatase homologues,phosphatidylglycerophosphatase,2.73e-152,427.0,I,-,"K01096,K19302",PAP2, Metabolic pathways
+QXV68414.1,HTZ92_0481,1.584841423,Acid phosphatase homologues,phosphatidylglycerophosphatase,2.73e-152,427.0,I,-,"K01096,K19302",PAP2, Peptidoglycan biosynthesis
+QXV68414.1,HTZ92_0481,1.584841423,Acid phosphatase homologues,phosphatidylglycerophosphatase,2.73e-152,427.0,I,-,"K01096,K19302",PAP2, Teichoic acid biosynthesis
+QXV68419.1,HTZ92_0486,4.86119666,Participates in the translocation of lipoproteins from the inner membrane to the outer membrane. Only forms a complex with a lipoprotein if the residue after the N-terminal Cys is not an aspartate (The Asp acts as a targeting signal to indicate that the lipoprotein should stay in the inner membrane),outer membrane lipoprotein carrier protein LolA,1.55e-158,445.0,M,lolA,K03634,LolA,No pathway found
+QXV68420.1,HTZ92_0487,1.791987935,Protein of unknown function (DUF3298),hypothetical protein,6.64e-189,524.0,S,Z012_04555,-,"DUF3298,DUF4163",
+QXV68442.1,HTZ92_0509,1.121911165,The 2-oxoglutarate dehydrogenase complex catalyzes the overall conversion of 2-oxoglutarate to succinyl-CoA and CO(2),dihydrolipoamide succinyltransferase,2.58e-275,754.0,C,sucB,K00658,"2-oxoacid_dh,Biotin_lipoyl,E3_binding",Citrate cycle (TCA cycle)
+QXV68442.1,HTZ92_0509,1.121911165,The 2-oxoglutarate dehydrogenase complex catalyzes the overall conversion of 2-oxoglutarate to succinyl-CoA and CO(2),dihydrolipoamide succinyltransferase,2.58e-275,754.0,C,sucB,K00658,"2-oxoacid_dh,Biotin_lipoyl,E3_binding", Lysine degradation
+QXV68442.1,HTZ92_0509,1.121911165,The 2-oxoglutarate dehydrogenase complex catalyzes the overall conversion of 2-oxoglutarate to succinyl-CoA and CO(2),dihydrolipoamide succinyltransferase,2.58e-275,754.0,C,sucB,K00658,"2-oxoacid_dh,Biotin_lipoyl,E3_binding", Tryptophan metabolism
+QXV68442.1,HTZ92_0509,1.121911165,The 2-oxoglutarate dehydrogenase complex catalyzes the overall conversion of 2-oxoglutarate to succinyl-CoA and CO(2),dihydrolipoamide succinyltransferase,2.58e-275,754.0,C,sucB,K00658,"2-oxoacid_dh,Biotin_lipoyl,E3_binding", Lipoic acid metabolism
+QXV68442.1,HTZ92_0509,1.121911165,The 2-oxoglutarate dehydrogenase complex catalyzes the overall conversion of 2-oxoglutarate to succinyl-CoA and CO(2),dihydrolipoamide succinyltransferase,2.58e-275,754.0,C,sucB,K00658,"2-oxoacid_dh,Biotin_lipoyl,E3_binding", Metabolic pathways
+QXV68442.1,HTZ92_0509,1.121911165,The 2-oxoglutarate dehydrogenase complex catalyzes the overall conversion of 2-oxoglutarate to succinyl-CoA and CO(2),dihydrolipoamide succinyltransferase,2.58e-275,754.0,C,sucB,K00658,"2-oxoacid_dh,Biotin_lipoyl,E3_binding", Biosynthesis of secondary metabolites
+QXV68442.1,HTZ92_0509,1.121911165,The 2-oxoglutarate dehydrogenase complex catalyzes the overall conversion of 2-oxoglutarate to succinyl-CoA and CO(2),dihydrolipoamide succinyltransferase,2.58e-275,754.0,C,sucB,K00658,"2-oxoacid_dh,Biotin_lipoyl,E3_binding", Microbial metabolism in diverse environments
+QXV68442.1,HTZ92_0509,1.121911165,The 2-oxoglutarate dehydrogenase complex catalyzes the overall conversion of 2-oxoglutarate to succinyl-CoA and CO(2),dihydrolipoamide succinyltransferase,2.58e-275,754.0,C,sucB,K00658,"2-oxoacid_dh,Biotin_lipoyl,E3_binding", Carbon metabolism
+QXV68442.1,HTZ92_0509,1.121911165,The 2-oxoglutarate dehydrogenase complex catalyzes the overall conversion of 2-oxoglutarate to succinyl-CoA and CO(2),dihydrolipoamide succinyltransferase,2.58e-275,754.0,C,sucB,K00658,"2-oxoacid_dh,Biotin_lipoyl,E3_binding", 2-Oxocarboxylic acid metabolism
+QXV68445.1,HTZ92_0512,1.016573486,"Succinyl-CoA synthetase functions in the citric acid cycle (TCA), coupling the hydrolysis of succinyl-CoA to the synthesis of either ATP or GTP and thus represents the only step of substrate-level phosphorylation in the TCA. The alpha subunit of the enzyme binds the substrates coenzyme A and phosphate, while succinate binding and nucleotide specificity is provided by the beta subunit",succinyl-CoA synthetase subunit alpha,2.08e-209,579.0,C,sucD,K01902,"CoA_binding,Ligase_CoA",Citrate cycle (TCA cycle)
+QXV68445.1,HTZ92_0512,1.016573486,"Succinyl-CoA synthetase functions in the citric acid cycle (TCA), coupling the hydrolysis of succinyl-CoA to the synthesis of either ATP or GTP and thus represents the only step of substrate-level phosphorylation in the TCA. The alpha subunit of the enzyme binds the substrates coenzyme A and phosphate, while succinate binding and nucleotide specificity is provided by the beta subunit",succinyl-CoA synthetase subunit alpha,2.08e-209,579.0,C,sucD,K01902,"CoA_binding,Ligase_CoA", Propanoate metabolism
+QXV68445.1,HTZ92_0512,1.016573486,"Succinyl-CoA synthetase functions in the citric acid cycle (TCA), coupling the hydrolysis of succinyl-CoA to the synthesis of either ATP or GTP and thus represents the only step of substrate-level phosphorylation in the TCA. The alpha subunit of the enzyme binds the substrates coenzyme A and phosphate, while succinate binding and nucleotide specificity is provided by the beta subunit",succinyl-CoA synthetase subunit alpha,2.08e-209,579.0,C,sucD,K01902,"CoA_binding,Ligase_CoA", C5-Branched dibasic acid metabolism
+QXV68445.1,HTZ92_0512,1.016573486,"Succinyl-CoA synthetase functions in the citric acid cycle (TCA), coupling the hydrolysis of succinyl-CoA to the synthesis of either ATP or GTP and thus represents the only step of substrate-level phosphorylation in the TCA. The alpha subunit of the enzyme binds the substrates coenzyme A and phosphate, while succinate binding and nucleotide specificity is provided by the beta subunit",succinyl-CoA synthetase subunit alpha,2.08e-209,579.0,C,sucD,K01902,"CoA_binding,Ligase_CoA", Other carbon fixation pathways
+QXV68445.1,HTZ92_0512,1.016573486,"Succinyl-CoA synthetase functions in the citric acid cycle (TCA), coupling the hydrolysis of succinyl-CoA to the synthesis of either ATP or GTP and thus represents the only step of substrate-level phosphorylation in the TCA. The alpha subunit of the enzyme binds the substrates coenzyme A and phosphate, while succinate binding and nucleotide specificity is provided by the beta subunit",succinyl-CoA synthetase subunit alpha,2.08e-209,579.0,C,sucD,K01902,"CoA_binding,Ligase_CoA", Metabolic pathways
+QXV68445.1,HTZ92_0512,1.016573486,"Succinyl-CoA synthetase functions in the citric acid cycle (TCA), coupling the hydrolysis of succinyl-CoA to the synthesis of either ATP or GTP and thus represents the only step of substrate-level phosphorylation in the TCA. The alpha subunit of the enzyme binds the substrates coenzyme A and phosphate, while succinate binding and nucleotide specificity is provided by the beta subunit",succinyl-CoA synthetase subunit alpha,2.08e-209,579.0,C,sucD,K01902,"CoA_binding,Ligase_CoA", Biosynthesis of secondary metabolites
+QXV68445.1,HTZ92_0512,1.016573486,"Succinyl-CoA synthetase functions in the citric acid cycle (TCA), coupling the hydrolysis of succinyl-CoA to the synthesis of either ATP or GTP and thus represents the only step of substrate-level phosphorylation in the TCA. The alpha subunit of the enzyme binds the substrates coenzyme A and phosphate, while succinate binding and nucleotide specificity is provided by the beta subunit",succinyl-CoA synthetase subunit alpha,2.08e-209,579.0,C,sucD,K01902,"CoA_binding,Ligase_CoA", Microbial metabolism in diverse environments
+QXV68445.1,HTZ92_0512,1.016573486,"Succinyl-CoA synthetase functions in the citric acid cycle (TCA), coupling the hydrolysis of succinyl-CoA to the synthesis of either ATP or GTP and thus represents the only step of substrate-level phosphorylation in the TCA. The alpha subunit of the enzyme binds the substrates coenzyme A and phosphate, while succinate binding and nucleotide specificity is provided by the beta subunit",succinyl-CoA synthetase subunit alpha,2.08e-209,579.0,C,sucD,K01902,"CoA_binding,Ligase_CoA", Carbon metabolism
+QXV68476.1,HTZ92_0543,1.353248942,Diacylglycerol kinase catalytic domain (presumed),diacylglycerol kinase,1.38e-222,613.0,I,-,-,DAGK_cat,
+QXV68480.1,HTZ92_0547,1.198082681,Prevents misfolding and promotes the refolding and proper assembly of unfolded polypeptides generated under stress conditions,molecular chaperone GroEL,0.0,1004.0,O,groL,K04077,Cpn60_TCP1,RNA degradation
+QXV68480.1,HTZ92_0547,1.198082681,Prevents misfolding and promotes the refolding and proper assembly of unfolded polypeptides generated under stress conditions,molecular chaperone GroEL,0.0,1004.0,O,groL,K04077,Cpn60_TCP1, Longevity regulating pathway - worm
+QXV68480.1,HTZ92_0547,1.198082681,Prevents misfolding and promotes the refolding and proper assembly of unfolded polypeptides generated under stress conditions,molecular chaperone GroEL,0.0,1004.0,O,groL,K04077,Cpn60_TCP1, Type I diabetes mellitus
+QXV68480.1,HTZ92_0547,1.198082681,Prevents misfolding and promotes the refolding and proper assembly of unfolded polypeptides generated under stress conditions,molecular chaperone GroEL,0.0,1004.0,O,groL,K04077,Cpn60_TCP1, Legionellosis
+QXV68480.1,HTZ92_0547,1.198082681,Prevents misfolding and promotes the refolding and proper assembly of unfolded polypeptides generated under stress conditions,molecular chaperone GroEL,0.0,1004.0,O,groL,K04077,Cpn60_TCP1, Tuberculosis
+QXV68480.1,HTZ92_0547,1.198082681,Prevents misfolding and promotes the refolding and proper assembly of unfolded polypeptides generated under stress conditions,molecular chaperone GroEL,0.0,1004.0,O,groL,K04077,Cpn60_TCP1, Lipid and atherosclerosis
+QXV68484.1,HTZ92_0551,3.139466971,AcrB/AcrD/AcrF family,AdeE,0.0,1934.0,U,acrB,K18138,ACR_tran,beta-Lactam resistance
+QXV68484.1,HTZ92_0551,3.139466971,AcrB/AcrD/AcrF family,AdeE,0.0,1934.0,U,acrB,K18138,ACR_tran, Cationic antimicrobial peptide (CAMP) resistance
+QXV68486.1,HTZ92_0553,1.033666613,Belongs to the peptidase M48B family,protease HtpX,7.54e-210,580.0,O,htpX,K03799,Peptidase_M48,No pathway found
+QXV68490.1,HTZ92_0557,2.193398957,Transglycosylase SLT domain,ABC transporter substrate-binding protein,5.77e-267,731.0,M,mltF,K18691,"SBP_bac_3,SLT",No pathway found
+QXV68498.1,HTZ92_0565,1.743136705,Nitroreductase family,nitroreductase,4.55e-143,403.0,C,drgA,-,Nitroreductase,
+QXV68502.1,HTZ92_0569,1.337101504,Belongs to the prokaryotic molybdopterin-containing oxidoreductase family,"Anaerobic dehydrogenase, typically selenocysteine-containing",0.0,1642.0,C,ydeP,K00123,"Molybdopterin,Molydop_binding",Glyoxylate and dicarboxylate metabolism
+QXV68502.1,HTZ92_0569,1.337101504,Belongs to the prokaryotic molybdopterin-containing oxidoreductase family,"Anaerobic dehydrogenase, typically selenocysteine-containing",0.0,1642.0,C,ydeP,K00123,"Molybdopterin,Molydop_binding", Methane metabolism
+QXV68502.1,HTZ92_0569,1.337101504,Belongs to the prokaryotic molybdopterin-containing oxidoreductase family,"Anaerobic dehydrogenase, typically selenocysteine-containing",0.0,1642.0,C,ydeP,K00123,"Molybdopterin,Molydop_binding", Metabolic pathways
+QXV68502.1,HTZ92_0569,1.337101504,Belongs to the prokaryotic molybdopterin-containing oxidoreductase family,"Anaerobic dehydrogenase, typically selenocysteine-containing",0.0,1642.0,C,ydeP,K00123,"Molybdopterin,Molydop_binding", Microbial metabolism in diverse environments
+QXV68502.1,HTZ92_0569,1.337101504,Belongs to the prokaryotic molybdopterin-containing oxidoreductase family,"Anaerobic dehydrogenase, typically selenocysteine-containing",0.0,1642.0,C,ydeP,K00123,"Molybdopterin,Molydop_binding", Carbon metabolism
+QXV68518.1,HTZ92_0585,1.026164472,Electron transfer flavoprotein,electron transfer flavoprotein subunit beta,5.65e-205,569.0,C,etfA,K03522,"ETF,ETF_alpha",No pathway found
+QXV68526.1,HTZ92_0593,1.024646662,Biotin-lipoyl like,RND transporter,4.61e-215,600.0,V,-,K01993,"Biotin_lipoyl_2,HlyD_3,HlyD_D23",No pathway found
+QXV68533.1,HTZ92_0600,2.150157564,MacB-like periplasmic core domain,ABC transporter,3.04e-273,751.0,M,lolC,K09808,"FtsX,MacB_PCD",ABC transporters
+QXV68534.1,HTZ92_0601,2.270347042,"Part of the ABC transporter complex LolCDE involved in the translocation of lipoproteins, in an ATP-dependent manner",lipoprotein-releasing ABC transporter ATP-binding protein LolD,1.06e-159,447.0,V,lolD,K09810,ABC_tran,ABC transporters
+QXV68537.1,HTZ92_0604,1.865362119,signal peptide peptidase SppA,"signal peptide peptidase SppA, 36K type",2.13e-255,701.0,OU,sppA,K04773,Peptidase_S49,No pathway found
+QXV68538.1,HTZ92_0605,1.368369293,Alpha/beta hydrolase family,hydrolase,4.37e-202,558.0,S,-,-,Abhydrolase_6,
+QXV68545.1,HTZ92_0612,1.203357414,Protein of unknown function (DUF3106),DNA phosphorothioation-dependent restriction protein DptG,7.88e-66,202.0,S,-,-,DUF3106,
+QXV68547.1,HTZ92_0614,1.143354545,Belongs to the sigma-70 factor family. ECF subfamily,DNA-directed RNA polymerase sigma-70 factor,2e-143,404.0,K,rpoE1,K03088,"Sigma70_r2,Sigma70_r4_2",No pathway found
+QXV68551.1,HTZ92_0618,1.998910754,Belongs to the ompA family,peptidoglycan-associated lipoprotein precursor,2.74e-119,342.0,M,pal,K03640,OmpA,No pathway found
+QXV68552.1,HTZ92_0619,1.866013465,Involved in the TonB-independent uptake of proteins,translocation protein TolB,3.99e-217,609.0,U,tolB,K03641,"PD40,TolB_N",No pathway found
+QXV68553.1,HTZ92_0620,1.538523695,TonB C terminal,gramicidin S synthase,7.5e-113,347.0,M,tolA,K03646,"Fibrinogen_BP,TonB_2",No pathway found
+QXV68555.1,HTZ92_0622,1.436312788,MotA/TolQ/ExbB proton channel family,protein TolQ,2.55e-153,432.0,U,tolQ,K03562,MotA_ExbB,No pathway found
+QXV68565.1,HTZ92_0632,1.324364333,Enoyl-CoA hydratase/isomerase,enoly-CoA hydratase,7.99e-183,509.0,I,-,-,ECH_1,
+QXV68570.1,HTZ92_0637,2.163889876,-,hypothetical protein,5.69e-86,254.0,-,-,-,-,
+QXV68574.1,HTZ92_0641,2.867939801,pathogenesis,carbapenem-associated resistance protein precursor,6.41e-185,513.0,S,-,-,-,
+QXV68586.1,HTZ92_0653,2.839026879,Belongs to the peptidase S1C family,serine protease MucD,0.0,870.0,O,mucD,K04771,"PDZ_2,Trypsin_2",Cationic antimicrobial peptide (CAMP) resistance
+QXV68586.1,HTZ92_0653,2.839026879,Belongs to the peptidase S1C family,serine protease MucD,0.0,870.0,O,mucD,K04771,"PDZ_2,Trypsin_2", Two-component system
+QXV68608.1,HTZ92_0675,1.713994057,Lipocalin-like domain,outer membrane lipoprotein Blc,7.34e-146,410.0,M,blc,K03098,Lipocalin_2,No pathway found
+QXV68620.1,HTZ92_0687,1.12163463,Tetratricopeptide repeat,hypothetical protein,3.69e-282,771.0,S,-,-,TPR_19,
+QXV68629.1,HTZ92_0696,1.087235949,Pyridine nucleotide-disulphide oxidoreductase,NADH dehydrogenase,0.0,845.0,C,ndh,K03885,Pyr_redox_2,Oxidative phosphorylation
+QXV68629.1,HTZ92_0696,1.087235949,Pyridine nucleotide-disulphide oxidoreductase,NADH dehydrogenase,0.0,845.0,C,ndh,K03885,Pyr_redox_2, Metabolic pathways
+QXV68656.1,HTZ92_0723,2.370649625,LysR substrate binding domain,LysR family transcriptional regulator,1.41e-104,314.0,K,-,-,"HTH_1,LysR_substrate",
+QXV68657.1,HTZ92_0724,4.555372666,Protein of unknown function (DUF541),hypothetical protein,1.59e-152,430.0,S,Z012_10940,-,SIMPL,
+QXV68677.1,HTZ92_0744,2.693044688,-,hypothetical protein,3.98e-87,257.0,-,-,-,-,
+QXV68680.1,HTZ92_0747,1.654562474,Peptidase family M23,peptidoglycan-binding protein,7.02e-182,508.0,DM,nlpD,"K06194,K12943","LysM,Peptidase_M23",No pathway found
+QXV68725.1,HTZ92_0792,1.412068084,Beta-lactamase,class C beta-lactamase,1.76e-279,763.0,V,ampC,"K01467,K19100,K19101,K19215,K20319,K20320",Beta-lactamase,beta-Lactam resistance
+QXV68725.1,HTZ92_0792,1.412068084,Beta-lactamase,class C beta-lactamase,1.76e-279,763.0,V,ampC,"K01467,K19100,K19101,K19215,K20319,K20320",Beta-lactamase, Two-component system
+QXV68737.1,HTZ92_0804,1.353498178,POT family,peptide permease,0.0,994.0,P,dtpT,K03305,PTR2,No pathway found
+QXV68744.1,HTZ92_0811,1.200509676,Destroys radicals which are normally produced within the cells and which are toxic to biological systems,superoxide dismutase,1.16e-153,431.0,P,sodB,K04564,"Sod_Fe_C,Sod_Fe_N",MAPK signaling pathway - fly
+QXV68744.1,HTZ92_0811,1.200509676,Destroys radicals which are normally produced within the cells and which are toxic to biological systems,superoxide dismutase,1.16e-153,431.0,P,sodB,K04564,"Sod_Fe_C,Sod_Fe_N", FoxO signaling pathway
+QXV68744.1,HTZ92_0811,1.200509676,Destroys radicals which are normally produced within the cells and which are toxic to biological systems,superoxide dismutase,1.16e-153,431.0,P,sodB,K04564,"Sod_Fe_C,Sod_Fe_N", Peroxisome
+QXV68744.1,HTZ92_0811,1.200509676,Destroys radicals which are normally produced within the cells and which are toxic to biological systems,superoxide dismutase,1.16e-153,431.0,P,sodB,K04564,"Sod_Fe_C,Sod_Fe_N", Longevity regulating pathway
+QXV68744.1,HTZ92_0811,1.200509676,Destroys radicals which are normally produced within the cells and which are toxic to biological systems,superoxide dismutase,1.16e-153,431.0,P,sodB,K04564,"Sod_Fe_C,Sod_Fe_N", Longevity regulating pathway - worm
+QXV68744.1,HTZ92_0811,1.200509676,Destroys radicals which are normally produced within the cells and which are toxic to biological systems,superoxide dismutase,1.16e-153,431.0,P,sodB,K04564,"Sod_Fe_C,Sod_Fe_N", Longevity regulating pathway - multiple species
+QXV68744.1,HTZ92_0811,1.200509676,Destroys radicals which are normally produced within the cells and which are toxic to biological systems,superoxide dismutase,1.16e-153,431.0,P,sodB,K04564,"Sod_Fe_C,Sod_Fe_N", Huntington disease
+QXV68744.1,HTZ92_0811,1.200509676,Destroys radicals which are normally produced within the cells and which are toxic to biological systems,superoxide dismutase,1.16e-153,431.0,P,sodB,K04564,"Sod_Fe_C,Sod_Fe_N", Chemical carcinogenesis - reactive oxygen species
+QXV68744.1,HTZ92_0811,1.200509676,Destroys radicals which are normally produced within the cells and which are toxic to biological systems,superoxide dismutase,1.16e-153,431.0,P,sodB,K04564,"Sod_Fe_C,Sod_Fe_N", Lipid and atherosclerosis
+QXV68746.1,HTZ92_0813,1.033137044,"COG0265 Trypsin-like serine proteases, typically periplasmic, contain C-terminal PDZ domain",2-alkenal reductase,1.9e-278,761.0,O,degS,"K04691,K04772","PDZ_2,Trypsin_2",No pathway found
+QXV68755.1,HTZ92_0822,2.495124834,Domain of unknown function (DUF1974),acyl-CoA dehydrogenase,0.0,1621.0,I,fadE,"K00249,K06445","Acyl-CoA_dh_1,Acyl-CoA_dh_M,Acyl-CoA_dh_N,DUF1974",Fatty acid degradation
+QXV68755.1,HTZ92_0822,2.495124834,Domain of unknown function (DUF1974),acyl-CoA dehydrogenase,0.0,1621.0,I,fadE,"K00249,K06445","Acyl-CoA_dh_1,Acyl-CoA_dh_M,Acyl-CoA_dh_N,DUF1974"," Valine, leucine and isoleucine degradation"
+QXV68755.1,HTZ92_0822,2.495124834,Domain of unknown function (DUF1974),acyl-CoA dehydrogenase,0.0,1621.0,I,fadE,"K00249,K06445","Acyl-CoA_dh_1,Acyl-CoA_dh_M,Acyl-CoA_dh_N,DUF1974", Metabolic pathways
+QXV68755.1,HTZ92_0822,2.495124834,Domain of unknown function (DUF1974),acyl-CoA dehydrogenase,0.0,1621.0,I,fadE,"K00249,K06445","Acyl-CoA_dh_1,Acyl-CoA_dh_M,Acyl-CoA_dh_N,DUF1974", Biosynthesis of secondary metabolites
+QXV68755.1,HTZ92_0822,2.495124834,Domain of unknown function (DUF1974),acyl-CoA dehydrogenase,0.0,1621.0,I,fadE,"K00249,K06445","Acyl-CoA_dh_1,Acyl-CoA_dh_M,Acyl-CoA_dh_N,DUF1974", Fatty acid metabolism
+QXV68755.1,HTZ92_0822,2.495124834,Domain of unknown function (DUF1974),acyl-CoA dehydrogenase,0.0,1621.0,I,fadE,"K00249,K06445","Acyl-CoA_dh_1,Acyl-CoA_dh_M,Acyl-CoA_dh_N,DUF1974", PPAR signaling pathway
+QXV68755.1,HTZ92_0822,2.495124834,Domain of unknown function (DUF1974),acyl-CoA dehydrogenase,0.0,1621.0,I,fadE,"K00249,K06445","Acyl-CoA_dh_1,Acyl-CoA_dh_M,Acyl-CoA_dh_N,DUF1974", Alcoholic liver disease
+QXV68761.1,HTZ92_0828,2.668659994,OmpW family,ompW family protein,2.18e-220,612.0,M,-,-,OmpW,
+QXV68794.1,HTZ92_0861,1.314690813,Helix-turn-helix,hypothetical protein,8.84e-43,139.0,S,-,-,HTH_3,
+QXV68802.1,HTZ92_0869,2.168022151,,hypothetical protein,,,,,,,
+QXV68803.1,HTZ92_0870,1.826896183,,hypothetical protein,,,,,,,
+QXV68805.1,HTZ92_0872,2.263015011,,hypothetical protein,,,,,,,
+QXV68807.1,HTZ92_0874,1.544327483,,hypothetical protein,,,,,,,
+QXV68809.1,HTZ92_0876,1.22633261,-,hypothetical protein,7.69e-79,237.0,-,-,-,-,
+QXV68817.1,HTZ92_0884,1.050813843,Phage Mu protein F like protein,phage head morphogenesis protein,1.1e-239,661.0,S,-,-,Phage_Mu_F,
+QXV68819.1,HTZ92_0886,1.015482605,-,hypothetical protein,3.99e-79,246.0,-,-,-,-,
+QXV68820.1,HTZ92_0887,1.18394156,P22 coat protein - gene protein 5,P22 coat - protein 5 family protein,1.68e-197,556.0,S,-,-,P22_CoatProtein,
+QXV68821.1,HTZ92_0888,1.177657625,,hypothetical protein,,,,,,,
+QXV68830.1,HTZ92_0897,1.422172659,-,hypothetical protein,3.29e-75,225.0,-,-,-,-,
+QXV68831.1,HTZ92_0898,1.372088555,-,tail fiber protein,2.63e-140,411.0,-,-,-,-,
+QXV68832.1,HTZ92_0899,1.219494343,-,hypothetical protein,2.46e-217,600.0,-,-,-,-,
+QXV68877.1,HTZ92_0944,1.111204022,Cell wall formation. Synthesis of cross-linked peptidoglycan from the lipid intermediates. The enzyme has a penicillin-insensitive transglycosylase N-terminal domain (formation of linear glycan strands) and a penicillin-sensitive transpeptidase C-terminal domain (cross-linking of the peptide subunits),bifunctional protein,0.0,1578.0,M,mrcB,K05365,"PBP1_TM,Transgly,Transpeptidase,UB2H",Peptidoglycan biosynthesis
+QXV68877.1,HTZ92_0944,1.111204022,Cell wall formation. Synthesis of cross-linked peptidoglycan from the lipid intermediates. The enzyme has a penicillin-insensitive transglycosylase N-terminal domain (formation of linear glycan strands) and a penicillin-sensitive transpeptidase C-terminal domain (cross-linking of the peptide subunits),bifunctional protein,0.0,1578.0,M,mrcB,K05365,"PBP1_TM,Transgly,Transpeptidase,UB2H", Metabolic pathways
+QXV68887.1,HTZ92_0954,1.108923183,Peptidase family M20/M25/M40,aminoacyl-histidine dipeptidase,0.0,946.0,E,pepD,K01270,"M20_dimer,Peptidase_M20",Glutathione metabolism
+QXV68887.1,HTZ92_0954,1.108923183,Peptidase family M20/M25/M40,aminoacyl-histidine dipeptidase,0.0,946.0,E,pepD,K01270,"M20_dimer,Peptidase_M20", Metabolic pathways
+QXV68899.1,HTZ92_0966,4.709042654,-,hypothetical protein,2.07e-80,239.0,-,-,-,-,
+QXV68900.1,HTZ92_0967,1.511366424,Nitroreductase family,nitroreductase,1.73e-133,378.0,C,ydjA,-,Nitroreductase,
+QXV68901.1,HTZ92_0968,1.540602432,Glycerol-3-phosphate dehydrogenase,glycerol-3-phosphate dehydrogenase (NAD(P)(+)),1.09e-253,696.0,I,gpsA,K00057,"NAD_Gly3P_dh_C,NAD_Gly3P_dh_N",Glycerophospholipid metabolism
+QXV68901.1,HTZ92_0968,1.540602432,Glycerol-3-phosphate dehydrogenase,glycerol-3-phosphate dehydrogenase (NAD(P)(+)),1.09e-253,696.0,I,gpsA,K00057,"NAD_Gly3P_dh_C,NAD_Gly3P_dh_N", Biosynthesis of secondary metabolites
+QXV68911.1,HTZ92_0978,1.326140971,"Functions as both a chaperone and a metalloprotease. Maintains the integrity of the outer membrane by promoting either the assembly or the elimination of outer membrane proteins, depending on their folding state",peptidase M48,0.0,905.0,S,bepA,-,"Peptidase_M48,TPR_19",
+QXV68923.1,HTZ92_0990,4.616501,Uncharacterized protein conserved in bacteria (DUF2171),hypothetical protein,2.22e-50,159.0,S,-,-,DUF2171,
+QXV68924.1,HTZ92_0991,1.98748042,acyl-CoA dehydrogenase,acyl-CoA dehydrogenase,1.48e-246,676.0,I,-,-,"Acyl-CoA_dh_1,Acyl-CoA_dh_M",
+QXV68925.1,HTZ92_0992,1.910839115,GlcNAc-PI de-N-acetylase,LmbE protein,1.02e-193,536.0,M,-,-,PIG-L,
+QXV68928.1,HTZ92_0995,3.47364201,Bacterial OB fold (BOF) protein,DNA-binding protein,1.01e-75,226.0,S,-,-,BOF,
+QXV68975.1,HTZ92_1042,1.556101718,Glucose / Sorbosone dehydrogenase,sorbosone dehydrogenase,0.0,922.0,G,IV02_03800,-,GSDH,
+QXV68980.1,HTZ92_1047,1.444007525,-,hypothetical protein,7.81e-42,137.0,-,-,-,-,
+QXV68990.1,HTZ92_1057,3.529089128,-,signal peptide protein,1.45e-50,159.0,-,-,-,-,
+QXV69010.1,HTZ92_1077,3.996131404,"Exports the biofilm adhesin polysaccharide poly-beta- 1,6-N-acetyl-D-glucosamine (PGA) across the outer membrane. The PGA transported seems to be partially N-deacetylated since N- deacetylation of PGA by PgaB is needed for PGA export through the PgaA porin","poly-beta-1,6 N-acetyl-D-glucosamine export porin PgaA",0.0,1606.0,S,pgaA,K11935,"TPR_16,TPR_19",Biofilm formation - Escherichia coli
+QXV69011.1,HTZ92_1078,3.732081994,Hypothetical glycosyl hydrolase family 13,"poly-beta-1,6-N-acetyl-D-glucosamine N-deacetylase PgaB",0.0,1187.0,G,pgaB,"K11931,K21478","GHL13,Polysacc_deac_1",Biofilm formation - Escherichia coli
+QXV69012.1,HTZ92_1079,3.165609798,Glycosyl transferase family 21,"poly-beta-1,6 N-acetyl-D-glucosamine synthase",0.0,842.0,M,pgaC,K11936,Glyco_tranf_2_3,Exopolysaccharide biosynthesis
+QXV69012.1,HTZ92_1079,3.165609798,Glycosyl transferase family 21,"poly-beta-1,6 N-acetyl-D-glucosamine synthase",0.0,842.0,M,pgaC,K11936,Glyco_tranf_2_3, Biofilm formation - Escherichia coli
+QXV69013.1,HTZ92_1080,3.221729517,PgaD-like protein,"poly-beta-1,6-N-acetyl-D-glucosamine biosynthesis protein PgaD",5.92e-107,308.0,S,-,K11937,PgaD,Exopolysaccharide biosynthesis
+QXV69013.1,HTZ92_1080,3.221729517,PgaD-like protein,"poly-beta-1,6-N-acetyl-D-glucosamine biosynthesis protein PgaD",5.92e-107,308.0,S,-,K11937,PgaD, Biofilm formation - Escherichia coli
+QXV69014.1,HTZ92_1081,1.727319801,flavoprotein involved in K transport,flavoprotein,6.06e-132,374.0,P,-,-,-,
+QXV69015.1,HTZ92_1082,3.374262121,Luciferase-like monooxygenase,"luciferase family oxidoreductase, FMN-dependent, PP_0088 family",1.58e-239,658.0,C,yhbW,-,Bac_luciferase,
+QXV69016.1,HTZ92_1083,7.606510074,-,glycine zipper,8.81e-43,147.0,-,-,-,Gly-zipper_Omp,
+QXV69017.1,HTZ92_1084,5.617244573,-,signal peptide protein,2.54e-39,136.0,-,-,-,"Gly-zipper_Omp,Rick_17kDa_Anti",
+QXV69026.1,HTZ92_1095,1.420563948,COG0476 Dinucleotide-utilizing enzymes involved in molybdopterin and thiamine biosynthesis family 2,molybdopterin biosynthesis protein,1.57e-185,515.0,H,moeB,"K03148,K21029",ThiF,Thiamine metabolism
+QXV69026.1,HTZ92_1095,1.420563948,COG0476 Dinucleotide-utilizing enzymes involved in molybdopterin and thiamine biosynthesis family 2,molybdopterin biosynthesis protein,1.57e-185,515.0,H,moeB,"K03148,K21029",ThiF, Metabolic pathways
+QXV69026.1,HTZ92_1095,1.420563948,COG0476 Dinucleotide-utilizing enzymes involved in molybdopterin and thiamine biosynthesis family 2,molybdopterin biosynthesis protein,1.57e-185,515.0,H,moeB,"K03148,K21029",ThiF, Biosynthesis of cofactors
+QXV69026.1,HTZ92_1095,1.420563948,COG0476 Dinucleotide-utilizing enzymes involved in molybdopterin and thiamine biosynthesis family 2,molybdopterin biosynthesis protein,1.57e-185,515.0,H,moeB,"K03148,K21029",ThiF, Sulfur relay system
+QXV69058.1,HTZ92_1127,1.308236875,"Catalyzes the transfer of a dimethylallyl group onto the adenine at position 37 in tRNAs that read codons beginning with uridine, leading to the formation of N6-(dimethylallyl)adenosine (i(6)A)",tRNA dimethylallyltransferase,8.3e-225,619.0,F,miaA,K00791,IPPT,Zeatin biosynthesis
+QXV69058.1,HTZ92_1127,1.308236875,"Catalyzes the transfer of a dimethylallyl group onto the adenine at position 37 in tRNAs that read codons beginning with uridine, leading to the formation of N6-(dimethylallyl)adenosine (i(6)A)",tRNA dimethylallyltransferase,8.3e-225,619.0,F,miaA,K00791,IPPT, Metabolic pathways
+QXV69058.1,HTZ92_1127,1.308236875,"Catalyzes the transfer of a dimethylallyl group onto the adenine at position 37 in tRNAs that read codons beginning with uridine, leading to the formation of N6-(dimethylallyl)adenosine (i(6)A)",tRNA dimethylallyltransferase,8.3e-225,619.0,F,miaA,K00791,IPPT, Biosynthesis of secondary metabolites
+QXV69064.1,HTZ92_1133,1.034132091,PPIases accelerate the folding of proteins. It catalyzes the cis-trans isomerization of proline imidic peptide bonds in oligopeptides,cyclophilin,9.55e-118,337.0,G,ppiB,K03768,Pro_isomerase,No pathway found
+QXV69078.1,HTZ92_1147,3.333109559,-,hypothetical protein,2.02e-52,165.0,-,-,-,-,
+QXV69085.1,HTZ92_1154,1.723970508,Enoyl-(Acyl carrier protein) reductase,"oxidoreductase, short chain dehydrogenase/reductase family protein",7.72e-179,498.0,IQ,-,-,adh_short,
+QXV69092.1,HTZ92_1161,2.522730731,Mechanosensitive ion channel,mechanosensitive ion channel protein MscS,8.84e-285,779.0,M,ybdG,K16053,MS_channel,No pathway found
+QXV69093.1,HTZ92_1162,2.482941997,-,hypothetical protein,1.14e-48,155.0,-,-,-,-,
+QXV69095.1,HTZ92_1164,3.459706277,-,hypothetical protein,6.38e-64,194.0,-,-,-,-,
+QXV69100.1,HTZ92_1169,3.229030515,-,hypothetical protein,2.14e-20,81.3,-,-,-,-,
+QXV69113.1,HTZ92_1182,1.404413952,Transaldolase is important for the balance of metabolites in the pentose-phosphate pathway,transaldolase,2.13e-230,635.0,H,tal,K00616,TAL_FSA,Pentose phosphate pathway
+QXV69113.1,HTZ92_1182,1.404413952,Transaldolase is important for the balance of metabolites in the pentose-phosphate pathway,transaldolase,2.13e-230,635.0,H,tal,K00616,TAL_FSA, Carbon fixation by Calvin cycle
+QXV69113.1,HTZ92_1182,1.404413952,Transaldolase is important for the balance of metabolites in the pentose-phosphate pathway,transaldolase,2.13e-230,635.0,H,tal,K00616,TAL_FSA, Metabolic pathways
+QXV69113.1,HTZ92_1182,1.404413952,Transaldolase is important for the balance of metabolites in the pentose-phosphate pathway,transaldolase,2.13e-230,635.0,H,tal,K00616,TAL_FSA, Biosynthesis of secondary metabolites
+QXV69113.1,HTZ92_1182,1.404413952,Transaldolase is important for the balance of metabolites in the pentose-phosphate pathway,transaldolase,2.13e-230,635.0,H,tal,K00616,TAL_FSA, Microbial metabolism in diverse environments
+QXV69113.1,HTZ92_1182,1.404413952,Transaldolase is important for the balance of metabolites in the pentose-phosphate pathway,transaldolase,2.13e-230,635.0,H,tal,K00616,TAL_FSA, Carbon metabolism
+QXV69113.1,HTZ92_1182,1.404413952,Transaldolase is important for the balance of metabolites in the pentose-phosphate pathway,transaldolase,2.13e-230,635.0,H,tal,K00616,TAL_FSA, Biosynthesis of amino acids
+QXV69116.1,HTZ92_1185,1.449113164,Belongs to the thiolase family,acetyl-CoA acetyltransferase,0.0,944.0,I,fadI,K00626,"Thiolase_C,Thiolase_N",Fatty acid degradation
+QXV69116.1,HTZ92_1185,1.449113164,Belongs to the thiolase family,acetyl-CoA acetyltransferase,0.0,944.0,I,fadI,K00626,"Thiolase_C,Thiolase_N"," Valine, leucine and isoleucine degradation"
+QXV69116.1,HTZ92_1185,1.449113164,Belongs to the thiolase family,acetyl-CoA acetyltransferase,0.0,944.0,I,fadI,K00626,"Thiolase_C,Thiolase_N", Lysine degradation
+QXV69116.1,HTZ92_1185,1.449113164,Belongs to the thiolase family,acetyl-CoA acetyltransferase,0.0,944.0,I,fadI,K00626,"Thiolase_C,Thiolase_N", Benzoate degradation
+QXV69116.1,HTZ92_1185,1.449113164,Belongs to the thiolase family,acetyl-CoA acetyltransferase,0.0,944.0,I,fadI,K00626,"Thiolase_C,Thiolase_N", Tryptophan metabolism
+QXV69116.1,HTZ92_1185,1.449113164,Belongs to the thiolase family,acetyl-CoA acetyltransferase,0.0,944.0,I,fadI,K00626,"Thiolase_C,Thiolase_N", Pyruvate metabolism
+QXV69116.1,HTZ92_1185,1.449113164,Belongs to the thiolase family,acetyl-CoA acetyltransferase,0.0,944.0,I,fadI,K00626,"Thiolase_C,Thiolase_N", Glyoxylate and dicarboxylate metabolism
+QXV69116.1,HTZ92_1185,1.449113164,Belongs to the thiolase family,acetyl-CoA acetyltransferase,0.0,944.0,I,fadI,K00626,"Thiolase_C,Thiolase_N", Butanoate metabolism
+QXV69116.1,HTZ92_1185,1.449113164,Belongs to the thiolase family,acetyl-CoA acetyltransferase,0.0,944.0,I,fadI,K00626,"Thiolase_C,Thiolase_N", Other carbon fixation pathways
+QXV69116.1,HTZ92_1185,1.449113164,Belongs to the thiolase family,acetyl-CoA acetyltransferase,0.0,944.0,I,fadI,K00626,"Thiolase_C,Thiolase_N", Terpenoid backbone biosynthesis
+QXV69116.1,HTZ92_1185,1.449113164,Belongs to the thiolase family,acetyl-CoA acetyltransferase,0.0,944.0,I,fadI,K00626,"Thiolase_C,Thiolase_N", Metabolic pathways
+QXV69116.1,HTZ92_1185,1.449113164,Belongs to the thiolase family,acetyl-CoA acetyltransferase,0.0,944.0,I,fadI,K00626,"Thiolase_C,Thiolase_N", Biosynthesis of secondary metabolites
+QXV69116.1,HTZ92_1185,1.449113164,Belongs to the thiolase family,acetyl-CoA acetyltransferase,0.0,944.0,I,fadI,K00626,"Thiolase_C,Thiolase_N", Microbial metabolism in diverse environments
+QXV69116.1,HTZ92_1185,1.449113164,Belongs to the thiolase family,acetyl-CoA acetyltransferase,0.0,944.0,I,fadI,K00626,"Thiolase_C,Thiolase_N", Carbon metabolism
+QXV69116.1,HTZ92_1185,1.449113164,Belongs to the thiolase family,acetyl-CoA acetyltransferase,0.0,944.0,I,fadI,K00626,"Thiolase_C,Thiolase_N", Fatty acid metabolism
+QXV69116.1,HTZ92_1185,1.449113164,Belongs to the thiolase family,acetyl-CoA acetyltransferase,0.0,944.0,I,fadI,K00626,"Thiolase_C,Thiolase_N", Two-component system
+QXV69116.1,HTZ92_1185,1.449113164,Belongs to the thiolase family,acetyl-CoA acetyltransferase,0.0,944.0,I,fadI,K00626,"Thiolase_C,Thiolase_N", Fat digestion and absorption
+QXV69117.1,HTZ92_1186,2.219329114,KR domain,3-ketoacyl-ACP reductase,0.0,876.0,IQ,fabG,K00059,adh_short_C2,Fatty acid biosynthesis
+QXV69117.1,HTZ92_1186,2.219329114,KR domain,3-ketoacyl-ACP reductase,0.0,876.0,IQ,fabG,K00059,adh_short_C2, Prodigiosin biosynthesis
+QXV69117.1,HTZ92_1186,2.219329114,KR domain,3-ketoacyl-ACP reductase,0.0,876.0,IQ,fabG,K00059,adh_short_C2, Biotin metabolism
+QXV69117.1,HTZ92_1186,2.219329114,KR domain,3-ketoacyl-ACP reductase,0.0,876.0,IQ,fabG,K00059,adh_short_C2, Metabolic pathways
+QXV69117.1,HTZ92_1186,2.219329114,KR domain,3-ketoacyl-ACP reductase,0.0,876.0,IQ,fabG,K00059,adh_short_C2, Biosynthesis of secondary metabolites
+QXV69117.1,HTZ92_1186,2.219329114,KR domain,3-ketoacyl-ACP reductase,0.0,876.0,IQ,fabG,K00059,adh_short_C2, Fatty acid metabolism
+QXV69117.1,HTZ92_1186,2.219329114,KR domain,3-ketoacyl-ACP reductase,0.0,876.0,IQ,fabG,K00059,adh_short_C2, Biosynthesis of cofactors
+QXV69118.1,HTZ92_1187,1.146474381,MaoC like domain,dehydratase,4.19e-203,562.0,I,-,-,MaoC_dehydratas,
+QXV69127.1,HTZ92_1196,1.135241088,"Lactonase, 7-bladed beta-propeller",lactonase,1.03e-305,832.0,G,-,-,Lactonase,
+QXV69132.1,HTZ92_1201,1.151178568,Belongs to the glutamate synthase family,glutamate synthase,0.0,1131.0,E,HA62_33250,-,Glu_synthase,
+QXV69160.1,HTZ92_1231,2.354473398,DsrE/DsrF-like family,sulfur relay protein TusD/DsrE,2.76e-83,246.0,P,tusD,K07235,DrsE,Sulfur relay system
+QXV69161.1,HTZ92_1232,1.900120821,RmlD substrate binding domain,UDP-glucose 4-epimerase,1.71e-239,658.0,M,-,K01784,"Epimerase,GDP_Man_Dehyd",Galactose metabolism
+QXV69161.1,HTZ92_1232,1.900120821,RmlD substrate binding domain,UDP-glucose 4-epimerase,1.71e-239,658.0,M,-,K01784,"Epimerase,GDP_Man_Dehyd", Amino sugar and nucleotide sugar metabolism
+QXV69161.1,HTZ92_1232,1.900120821,RmlD substrate binding domain,UDP-glucose 4-epimerase,1.71e-239,658.0,M,-,K01784,"Epimerase,GDP_Man_Dehyd", Metabolic pathways
+QXV69161.1,HTZ92_1232,1.900120821,RmlD substrate binding domain,UDP-glucose 4-epimerase,1.71e-239,658.0,M,-,K01784,"Epimerase,GDP_Man_Dehyd", Biosynthesis of nucleotide sugars
+QXV69162.1,HTZ92_1233,1.908514186,Involved in the TCA cycle. Catalyzes the stereospecific interconversion of fumarate to L-malate,class II fumarate hydratase,0.0,912.0,C,fumC,K01679,"FumaraseC_C,Lyase_1",Citrate cycle (TCA cycle)
+QXV69162.1,HTZ92_1233,1.908514186,Involved in the TCA cycle. Catalyzes the stereospecific interconversion of fumarate to L-malate,class II fumarate hydratase,0.0,912.0,C,fumC,K01679,"FumaraseC_C,Lyase_1", Pyruvate metabolism
+QXV69162.1,HTZ92_1233,1.908514186,Involved in the TCA cycle. Catalyzes the stereospecific interconversion of fumarate to L-malate,class II fumarate hydratase,0.0,912.0,C,fumC,K01679,"FumaraseC_C,Lyase_1", Other carbon fixation pathways
+QXV69162.1,HTZ92_1233,1.908514186,Involved in the TCA cycle. Catalyzes the stereospecific interconversion of fumarate to L-malate,class II fumarate hydratase,0.0,912.0,C,fumC,K01679,"FumaraseC_C,Lyase_1", Metabolic pathways
+QXV69162.1,HTZ92_1233,1.908514186,Involved in the TCA cycle. Catalyzes the stereospecific interconversion of fumarate to L-malate,class II fumarate hydratase,0.0,912.0,C,fumC,K01679,"FumaraseC_C,Lyase_1", Biosynthesis of secondary metabolites
+QXV69162.1,HTZ92_1233,1.908514186,Involved in the TCA cycle. Catalyzes the stereospecific interconversion of fumarate to L-malate,class II fumarate hydratase,0.0,912.0,C,fumC,K01679,"FumaraseC_C,Lyase_1", Microbial metabolism in diverse environments
+QXV69162.1,HTZ92_1233,1.908514186,Involved in the TCA cycle. Catalyzes the stereospecific interconversion of fumarate to L-malate,class II fumarate hydratase,0.0,912.0,C,fumC,K01679,"FumaraseC_C,Lyase_1", Carbon metabolism
+QXV69162.1,HTZ92_1233,1.908514186,Involved in the TCA cycle. Catalyzes the stereospecific interconversion of fumarate to L-malate,class II fumarate hydratase,0.0,912.0,C,fumC,K01679,"FumaraseC_C,Lyase_1", Cushing syndrome
+QXV69162.1,HTZ92_1233,1.908514186,Involved in the TCA cycle. Catalyzes the stereospecific interconversion of fumarate to L-malate,class II fumarate hydratase,0.0,912.0,C,fumC,K01679,"FumaraseC_C,Lyase_1", Pathways in cancer
+QXV69162.1,HTZ92_1233,1.908514186,Involved in the TCA cycle. Catalyzes the stereospecific interconversion of fumarate to L-malate,class II fumarate hydratase,0.0,912.0,C,fumC,K01679,"FumaraseC_C,Lyase_1", Renal cell carcinoma
+QXV69163.1,HTZ92_1234,2.954472617,-,hypothetical protein,2.17e-62,191.0,-,-,-,-,
+QXV69181.1,HTZ92_1252,1.033924226,"Part of the outer membrane protein assembly complex, which is involved in assembly and insertion of beta-barrel proteins into the outer membrane","outer membrane assembly complex, YaeT protein",0.0,1676.0,M,bamA,K07277,"Bac_surface_Ag,POTRA",Mitophagy - animal
+QXV69201.1,HTZ92_1272,1.579034946,Belongs to the SOS response-associated peptidase family,SOS response associated peptidase (SRAP),5.98e-161,449.0,S,-,-,SRAP,
+QXV69202.1,HTZ92_1273,1.74218279,Glucose / Sorbosone dehydrogenase,quinoprotein glucose dehydrogenase,0.0,989.0,G,-,K00117,GSDH,Pentose phosphate pathway
+QXV69202.1,HTZ92_1273,1.74218279,Glucose / Sorbosone dehydrogenase,quinoprotein glucose dehydrogenase,0.0,989.0,G,-,K00117,GSDH, Metabolic pathways
+QXV69202.1,HTZ92_1273,1.74218279,Glucose / Sorbosone dehydrogenase,quinoprotein glucose dehydrogenase,0.0,989.0,G,-,K00117,GSDH, Biosynthesis of secondary metabolites
+QXV69211.1,HTZ92_1282,1.554047791,"Serine aminopeptidase, S33",alpha/beta hydrolase,4.94e-212,585.0,S,-,-,"Abhydrolase_1,Hydrolase_4",
+QXV69227.1,HTZ92_1298,1.939091433,Nitroreductase family,nitroreductase,9.56e-139,392.0,S,-,K07078,Nitroreductase,No pathway found
+QXV69255.1,HTZ92_1326,3.006542191,"2,4-dienoyl-coA reductase",pyridine nucleotide-disulfide oxidoreductase,0.0,1329.0,C,fadH,K00219,"Oxidored_FMN,Pyr_redox_2",No pathway found
+QXV69256.1,HTZ92_1327,2.577725573,SnoaL-like domain,polyketide cyclase,5.98e-91,266.0,S,-,-,SnoaL_2,
+QXV69312.1,HTZ92_1385,1.737405725,"Mandelate racemase / muconate lactonizing enzyme, C-terminal domain",muconate cycloisomerase,1.14e-256,704.0,G,catB,K01856,"MR_MLE_C,MR_MLE_N",Chlorocyclohexane and chlorobenzene degradation
+QXV69312.1,HTZ92_1385,1.737405725,"Mandelate racemase / muconate lactonizing enzyme, C-terminal domain",muconate cycloisomerase,1.14e-256,704.0,G,catB,K01856,"MR_MLE_C,MR_MLE_N", Benzoate degradation
+QXV69312.1,HTZ92_1385,1.737405725,"Mandelate racemase / muconate lactonizing enzyme, C-terminal domain",muconate cycloisomerase,1.14e-256,704.0,G,catB,K01856,"MR_MLE_C,MR_MLE_N", Fluorobenzoate degradation
+QXV69312.1,HTZ92_1385,1.737405725,"Mandelate racemase / muconate lactonizing enzyme, C-terminal domain",muconate cycloisomerase,1.14e-256,704.0,G,catB,K01856,"MR_MLE_C,MR_MLE_N", Toluene degradation
+QXV69312.1,HTZ92_1385,1.737405725,"Mandelate racemase / muconate lactonizing enzyme, C-terminal domain",muconate cycloisomerase,1.14e-256,704.0,G,catB,K01856,"MR_MLE_C,MR_MLE_N", Metabolic pathways
+QXV69312.1,HTZ92_1385,1.737405725,"Mandelate racemase / muconate lactonizing enzyme, C-terminal domain",muconate cycloisomerase,1.14e-256,704.0,G,catB,K01856,"MR_MLE_C,MR_MLE_N", Microbial metabolism in diverse environments
+QXV69312.1,HTZ92_1385,1.737405725,"Mandelate racemase / muconate lactonizing enzyme, C-terminal domain",muconate cycloisomerase,1.14e-256,704.0,G,catB,K01856,"MR_MLE_C,MR_MLE_N", Degradation of aromatic compounds
+QXV69321.1,HTZ92_1394,2.590166826,"Serine aminopeptidase, S33",alpha/beta hydrolase,2.85e-206,569.0,I,cpo,K00433,Abhydrolase_1,No pathway found
+QXV69322.1,HTZ92_1395,2.282223126,NADH:flavin oxidoreductase / NADH oxidase family,"2,4-dienoyl-CoA reductase",1.96e-293,801.0,C,-,-,Oxidored_FMN,
+QXV69323.1,HTZ92_1396,2.111094315,Saccharopine dehydrogenase NADP binding domain,saccharopine dehydrogenase,3.35e-247,679.0,S,lys,-,Sacchrp_dh_NADP,
+QXV69326.1,HTZ92_1399,2.449949748,DJ-1/PfpI family,protease I,1.14e-164,460.0,S,-,-,DJ-1_PfpI,
+QXV69327.1,HTZ92_1400,1.508743112,Pyridine nucleotide-disulphide oxidoreductase,pyridine nucleotide-disulfide oxidoreductase,1.42e-269,740.0,C,-,K03885,Pyr_redox_2,Oxidative phosphorylation
+QXV69327.1,HTZ92_1400,1.508743112,Pyridine nucleotide-disulphide oxidoreductase,pyridine nucleotide-disulfide oxidoreductase,1.42e-269,740.0,C,-,K03885,Pyr_redox_2, Metabolic pathways
+QXV69328.1,HTZ92_1401,1.892736536,Transcriptional regulator,transcriptional regulator,3.96e-128,364.0,K,-,-,Rrf2,
+QXV69329.1,HTZ92_1402,5.311107667,Beta-lactamase superfamily domain,hydrolase,5.87e-258,705.0,S,-,-,Lactamase_B_2,
+QXV69330.1,HTZ92_1403,3.024671827,"Bacterial regulatory proteins, tetR family",TetR family transcriptional regulator,1.26e-125,358.0,K,-,-,TetR_N,
+QXV69336.1,HTZ92_1409,1.389519395,Acetyl-CoA dehydrogenase C-terminal like,acyl-CoA dehydrogenase,0.0,1216.0,I,-,K00248,"Acyl-CoA_dh_1,Acyl-CoA_dh_C,Acyl-CoA_dh_M,Acyl-CoA_dh_N,AcylCoA_DH_N",Fatty acid degradation
+QXV69336.1,HTZ92_1409,1.389519395,Acetyl-CoA dehydrogenase C-terminal like,acyl-CoA dehydrogenase,0.0,1216.0,I,-,K00248,"Acyl-CoA_dh_1,Acyl-CoA_dh_C,Acyl-CoA_dh_M,Acyl-CoA_dh_N,AcylCoA_DH_N"," Valine, leucine and isoleucine degradation"
+QXV69336.1,HTZ92_1409,1.389519395,Acetyl-CoA dehydrogenase C-terminal like,acyl-CoA dehydrogenase,0.0,1216.0,I,-,K00248,"Acyl-CoA_dh_1,Acyl-CoA_dh_C,Acyl-CoA_dh_M,Acyl-CoA_dh_N,AcylCoA_DH_N", beta-Alanine metabolism
+QXV69336.1,HTZ92_1409,1.389519395,Acetyl-CoA dehydrogenase C-terminal like,acyl-CoA dehydrogenase,0.0,1216.0,I,-,K00248,"Acyl-CoA_dh_1,Acyl-CoA_dh_C,Acyl-CoA_dh_M,Acyl-CoA_dh_N,AcylCoA_DH_N", Propanoate metabolism
+QXV69336.1,HTZ92_1409,1.389519395,Acetyl-CoA dehydrogenase C-terminal like,acyl-CoA dehydrogenase,0.0,1216.0,I,-,K00248,"Acyl-CoA_dh_1,Acyl-CoA_dh_C,Acyl-CoA_dh_M,Acyl-CoA_dh_N,AcylCoA_DH_N", Butanoate metabolism
+QXV69336.1,HTZ92_1409,1.389519395,Acetyl-CoA dehydrogenase C-terminal like,acyl-CoA dehydrogenase,0.0,1216.0,I,-,K00248,"Acyl-CoA_dh_1,Acyl-CoA_dh_C,Acyl-CoA_dh_M,Acyl-CoA_dh_N,AcylCoA_DH_N", Metabolic pathways
+QXV69336.1,HTZ92_1409,1.389519395,Acetyl-CoA dehydrogenase C-terminal like,acyl-CoA dehydrogenase,0.0,1216.0,I,-,K00248,"Acyl-CoA_dh_1,Acyl-CoA_dh_C,Acyl-CoA_dh_M,Acyl-CoA_dh_N,AcylCoA_DH_N", Biosynthesis of secondary metabolites
+QXV69336.1,HTZ92_1409,1.389519395,Acetyl-CoA dehydrogenase C-terminal like,acyl-CoA dehydrogenase,0.0,1216.0,I,-,K00248,"Acyl-CoA_dh_1,Acyl-CoA_dh_C,Acyl-CoA_dh_M,Acyl-CoA_dh_N,AcylCoA_DH_N", Microbial metabolism in diverse environments
+QXV69336.1,HTZ92_1409,1.389519395,Acetyl-CoA dehydrogenase C-terminal like,acyl-CoA dehydrogenase,0.0,1216.0,I,-,K00248,"Acyl-CoA_dh_1,Acyl-CoA_dh_C,Acyl-CoA_dh_M,Acyl-CoA_dh_N,AcylCoA_DH_N", Carbon metabolism
+QXV69336.1,HTZ92_1409,1.389519395,Acetyl-CoA dehydrogenase C-terminal like,acyl-CoA dehydrogenase,0.0,1216.0,I,-,K00248,"Acyl-CoA_dh_1,Acyl-CoA_dh_C,Acyl-CoA_dh_M,Acyl-CoA_dh_N,AcylCoA_DH_N", Fatty acid metabolism
+QXV69355.1,HTZ92_1428,1.480865298,Barrel-sandwich domain of CusB or HlyD membrane-fusion,hemolysin D,3.03e-237,655.0,V,emra3,K03543,"Biotin_lipoyl_2,HlyD_3,HlyD_D23",No pathway found
+QXV69356.1,HTZ92_1429,2.261008306,Major Facilitator Superfamily,MFS transporter,0.0,1018.0,EGP,-,K03446,MFS_1,No pathway found
+QXV69418.1,HTZ92_1491,1.211043879,Barrel-sandwich domain of CusB or HlyD membrane-fusion,AdeA/AdeI family multidrug efflux RND transporter periplasmic adaptor subunit,1.28e-274,752.0,M,-,K18145,HlyD_D23,beta-Lactam resistance
+QXV69419.1,HTZ92_1492,1.358387117,MMPL family,multidrug efflux RND transporter permease subunit,0.0,1913.0,V,acrF,"K03296,K18146",ACR_tran,beta-Lactam resistance
+QXV69428.1,HTZ92_1501,1.804102418,Glycoside hydrolase family 24,hypothetical protein,0.0,1303.0,S,-,-,-,
+QXV69435.1,HTZ92_1508,3.192748261,-,hypothetical protein,2.34e-19,79.7,-,-,-,-,
+QXV69439.1,HTZ92_1512,1.315609017,"Ring cyclization and eight-electron oxidation of 3a-(2- amino-2-carboxyethyl)-4,5-dioxo-4,5,6,7,8,9-hexahydroquinoline- 7,9-dicarboxylic-acid to PQQ",pyrroloquinoline-quinone synthase,2.51e-188,522.0,H,pqqC,K06137,TENA_THI-4,No pathway found
+QXV69495.1,HTZ92_1568,1.036705477,Pyridine nucleotide-disulphide oxidoreductase,NAD(FAD)-dependent dehydrogenase,0.0,1115.0,S,sqrdl,K17218,"DUF442,Pyr_redox_2",Sulfur metabolism
+QXV69495.1,HTZ92_1568,1.036705477,Pyridine nucleotide-disulphide oxidoreductase,NAD(FAD)-dependent dehydrogenase,0.0,1115.0,S,sqrdl,K17218,"DUF442,Pyr_redox_2", Microbial metabolism in diverse environments
+QXV69520.1,HTZ92_1593,2.508420597,-,hypothetical protein,1.76e-22,88.2,-,-,-,-,
+QXV69525.1,HTZ92_1598,2.615292268,Bacterial protein of unknown function (DUF937),hypothetical protein,6.88e-106,309.0,S,yidB,-,DUF937,
+QXV69541.1,HTZ92_1614,1.177518408,Histidine phosphatase superfamily (branch 2),histidine phosphatase,0.0,983.0,S,-,-,His_Phos_2,
+QXV69560.1,HTZ92_1633,2.143658943,-,hypothetical protein,3.17e-65,198.0,-,-,-,-,
+QXV69562.1,HTZ92_1635,1.651173309,"Acyl-CoA dehydrogenase, C-terminal domain",acyl-CoA dehydrogenase,5.37e-307,837.0,I,-,-,"Acyl-CoA_dh_1,Acyl-CoA_dh_M,Acyl-CoA_dh_N",
+QXV69579.1,HTZ92_1652,1.258633551,"Couples transcription and DNA repair by recognizing RNA polymerase (RNAP) stalled at DNA lesions. Mediates ATP-dependent release of RNAP and its truncated transcript from the DNA, and recruitment of nucleotide excision repair machinery to the damaged site",transcription-repair coupling factor,0.0,2254.0,L,mfd,K03723,"CarD_CdnL_TRCF,DEAD,Helicase_C,TRCF",Nucleotide excision repair
+QXV69583.1,HTZ92_1656,1.316818225,Catalyzes the aldol cleavage of 4-hydroxy-4-methyl-2- oxoglutarate (HMG) into 2 molecules of pyruvate. Also contains a secondary oxaloacetate (OAA) decarboxylase activity due to the common pyruvate enolate transition state formed following C-C bond cleavage in the retro-aldol and decarboxylation reactions,ribonuclease,1.53e-118,338.0,H,rraA,K02553,RraA-like,No pathway found
+QXV69602.1,HTZ92_1675,1.026960312,Involved in the glycolate utilization. Catalyzes the condensation and subsequent hydrolysis of acetyl-coenzyme A (acetyl-CoA) and glyoxylate to form malate and CoA,malate synthase G,0.0,1440.0,C,glcB,K01638,Malate_synthase,Pyruvate metabolism
+QXV69602.1,HTZ92_1675,1.026960312,Involved in the glycolate utilization. Catalyzes the condensation and subsequent hydrolysis of acetyl-coenzyme A (acetyl-CoA) and glyoxylate to form malate and CoA,malate synthase G,0.0,1440.0,C,glcB,K01638,Malate_synthase, Glyoxylate and dicarboxylate metabolism
+QXV69602.1,HTZ92_1675,1.026960312,Involved in the glycolate utilization. Catalyzes the condensation and subsequent hydrolysis of acetyl-coenzyme A (acetyl-CoA) and glyoxylate to form malate and CoA,malate synthase G,0.0,1440.0,C,glcB,K01638,Malate_synthase, Metabolic pathways
+QXV69602.1,HTZ92_1675,1.026960312,Involved in the glycolate utilization. Catalyzes the condensation and subsequent hydrolysis of acetyl-coenzyme A (acetyl-CoA) and glyoxylate to form malate and CoA,malate synthase G,0.0,1440.0,C,glcB,K01638,Malate_synthase, Biosynthesis of secondary metabolites
+QXV69602.1,HTZ92_1675,1.026960312,Involved in the glycolate utilization. Catalyzes the condensation and subsequent hydrolysis of acetyl-coenzyme A (acetyl-CoA) and glyoxylate to form malate and CoA,malate synthase G,0.0,1440.0,C,glcB,K01638,Malate_synthase, Microbial metabolism in diverse environments
+QXV69602.1,HTZ92_1675,1.026960312,Involved in the glycolate utilization. Catalyzes the condensation and subsequent hydrolysis of acetyl-coenzyme A (acetyl-CoA) and glyoxylate to form malate and CoA,malate synthase G,0.0,1440.0,C,glcB,K01638,Malate_synthase, Carbon metabolism
+QXV69608.1,HTZ92_1681,1.112025144,Lipopolysaccharide assembly protein A domain,Lipopolysaccharide assembly protein A domain-containing protein,7.05e-72,217.0,S,-,-,LapA_dom,
+QXV69609.1,HTZ92_1682,1.227638962,"This protein is one of the two subunits of integration host factor, a specific DNA-binding protein that functions in genetic recombination as well as in transcriptional and translational control",integration host factor subunit beta,9.1e-65,197.0,K,himD,K05788,Bac_DNA_binding,No pathway found
+QXV69612.1,HTZ92_1685,1.916769608,Polyketide cyclase / dehydrase and lipid transport,polyketide cyclase,4.75e-96,280.0,I,-,-,Polyketide_cyc2,
+QXV69614.1,HTZ92_1687,1.070686766,Enoyl-CoA hydratase,enoly-CoA hydratase,1.69e-281,768.0,I,-,-,ECH_2,
+QXV69615.1,HTZ92_1688,1.116836724,Excises uracil residues from the DNA which can arise as a result of misincorporation of dUMP residues by DNA polymerase or due to deamination of cytosine,uracil-DNA glycosylase,2.81e-173,483.0,L,ung,K03648,UDG,Base excision repair
+QXV69615.1,HTZ92_1688,1.116836724,Excises uracil residues from the DNA which can arise as a result of misincorporation of dUMP residues by DNA polymerase or due to deamination of cytosine,uracil-DNA glycosylase,2.81e-173,483.0,L,ung,K03648,UDG, Primary immunodeficiency
+QXV69616.1,HTZ92_1689,1.419779873,6-pyruvoyl tetrahydropterin synthase,"6-carboxy-5,6,7,8-tetrahydropterin synthase",7.6e-145,407.0,H,-,K01737,PTPS,Folate biosynthesis
+QXV69616.1,HTZ92_1689,1.419779873,6-pyruvoyl tetrahydropterin synthase,"6-carboxy-5,6,7,8-tetrahydropterin synthase",7.6e-145,407.0,H,-,K01737,PTPS, Metabolic pathways
+QXV69616.1,HTZ92_1689,1.419779873,6-pyruvoyl tetrahydropterin synthase,"6-carboxy-5,6,7,8-tetrahydropterin synthase",7.6e-145,407.0,H,-,K01737,PTPS, Biosynthesis of cofactors
+QXV69636.1,HTZ92_1709,1.407598138,"Chaperone involved in the correct folding and assembly of outer membrane proteins. Recognizes specific patterns of aromatic residues and the orientation of their side chains, which are found more frequently in integral outer membrane proteins. May act in both early periplasmic and late outer membrane-associated steps of protein maturation",peptidyl-prolyl cis-trans isomerase,3.35e-304,830.0,M,surA,K03771,"Rotamase,Rotamase_3,SurA_N",No pathway found
+QXV69637.1,HTZ92_1710,1.118926045,Fructose-bisphosphate aldolase class-II,fructose-bisphosphate aldolase,1.61e-249,684.0,G,fba,K01624,F_bP_aldolase,Glycolysis / Gluconeogenesis
+QXV69637.1,HTZ92_1710,1.118926045,Fructose-bisphosphate aldolase class-II,fructose-bisphosphate aldolase,1.61e-249,684.0,G,fba,K01624,F_bP_aldolase, Pentose phosphate pathway
+QXV69637.1,HTZ92_1710,1.118926045,Fructose-bisphosphate aldolase class-II,fructose-bisphosphate aldolase,1.61e-249,684.0,G,fba,K01624,F_bP_aldolase, Fructose and mannose metabolism
+QXV69637.1,HTZ92_1710,1.118926045,Fructose-bisphosphate aldolase class-II,fructose-bisphosphate aldolase,1.61e-249,684.0,G,fba,K01624,F_bP_aldolase, Methane metabolism
+QXV69637.1,HTZ92_1710,1.118926045,Fructose-bisphosphate aldolase class-II,fructose-bisphosphate aldolase,1.61e-249,684.0,G,fba,K01624,F_bP_aldolase, Carbon fixation by Calvin cycle
+QXV69637.1,HTZ92_1710,1.118926045,Fructose-bisphosphate aldolase class-II,fructose-bisphosphate aldolase,1.61e-249,684.0,G,fba,K01624,F_bP_aldolase, Metabolic pathways
+QXV69637.1,HTZ92_1710,1.118926045,Fructose-bisphosphate aldolase class-II,fructose-bisphosphate aldolase,1.61e-249,684.0,G,fba,K01624,F_bP_aldolase, Biosynthesis of secondary metabolites
+QXV69637.1,HTZ92_1710,1.118926045,Fructose-bisphosphate aldolase class-II,fructose-bisphosphate aldolase,1.61e-249,684.0,G,fba,K01624,F_bP_aldolase, Microbial metabolism in diverse environments
+QXV69637.1,HTZ92_1710,1.118926045,Fructose-bisphosphate aldolase class-II,fructose-bisphosphate aldolase,1.61e-249,684.0,G,fba,K01624,F_bP_aldolase, Carbon metabolism
+QXV69637.1,HTZ92_1710,1.118926045,Fructose-bisphosphate aldolase class-II,fructose-bisphosphate aldolase,1.61e-249,684.0,G,fba,K01624,F_bP_aldolase, Biosynthesis of amino acids
+QXV69658.1,HTZ92_1731,1.186337069,-,hypothetical protein,1.7e-49,157.0,-,-,-,-,
+QXV69661.1,HTZ92_1734,1.447780777,YceI-like domain,polyisoprenoid-binding protein,1.12e-136,387.0,S,-,-,YceI,
+QXV69668.1,HTZ92_1741,1.106392682,Penicillin binding protein transpeptidase domain,carbapenem-hydrolyzing class D beta-lactamase OXA-98,6.65e-195,540.0,M,bla,"K17838,K18793,K18794,K18976,K19213,K19318,K22352",Transpeptidase,beta-Lactam resistance
+QXV69721.1,HTZ92_1794,1.328462991,-,hypothetical protein,2.36e-54,172.0,-,-,-,-,
+QXV69731.1,HTZ92_1804,1.112385129,Belongs to the glutathione peroxidase family,glutathione peroxidase,3.52e-116,332.0,O,gpo,K00432,GSHPx,Glutathione metabolism
+QXV69731.1,HTZ92_1804,1.112385129,Belongs to the glutathione peroxidase family,glutathione peroxidase,3.52e-116,332.0,O,gpo,K00432,GSHPx, Metabolic pathways
+QXV69731.1,HTZ92_1804,1.112385129,Belongs to the glutathione peroxidase family,glutathione peroxidase,3.52e-116,332.0,O,gpo,K00432,GSHPx, Thyroid hormone synthesis
+QXV69731.1,HTZ92_1804,1.112385129,Belongs to the glutathione peroxidase family,glutathione peroxidase,3.52e-116,332.0,O,gpo,K00432,GSHPx, Amyotrophic lateral sclerosis
+QXV69731.1,HTZ92_1804,1.112385129,Belongs to the glutathione peroxidase family,glutathione peroxidase,3.52e-116,332.0,O,gpo,K00432,GSHPx, Huntington disease
+QXV69731.1,HTZ92_1804,1.112385129,Belongs to the glutathione peroxidase family,glutathione peroxidase,3.52e-116,332.0,O,gpo,K00432,GSHPx, Pathways of neurodegeneration - multiple diseases
+QXV69732.1,HTZ92_1805,1.100466004,Belongs to the MsrB Met sulfoxide reductase family,msrB,6.38e-106,304.0,O,msrB,K07305,SelR,No pathway found
+QXV69739.1,HTZ92_1812,1.067747622,Tetratricopeptide repeat,hypothetical protein,3.65e-223,615.0,S,-,-,-,
+QXV69740.1,HTZ92_1813,1.152739548,Alpha beta hydrolase,hypothetical protein,0.0,1323.0,S,-,-,"Abhydrolase_6,DUF676,PGAP1",
+QXV69802.1,HTZ92_1875,1.19596957,GCN5-related N-acetyl-transferase,GNAT family acetyltransferase,2.8e-63,193.0,S,yjdJ,K06975,Acetyltransf_CG,No pathway found
+QXV69809.1,HTZ92_1882,1.413158299,-,hypothetical protein,4.98e-52,163.0,-,-,-,-,
+QXV69812.1,HTZ92_1885,1.915426597,Enoyl-(Acyl carrier protein) reductase,NAD(P)-dependent oxidoreductase,1.46e-207,574.0,IQ,-,-,adh_short_C2,
+QXV69813.1,HTZ92_1886,2.063354586,serves to protect cells from the toxic effects of hydrogen peroxide,hydroperoxidase II,0.0,1435.0,C,katE,K03781,"Catalase,Catalase-rel,DJ-1_PfpI",Tryptophan metabolism
+QXV69813.1,HTZ92_1886,2.063354586,serves to protect cells from the toxic effects of hydrogen peroxide,hydroperoxidase II,0.0,1435.0,C,katE,K03781,"Catalase,Catalase-rel,DJ-1_PfpI", Glyoxylate and dicarboxylate metabolism
+QXV69813.1,HTZ92_1886,2.063354586,serves to protect cells from the toxic effects of hydrogen peroxide,hydroperoxidase II,0.0,1435.0,C,katE,K03781,"Catalase,Catalase-rel,DJ-1_PfpI", Metabolic pathways
+QXV69813.1,HTZ92_1886,2.063354586,serves to protect cells from the toxic effects of hydrogen peroxide,hydroperoxidase II,0.0,1435.0,C,katE,K03781,"Catalase,Catalase-rel,DJ-1_PfpI", Biosynthesis of secondary metabolites
+QXV69813.1,HTZ92_1886,2.063354586,serves to protect cells from the toxic effects of hydrogen peroxide,hydroperoxidase II,0.0,1435.0,C,katE,K03781,"Catalase,Catalase-rel,DJ-1_PfpI", Carbon metabolism
+QXV69813.1,HTZ92_1886,2.063354586,serves to protect cells from the toxic effects of hydrogen peroxide,hydroperoxidase II,0.0,1435.0,C,katE,K03781,"Catalase,Catalase-rel,DJ-1_PfpI", MAPK signaling pathway - yeast
+QXV69813.1,HTZ92_1886,2.063354586,serves to protect cells from the toxic effects of hydrogen peroxide,hydroperoxidase II,0.0,1435.0,C,katE,K03781,"Catalase,Catalase-rel,DJ-1_PfpI", MAPK signaling pathway - plant
+QXV69813.1,HTZ92_1886,2.063354586,serves to protect cells from the toxic effects of hydrogen peroxide,hydroperoxidase II,0.0,1435.0,C,katE,K03781,"Catalase,Catalase-rel,DJ-1_PfpI", FoxO signaling pathway
+QXV69813.1,HTZ92_1886,2.063354586,serves to protect cells from the toxic effects of hydrogen peroxide,hydroperoxidase II,0.0,1435.0,C,katE,K03781,"Catalase,Catalase-rel,DJ-1_PfpI", Peroxisome
+QXV69813.1,HTZ92_1886,2.063354586,serves to protect cells from the toxic effects of hydrogen peroxide,hydroperoxidase II,0.0,1435.0,C,katE,K03781,"Catalase,Catalase-rel,DJ-1_PfpI", Longevity regulating pathway
+QXV69813.1,HTZ92_1886,2.063354586,serves to protect cells from the toxic effects of hydrogen peroxide,hydroperoxidase II,0.0,1435.0,C,katE,K03781,"Catalase,Catalase-rel,DJ-1_PfpI", Longevity regulating pathway - worm
+QXV69813.1,HTZ92_1886,2.063354586,serves to protect cells from the toxic effects of hydrogen peroxide,hydroperoxidase II,0.0,1435.0,C,katE,K03781,"Catalase,Catalase-rel,DJ-1_PfpI", Longevity regulating pathway - multiple species
+QXV69813.1,HTZ92_1886,2.063354586,serves to protect cells from the toxic effects of hydrogen peroxide,hydroperoxidase II,0.0,1435.0,C,katE,K03781,"Catalase,Catalase-rel,DJ-1_PfpI", Amyotrophic lateral sclerosis
+QXV69813.1,HTZ92_1886,2.063354586,serves to protect cells from the toxic effects of hydrogen peroxide,hydroperoxidase II,0.0,1435.0,C,katE,K03781,"Catalase,Catalase-rel,DJ-1_PfpI", Pathways of neurodegeneration - multiple diseases
+QXV69813.1,HTZ92_1886,2.063354586,serves to protect cells from the toxic effects of hydrogen peroxide,hydroperoxidase II,0.0,1435.0,C,katE,K03781,"Catalase,Catalase-rel,DJ-1_PfpI", Chemical carcinogenesis - reactive oxygen species
+QXV69814.1,HTZ92_1887,1.801979775,Iron-containing redox enzyme,Iron-containing redox enzyme,0.0,959.0,S,-,-,Haem_oxygenas_2,
+QXV69816.1,HTZ92_1889,3.775435641,,hypothetical protein,,,,,,,
+QXV69817.1,HTZ92_1890,3.339592218,-,hypothetical protein,1.26e-62,192.0,-,-,-,-,
+QXV69820.1,HTZ92_1893,3.001094876,-,hypothetical protein,8.53e-24,90.1,-,-,-,-,
+QXV69922.1,HTZ92_1995,1.66845968,Domain of unknown function (DUF333),hemolysin,3.51e-101,293.0,S,yoaF,K09712,"DUF333,Inhibitor_I78",No pathway found
+QXV69976.1,HTZ92_2051,1.895923649,-,hypothetical protein,4.4e-63,193.0,-,-,-,-,
+QXV69994.1,HTZ92_2069,2.137101805,Peptidase M15,hypothetical protein,1.27e-167,468.0,S,-,-,Peptidase_M15_3,
+QXV70027.1,HTZ92_2102,1.367296777,-,hypothetical protein,3.25e-96,285.0,-,-,-,-,
+QXV70028.1,HTZ92_2103,1.542286299,-,hypothetical protein,1.18e-98,287.0,-,-,-,DUF2833,
+QXV70031.1,HTZ92_2106,2.379357165,,hypothetical protein,,,,,,,
+QXV70032.1,HTZ92_2107,1.703856002,-,hypothetical protein,1.01e-17,80.9,-,-,-,-,
+QXV70033.1,HTZ92_2108,1.445908946,viral capsid,phage protein,1.09e-111,335.0,S,-,-,-,
+QXV70036.1,HTZ92_2111,1.107169177,Bacteriophage head to tail connecting protein,bacteriophage head to tail connecting protein,4.84e-287,798.0,S,-,-,Head-tail_con,
+QXV70038.1,HTZ92_2113,1.089921712,A helicase nuclease that prepares dsDNA breaks (DSB) for recombinational DNA repair. Binds to DSBs and unwinds DNA via a highly rapid and processive ATP-dependent bidirectional helicase activity. Unwinds dsDNA until it encounters a Chi (crossover hotspot instigator) sequence from the 3' direction. Cuts ssDNA a few nucleotides 3' to the Chi site. The properties and activities of the enzyme are changed at Chi. The Chi-altered holoenzyme produces a long 3'-ssDNA overhang and facilitates RecA-binding to the ssDNA for homologous DNA recombination and repair. Holoenzyme degrades any linearized DNA that is unable to undergo homologous recombination. In the holoenzyme this subunit has ssDNA-dependent ATPase and 5'-3' helicase activity. When added to pre-assembled RecBC greatly stimulates nuclease activity and augments holoenzyme processivity. Negatively regulates the RecA-loading ability of RecBCD,phage terminase large subunit,0.0,970.0,L,-,-,-,
+QXV70053.1,HTZ92_2128,1.125926715,-,hypothetical protein,1.9e-19,84.3,-,-,-,-,
+QXV70055.1,HTZ92_2130,1.384933015,-,hypothetical protein,5.31e-49,163.0,-,-,-,-,
+QXV70057.1,HTZ92_2132,1.096245739,-,transcriptional regulator,5.09e-171,483.0,-,-,-,RecT,
+QXV70058.1,HTZ92_2133,1.145938289,UvrD-like helicase C-terminal domain,DNA helicase,3.09e-301,828.0,L,-,-,"AAA_19,UvrD-helicase,UvrD_C",
+QXV70060.1,HTZ92_2135,1.314298168,,hypothetical protein,,,,,,,
+QXV70061.1,HTZ92_2136,1.61544173,-,hypothetical protein,3.42e-11,63.9,-,-,-,-,
+QXV70093.1,HTZ92_2168,1.393380172,-,hypothetical protein,3.03e-74,222.0,-,-,-,-,
+QXV70094.1,HTZ92_2169,1.945287342,,cysteine-rich helical bundle repeat protein,,,,,,,
+QXV70109.1,HTZ92_2184,1.191242726,Alkyl hydroperoxide reductase,peroxiredoxin,3.96e-137,387.0,O,ahpC,K03386,"1-cysPrx_C,AhpC-TSA",Apoptosis - fly
+QXV70111.1,HTZ92_2186,1.225263623,O-methyltransferase,O-methyltransferase,1.16e-133,379.0,S,mdmC,-,Methyltransf_3,
+QXV70112.1,HTZ92_2187,1.380357229,Protein of unknown function (DUF1653),hypothetical protein,2.06e-46,149.0,S,-,-,DUF1653,
+QXV70114.1,HTZ92_2189,2.6219433,-,hypothetical protein,1.56e-23,94.4,-,-,-,-,
+QXV70123.1,HTZ92_2198,2.723446254,OmpA family,OmpA family,0.0,886.0,M,-,-,OmpA,
+QXV70135.1,HTZ92_2210,1.795268225,Aldo/keto reductase family,aldo-keto reductase,8.08e-261,713.0,C,tas,-,Aldo_ket_red,
+QXV70136.1,HTZ92_2211,3.26198131,Peptidase family M48,type I deoxyribonuclease HsdR,3.01e-180,502.0,M,-,-,Peptidase_M48,
+QXV70161.1,HTZ92_2236,1.798550661,Phage virion morphogenesis,hypothetical protein,7.06e-102,296.0,S,-,-,Phage_tail_S,
+QXV70187.1,HTZ92_2262,1.113352722,C-5 cytosine-specific DNA methylase,DNA methyltransferase,5.47e-177,498.0,L,-,-,DNA_methylase,
+QXV70200.1,HTZ92_2275,1.074304522,-,hypothetical protein,3.82e-168,470.0,-,-,-,-,
+QXV70205.1,HTZ92_2280,1.079264812,-,hypothetical protein,3.9e-66,203.0,-,-,-,-,
+QXV70219.1,HTZ92_2294,1.588185376,"Arabinose-binding domain of AraC transcription regulator, N-term","transcriptional regulator, AraC family",8.48e-241,662.0,K,-,-,"Arabinose_bd,HTH_18",
+QXV70220.1,HTZ92_2295,1.320794117,Flavin-binding monooxygenase-like,4-hydroxyacetophenone monooxygenase,0.0,983.0,P,-,-,"Abhydrolase_3,FMO-like,K_oxygenase,Pyr_redox_3",
+QXV70232.1,HTZ92_2307,1.224939223,belongs to the aldehyde dehydrogenase family,salicylaldehyde dehydrogenase,0.0,934.0,C,vdh,K21802,Aldedh,Aminobenzoate degradation
+QXV70232.1,HTZ92_2307,1.224939223,belongs to the aldehyde dehydrogenase family,salicylaldehyde dehydrogenase,0.0,934.0,C,vdh,K21802,Aldedh, Microbial metabolism in diverse environments
+QXV70304.1,HTZ92_2379,2.195992536,"2,4-dienoyl-coA reductase","NADPH-dependent 2,4-dienoyl-CoA reductase",0.0,1335.0,C,fadH,K00219,"Oxidored_FMN,Pyr_redox_2",No pathway found
+QXV70310.1,HTZ92_2385,2.342009398,NADH:flavin oxidoreductase / NADH oxidase family,NADH oxidase,4.83e-295,805.0,C,-,-,Oxidored_FMN,
+QXV70320.1,HTZ92_2395,1.845583002,BON domain,BON domain-containing protein,3.5e-157,442.0,S,yraP,-,BON,
+QXV70321.1,HTZ92_2396,1.985148215,Belongs to the UPF0102 family,hypothetical protein,2.65e-93,272.0,L,yraN,K07460,UPF0102,No pathway found
+,HTZ92_ssRs,1.21721389,,6S RNA,,,,,,,
+QXV70344.1,HTZ92_2419,2.671328772,Domain of unknown function (DUF4377),signal peptide protein,1.53e-266,729.0,O,-,-,"DUF4377,META",
+QXV70362.1,HTZ92_2437,3.336245421,NlpE N-terminal domain,copper resistance protein NlpE,2.12e-107,310.0,MP,nlpE,-,NlpE,
+QXV70363.1,HTZ92_2438,1.360057236,Isocitrate lyase,isocitrate lyase,0.0,1060.0,C,aceA,K01637,ICL,Glyoxylate and dicarboxylate metabolism
+QXV70363.1,HTZ92_2438,1.360057236,Isocitrate lyase,isocitrate lyase,0.0,1060.0,C,aceA,K01637,ICL, Propanoate metabolism
+QXV70363.1,HTZ92_2438,1.360057236,Isocitrate lyase,isocitrate lyase,0.0,1060.0,C,aceA,K01637,ICL, Metabolic pathways
+QXV70363.1,HTZ92_2438,1.360057236,Isocitrate lyase,isocitrate lyase,0.0,1060.0,C,aceA,K01637,ICL, Biosynthesis of secondary metabolites
+QXV70363.1,HTZ92_2438,1.360057236,Isocitrate lyase,isocitrate lyase,0.0,1060.0,C,aceA,K01637,ICL, Microbial metabolism in diverse environments
+QXV70363.1,HTZ92_2438,1.360057236,Isocitrate lyase,isocitrate lyase,0.0,1060.0,C,aceA,K01637,ICL, Carbon metabolism
+QXV70386.1,HTZ92_2461,1.267852161,GDSL-like Lipase/Acylhydrolase family,arylesterase,2.68e-128,365.0,E,tesA,K10804,Lipase_GDSL_2,Biosynthesis of unsaturated fatty acids
+QXV70395.1,HTZ92_2470,3.419526506,-,lipoprotein precursor,6.57e-33,113.0,-,-,-,-,
+QXV70397.1,HTZ92_2472,1.254513515,Belongs to the serine threonine dehydratase family. DsdA subfamily,D-serine dehydratase,0.0,875.0,E,dsdA,K01753,PALP,"Glycine, serine and threonine metabolism"
+QXV70397.1,HTZ92_2472,1.254513515,Belongs to the serine threonine dehydratase family. DsdA subfamily,D-serine dehydratase,0.0,875.0,E,dsdA,K01753,PALP, D-Amino acid metabolism
+QXV70397.1,HTZ92_2472,1.254513515,Belongs to the serine threonine dehydratase family. DsdA subfamily,D-serine dehydratase,0.0,875.0,E,dsdA,K01753,PALP, Metabolic pathways
+QXV70406.1,HTZ92_2481,1.941233169,Converts alpha-aldose to the beta-anomer,galactose mutarotase,5.63e-275,752.0,M,galM,K01785,Aldose_epim,Glycolysis / Gluconeogenesis
+QXV70406.1,HTZ92_2481,1.941233169,Converts alpha-aldose to the beta-anomer,galactose mutarotase,5.63e-275,752.0,M,galM,K01785,Aldose_epim, Galactose metabolism
+QXV70406.1,HTZ92_2481,1.941233169,Converts alpha-aldose to the beta-anomer,galactose mutarotase,5.63e-275,752.0,M,galM,K01785,Aldose_epim, Metabolic pathways
+QXV70406.1,HTZ92_2481,1.941233169,Converts alpha-aldose to the beta-anomer,galactose mutarotase,5.63e-275,752.0,M,galM,K01785,Aldose_epim, Biosynthesis of secondary metabolites
+QXV70406.1,HTZ92_2481,1.941233169,Converts alpha-aldose to the beta-anomer,galactose mutarotase,5.63e-275,752.0,M,galM,K01785,Aldose_epim, Microbial metabolism in diverse environments
+QXV70429.1,HTZ92_2504,1.984874448,Enoyl-CoA hydratase/isomerase,enoyl-CoA hydratase,7.44e-186,516.0,I,-,K08299,ECH_1,No pathway found
+QXV70433.1,HTZ92_2508,1.224860379,Peptidyl-prolyl cis-trans,peptidylprolyl isomerase,2.54e-77,230.0,G,fbp,"K01802,K03772","FKBP_C,Rhodanese",No pathway found
+QXV70437.1,HTZ92_2512,1.613342188,,hypothetical protein,,,,,,,
+QXV70499.1,HTZ92_2574,1.719189293,Sugar (and other) transporter,multidrug resistance protein B,0.0,966.0,EGP,emrB,K03446,MFS_1,No pathway found
+QXV70500.1,HTZ92_2575,2.260977177,HlyD membrane-fusion protein of T1SS,hemolysin D,1.65e-236,655.0,V,emrA,K03543,"Biotin_lipoyl_2,HlyD,HlyD_3,HlyD_D23",No pathway found
+QXV70506.1,HTZ92_2581,1.196339518,Glyoxalase-like domain,lactoylglutathione lyase,1.35e-89,262.0,S,-,K06996,Glyoxalase,No pathway found
+QXV70519.1,HTZ92_2594,2.288383231,Acetyltransferase (GNAT) domain,GNAT family acetyltransferase,3.06e-193,535.0,S,-,-,"Acetyltransf_5,Acyltransferase",
+QXV70521.1,HTZ92_2596,1.281933623,"Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain III",phosphomannomutase,0.0,949.0,G,algC,"K01840,K15778","PGM_PMM_I,PGM_PMM_II,PGM_PMM_III,PGM_PMM_IV",Fructose and mannose metabolism
+QXV70521.1,HTZ92_2596,1.281933623,"Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain III",phosphomannomutase,0.0,949.0,G,algC,"K01840,K15778","PGM_PMM_I,PGM_PMM_II,PGM_PMM_III,PGM_PMM_IV", Amino sugar and nucleotide sugar metabolism
+QXV70521.1,HTZ92_2596,1.281933623,"Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain III",phosphomannomutase,0.0,949.0,G,algC,"K01840,K15778","PGM_PMM_I,PGM_PMM_II,PGM_PMM_III,PGM_PMM_IV", Metabolic pathways
+QXV70521.1,HTZ92_2596,1.281933623,"Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain III",phosphomannomutase,0.0,949.0,G,algC,"K01840,K15778","PGM_PMM_I,PGM_PMM_II,PGM_PMM_III,PGM_PMM_IV", Biosynthesis of secondary metabolites
+QXV70521.1,HTZ92_2596,1.281933623,"Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain III",phosphomannomutase,0.0,949.0,G,algC,"K01840,K15778","PGM_PMM_I,PGM_PMM_II,PGM_PMM_III,PGM_PMM_IV", Biosynthesis of nucleotide sugars
+QXV70521.1,HTZ92_2596,1.281933623,"Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain III",phosphomannomutase,0.0,949.0,G,algC,"K01840,K15778","PGM_PMM_I,PGM_PMM_II,PGM_PMM_III,PGM_PMM_IV", Glycolysis / Gluconeogenesis
+QXV70521.1,HTZ92_2596,1.281933623,"Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain III",phosphomannomutase,0.0,949.0,G,algC,"K01840,K15778","PGM_PMM_I,PGM_PMM_II,PGM_PMM_III,PGM_PMM_IV", Pentose phosphate pathway
+QXV70521.1,HTZ92_2596,1.281933623,"Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain III",phosphomannomutase,0.0,949.0,G,algC,"K01840,K15778","PGM_PMM_I,PGM_PMM_II,PGM_PMM_III,PGM_PMM_IV", Galactose metabolism
+QXV70521.1,HTZ92_2596,1.281933623,"Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain III",phosphomannomutase,0.0,949.0,G,algC,"K01840,K15778","PGM_PMM_I,PGM_PMM_II,PGM_PMM_III,PGM_PMM_IV", Purine metabolism
+QXV70521.1,HTZ92_2596,1.281933623,"Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain III",phosphomannomutase,0.0,949.0,G,algC,"K01840,K15778","PGM_PMM_I,PGM_PMM_II,PGM_PMM_III,PGM_PMM_IV", Starch and sucrose metabolism
+QXV70521.1,HTZ92_2596,1.281933623,"Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain III",phosphomannomutase,0.0,949.0,G,algC,"K01840,K15778","PGM_PMM_I,PGM_PMM_II,PGM_PMM_III,PGM_PMM_IV", Streptomycin biosynthesis
+QXV70521.1,HTZ92_2596,1.281933623,"Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain III",phosphomannomutase,0.0,949.0,G,algC,"K01840,K15778","PGM_PMM_I,PGM_PMM_II,PGM_PMM_III,PGM_PMM_IV", Microbial metabolism in diverse environments
+QXV70524.1,HTZ92_2599,3.275226703,Belongs to the ompA family,OmpA family protein,1.38e-145,411.0,M,yiaD,K12216,"Gly-zipper_Omp,Gly-zipper_YMGG,OmpA",No pathway found
+QXV70543.1,HTZ92_2618,1.280631067,EcsC protein family,type III secretion system protein EcsC,2.67e-308,841.0,C,-,-,EcsC,
+QXV70568.1,HTZ92_2643,3.741626657,Plays a critical role in the incorporation of lipoproteins in the outer membrane after they are released by the LolA protein,outer membrane lipoprotein LolB,9.63e-136,384.0,M,lolB,K02494,LolB,No pathway found
+QXV70579.1,HTZ92_2654,2.408538574,BON domain,peptidoglycan-binding protein LysM,2.59e-107,309.0,S,ygaU,-,"BON,LysM",
+QXV70619.1,HTZ92_2694,2.833313191,Membrane,hypothetical protein,2.06e-24,100.0,M,-,-,LEA_4,
+QXV70623.1,HTZ92_2698,2.68695803,"Bacterial regulatory proteins, tetR family",TetR family transcriptional regulator,7.35e-134,379.0,K,-,-,TetR_N,
+QXV70624.1,HTZ92_2699,2.092634882,Major facilitator superfamily,MFS transporter,0.0,1026.0,EGP,emrY,-,MFS_1,
+QXV70625.1,HTZ92_2700,1.978573229,Barrel-sandwich domain of CusB or HlyD membrane-fusion,RND transporter,2.39e-243,672.0,V,-,K03543,"Biotin_lipoyl_2,HlyD_3,HlyD_D23",No pathway found
+QXV70629.1,HTZ92_2704,2.170491541,Conserved TM helix,Conserved TM helix,0.0,931.0,M,-,-,TM_helix,
+QXV70630.1,HTZ92_2705,2.293986003,-,hypothetical protein,2.54e-46,149.0,-,-,-,-,
+QXV70639.1,HTZ92_2714,1.219227495,"NDH-1 shuttles electrons from NADH, via FMN and iron- sulfur (Fe-S) centers, to quinones in the respiratory chain. The immediate electron acceptor for the enzyme in this species is believed to be ubiquinone. Couples the redox reaction to proton translocation (for every two electrons transferred, four hydrogen ions are translocated across the cytoplasmic membrane), and thus conserves the redox energy in a proton gradient",NADH-quinone oxidoreductase subunit K,1.23e-63,194.0,C,nuoK,K00340,Oxidored_q2,Oxidative phosphorylation
+QXV70639.1,HTZ92_2714,1.219227495,"NDH-1 shuttles electrons from NADH, via FMN and iron- sulfur (Fe-S) centers, to quinones in the respiratory chain. The immediate electron acceptor for the enzyme in this species is believed to be ubiquinone. Couples the redox reaction to proton translocation (for every two electrons transferred, four hydrogen ions are translocated across the cytoplasmic membrane), and thus conserves the redox energy in a proton gradient",NADH-quinone oxidoreductase subunit K,1.23e-63,194.0,C,nuoK,K00340,Oxidored_q2, Metabolic pathways
+QXV70640.1,HTZ92_2715,1.052496234,Belongs to the complex I subunit 6 family,NADH dehydrogenase,3.83e-110,318.0,C,nuoJ,K00339,Oxidored_q3,Oxidative phosphorylation
+QXV70640.1,HTZ92_2715,1.052496234,Belongs to the complex I subunit 6 family,NADH dehydrogenase,3.83e-110,318.0,C,nuoJ,K00339,Oxidored_q3, Metabolic pathways
+QXV70641.1,HTZ92_2716,1.008439925,"NDH-1 shuttles electrons from NADH, via FMN and iron- sulfur (Fe-S) centers, to quinones in the respiratory chain. The immediate electron acceptor for the enzyme in this species is believed to be ubiquinone. Couples the redox reaction to proton translocation (for every two electrons transferred, four hydrogen ions are translocated across the cytoplasmic membrane), and thus conserves the redox energy in a proton gradient",NADH-quinone oxidoreductase subunit I,9.33e-119,340.0,C,nuoI,K00338,Fer4,Oxidative phosphorylation
+QXV70641.1,HTZ92_2716,1.008439925,"NDH-1 shuttles electrons from NADH, via FMN and iron- sulfur (Fe-S) centers, to quinones in the respiratory chain. The immediate electron acceptor for the enzyme in this species is believed to be ubiquinone. Couples the redox reaction to proton translocation (for every two electrons transferred, four hydrogen ions are translocated across the cytoplasmic membrane), and thus conserves the redox energy in a proton gradient",NADH-quinone oxidoreductase subunit I,9.33e-119,340.0,C,nuoI,K00338,Fer4, Metabolic pathways
+QXV70642.1,HTZ92_2717,1.116621902,"NDH-1 shuttles electrons from NADH, via FMN and iron- sulfur (Fe-S) centers, to quinones in the respiratory chain. The immediate electron acceptor for the enzyme in this species is believed to be ubiquinone. Couples the redox reaction to proton translocation (for every two electrons transferred, four hydrogen ions are translocated across the cytoplasmic membrane), and thus conserves the redox energy in a proton gradient. This subunit may bind ubiquinone",NADH-quinone oxidoreductase subunit H,4.67e-234,645.0,C,nuoH,K00337,NADHdh,Oxidative phosphorylation
+QXV70642.1,HTZ92_2717,1.116621902,"NDH-1 shuttles electrons from NADH, via FMN and iron- sulfur (Fe-S) centers, to quinones in the respiratory chain. The immediate electron acceptor for the enzyme in this species is believed to be ubiquinone. Couples the redox reaction to proton translocation (for every two electrons transferred, four hydrogen ions are translocated across the cytoplasmic membrane), and thus conserves the redox energy in a proton gradient. This subunit may bind ubiquinone",NADH-quinone oxidoreductase subunit H,4.67e-234,645.0,C,nuoH,K00337,NADHdh, Metabolic pathways
+QXV70650.1,HTZ92_2725,1.361589298,-,hypothetical protein,1.24e-79,236.0,-,-,-,-,
+QXV70651.1,HTZ92_2726,1.478590058,Histidine kinase,two-component system sensor histidine kinase,0.0,1065.0,T,rstB,K07639,"HAMP,HATPase_c,HisKA",Two-component system
+QXV70652.1,HTZ92_2727,2.071481733,COG0745 Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain,DNA-binding response regulator,1.89e-167,468.0,K,rstA,K07661,"Response_reg,Trans_reg_C",Two-component system
+QXV70661.1,HTZ92_2736,1.066252141,-,hypothetical protein,3.85e-63,205.0,-,-,-,-,
+QXV70667.1,HTZ92_2742,1.361823222,"Cobalamin-independent synthase, Catalytic domain",5-methyltetrahydropteroyltriglutamate--homocyste ine methyltransferase,1.05e-255,700.0,E,metE,K00549,Meth_synt_2,Cysteine and methionine metabolism
+QXV70667.1,HTZ92_2742,1.361823222,"Cobalamin-independent synthase, Catalytic domain",5-methyltetrahydropteroyltriglutamate--homocyste ine methyltransferase,1.05e-255,700.0,E,metE,K00549,Meth_synt_2, Selenocompound metabolism
+QXV70667.1,HTZ92_2742,1.361823222,"Cobalamin-independent synthase, Catalytic domain",5-methyltetrahydropteroyltriglutamate--homocyste ine methyltransferase,1.05e-255,700.0,E,metE,K00549,Meth_synt_2, Metabolic pathways
+QXV70667.1,HTZ92_2742,1.361823222,"Cobalamin-independent synthase, Catalytic domain",5-methyltetrahydropteroyltriglutamate--homocyste ine methyltransferase,1.05e-255,700.0,E,metE,K00549,Meth_synt_2, Biosynthesis of secondary metabolites
+QXV70667.1,HTZ92_2742,1.361823222,"Cobalamin-independent synthase, Catalytic domain",5-methyltetrahydropteroyltriglutamate--homocyste ine methyltransferase,1.05e-255,700.0,E,metE,K00549,Meth_synt_2, Biosynthesis of amino acids
+QXV70668.1,HTZ92_2743,1.229916487,Domain of unknown function (DUF1852),hypothetical protein,1.71e-240,660.0,S,-,-,DUF1852,
+QXV70683.1,HTZ92_2758,1.868110245,Alcohol dehydrogenase GroES-like domain,zinc-binding dehydrogenase,6.02e-291,793.0,E,-,-,"ADH_N,ADH_zinc_N",
+QXV70684.1,HTZ92_2759,1.575734603,Adenosine/AMP deaminase,adenosine deaminase,2.06e-242,668.0,F,add,K01488,A_deaminase,Purine metabolism
+QXV70684.1,HTZ92_2759,1.575734603,Adenosine/AMP deaminase,adenosine deaminase,2.06e-242,668.0,F,add,K01488,A_deaminase, Metabolic pathways
+QXV70684.1,HTZ92_2759,1.575734603,Adenosine/AMP deaminase,adenosine deaminase,2.06e-242,668.0,F,add,K01488,A_deaminase, Nucleotide metabolism
+QXV70684.1,HTZ92_2759,1.575734603,Adenosine/AMP deaminase,adenosine deaminase,2.06e-242,668.0,F,add,K01488,A_deaminase, Primary immunodeficiency
+QXV70689.1,HTZ92_2764,1.261676637,Cation efflux family,cation transporter,2.28e-226,625.0,P,-,-,"Cation_efflux,HMA",
+QXV70727.1,HTZ92_2802,1.247140163,Predicted membrane protein (DUF2339),hypothetical protein,0.0,1700.0,S,-,-,DUF2339,
+QXV70737.1,HTZ92_2812,1.874867985,"This protein is one of the two subunits of integration host factor, a specific DNA-binding protein that functions in genetic recombination as well as in transcriptional and translational control",integration host factor subunit alpha,2.64e-63,193.0,K,himA,K04764,Bac_DNA_binding,No pathway found
+QXV70766.1,HTZ92_2841,1.185820976,Belongs to the enoyl-CoA hydratase isomerase family,enoyl-CoA hydratase,8.33e-183,509.0,I,-,-,ECH_1,
+QXV70768.1,HTZ92_2843,1.234447843,Belongs to the hyi family,hydroxypyruvate isomerase,8.78e-195,539.0,G,hyi,K01816,AP_endonuc_2,Glyoxylate and dicarboxylate metabolism
+QXV70768.1,HTZ92_2843,1.234447843,Belongs to the hyi family,hydroxypyruvate isomerase,8.78e-195,539.0,G,hyi,K01816,AP_endonuc_2, Metabolic pathways
+QXV70783.1,HTZ92_2858,2.282295469,Catalyzes the isomerization of citrate to isocitrate via cis-aconitate,aconitate hydratase,0.0,1845.0,C,acnA,"K01681,K20455","Aconitase,Aconitase_C",Citrate cycle (TCA cycle)
+QXV70783.1,HTZ92_2858,2.282295469,Catalyzes the isomerization of citrate to isocitrate via cis-aconitate,aconitate hydratase,0.0,1845.0,C,acnA,"K01681,K20455","Aconitase,Aconitase_C", Glyoxylate and dicarboxylate metabolism
+QXV70783.1,HTZ92_2858,2.282295469,Catalyzes the isomerization of citrate to isocitrate via cis-aconitate,aconitate hydratase,0.0,1845.0,C,acnA,"K01681,K20455","Aconitase,Aconitase_C", Other carbon fixation pathways
+QXV70783.1,HTZ92_2858,2.282295469,Catalyzes the isomerization of citrate to isocitrate via cis-aconitate,aconitate hydratase,0.0,1845.0,C,acnA,"K01681,K20455","Aconitase,Aconitase_C", Metabolic pathways
+QXV70783.1,HTZ92_2858,2.282295469,Catalyzes the isomerization of citrate to isocitrate via cis-aconitate,aconitate hydratase,0.0,1845.0,C,acnA,"K01681,K20455","Aconitase,Aconitase_C", Biosynthesis of secondary metabolites
+QXV70783.1,HTZ92_2858,2.282295469,Catalyzes the isomerization of citrate to isocitrate via cis-aconitate,aconitate hydratase,0.0,1845.0,C,acnA,"K01681,K20455","Aconitase,Aconitase_C", Microbial metabolism in diverse environments
+QXV70783.1,HTZ92_2858,2.282295469,Catalyzes the isomerization of citrate to isocitrate via cis-aconitate,aconitate hydratase,0.0,1845.0,C,acnA,"K01681,K20455","Aconitase,Aconitase_C", Carbon metabolism
+QXV70783.1,HTZ92_2858,2.282295469,Catalyzes the isomerization of citrate to isocitrate via cis-aconitate,aconitate hydratase,0.0,1845.0,C,acnA,"K01681,K20455","Aconitase,Aconitase_C", 2-Oxocarboxylic acid metabolism
+QXV70783.1,HTZ92_2858,2.282295469,Catalyzes the isomerization of citrate to isocitrate via cis-aconitate,aconitate hydratase,0.0,1845.0,C,acnA,"K01681,K20455","Aconitase,Aconitase_C", Biosynthesis of amino acids
+QXV70783.1,HTZ92_2858,2.282295469,Catalyzes the isomerization of citrate to isocitrate via cis-aconitate,aconitate hydratase,0.0,1845.0,C,acnA,"K01681,K20455","Aconitase,Aconitase_C", Propanoate metabolism
+QXV70785.1,HTZ92_2860,1.373972964,Protein of unknown function (DUF3298),Peptidoglycan-N-acetylmuramic acid deacetylase PdaC,2.53e-212,588.0,S,-,-,"DUF3298,DUF4163",
+QXV70799.1,HTZ92_2874,5.402165438,Belongs to the membrane fusion protein (MFP) (TC 8.A.1) family,MacA family efflux pump subunit,2.97e-266,735.0,M,macA,"K02005,K13888","Biotin_lipoyl_2,HlyD_3,HlyD_D23",No pathway found
+QXV70800.1,HTZ92_2875,5.167664478,"Part of the tripartite efflux system MacAB-TolC. MacB is a non-canonical ABC transporter that contains transmembrane domains (TMD), which form a pore in the inner membrane, and an ATP-binding domain (NBD), which is responsible for energy generation. Confers resistance against macrolides",MacB family efflux pump subunit,0.0,1236.0,V,macB,K05685,"ABC_tran,FtsX,MacB_PCD",ABC transporters
+QXV70801.1,HTZ92_2876,5.112580825,Outer membrane efflux protein,adeC/adeK/oprM family multidrug efflux complex outer membrane factor,1.72e-304,834.0,M,Z012_07725,-,OEP,
+QXV70822.1,HTZ92_2897,1.612263287,Belongs to the peptidase S41A family,peptidase S41,0.0,1395.0,M,prc,K03797,"BAGE,DUF3340,PDZ,Peptidase_S41",No pathway found
+QXV70831.1,HTZ92_2906,1.083995733,Belongs to the IlvD Edd family,phosphogluconate dehydratase,0.0,1221.0,EG,edd,K01690,ILVD_EDD,Pentose phosphate pathway
+QXV70831.1,HTZ92_2906,1.083995733,Belongs to the IlvD Edd family,phosphogluconate dehydratase,0.0,1221.0,EG,edd,K01690,ILVD_EDD, Metabolic pathways
+QXV70831.1,HTZ92_2906,1.083995733,Belongs to the IlvD Edd family,phosphogluconate dehydratase,0.0,1221.0,EG,edd,K01690,ILVD_EDD, Microbial metabolism in diverse environments
+QXV70831.1,HTZ92_2906,1.083995733,Belongs to the IlvD Edd family,phosphogluconate dehydratase,0.0,1221.0,EG,edd,K01690,ILVD_EDD, Carbon metabolism
+QXV70864.1,HTZ92_2939,1.20935659,Transfers the N-acyl diglyceride group on what will become the N-terminal cysteine of membrane lipoproteins,prolipoprotein diacylglyceryl transferase,2.55e-216,594.0,M,lgt,K13292,LGT,No pathway found
+QXV70885.1,HTZ92_2960,2.718108395,Short repeat of unknown function (DUF308),hypothetical protein,1.07e-122,351.0,S,-,-,DUF308,
+QXV70897.1,HTZ92_2972,1.098531583,Endonuclease/Exonuclease/phosphatase family,endonuclease,1.24e-242,669.0,S,-,-,Exo_endo_phos,
+QXV70916.1,HTZ92_2991,1.01738572,"Accelerates the degradation of transcripts by removing pyrophosphate from the 5'-end of triphosphorylated RNA, leading to a more labile monophosphorylated state that can stimulate subsequent ribonuclease cleavage",RNA pyrophosphohydrolase,4.8e-123,349.0,L,nudH,K08311,NUDIX,RNA degradation
+QXV70918.1,HTZ92_2993,1.289583287,Bifunctional enzyme with both catalase and broad- spectrum peroxidase activity,catalase peroxidase,0.0,1450.0,P,katG,K03782,peroxidase,Phenylalanine metabolism
+QXV70918.1,HTZ92_2993,1.289583287,Bifunctional enzyme with both catalase and broad- spectrum peroxidase activity,catalase peroxidase,0.0,1450.0,P,katG,K03782,peroxidase, Tryptophan metabolism
+QXV70918.1,HTZ92_2993,1.289583287,Bifunctional enzyme with both catalase and broad- spectrum peroxidase activity,catalase peroxidase,0.0,1450.0,P,katG,K03782,peroxidase, Phenylpropanoid biosynthesis
+QXV70918.1,HTZ92_2993,1.289583287,Bifunctional enzyme with both catalase and broad- spectrum peroxidase activity,catalase peroxidase,0.0,1450.0,P,katG,K03782,peroxidase, Drug metabolism - other enzymes
+QXV70918.1,HTZ92_2993,1.289583287,Bifunctional enzyme with both catalase and broad- spectrum peroxidase activity,catalase peroxidase,0.0,1450.0,P,katG,K03782,peroxidase, Metabolic pathways
+QXV70918.1,HTZ92_2993,1.289583287,Bifunctional enzyme with both catalase and broad- spectrum peroxidase activity,catalase peroxidase,0.0,1450.0,P,katG,K03782,peroxidase, Biosynthesis of secondary metabolites
+QXV70927.1,HTZ92_3002,1.167136495,AMP-binding enzyme C-terminal domain,long-chain acyl-CoA synthetase,0.0,1239.0,IQ,-,"K02182,K13776","AMP-binding,AMP-binding_C","Pinene, camphor and geraniol degradation"
+QXV70927.1,HTZ92_3002,1.167136495,AMP-binding enzyme C-terminal domain,long-chain acyl-CoA synthetase,0.0,1239.0,IQ,-,"K02182,K13776","AMP-binding,AMP-binding_C", Microbial metabolism in diverse environments
+QXV70935.1,HTZ92_3010,1.807146262,ABC1 family,ABC transporter,0.0,850.0,S,-,-,ABC1,
+QXV70936.1,HTZ92_3011,1.59389621,Ribosomal protein L31,50S ribosomal protein L31,9.64e-55,171.0,J,rpmE2,K02909,Ribosomal_L31,Ribosome
+QXV70960.1,HTZ92_3035,1.559933694,DnaJ molecular chaperone homology domain,DNA-binding protein,4.81e-226,623.0,O,cbpA,K05516,"DnaJ,DnaJ_C",No pathway found
+QXV70961.1,HTZ92_3036,1.458490834,MerR HTH family regulatory protein,MerR family transcriptional regulator,9.02e-76,226.0,K,-,K18997,MerR_2,No pathway found
+QXV70969.1,HTZ92_3044,1.940683468,protein domain associated with,hypothetical protein,5.98e-116,332.0,S,-,-,-,
+QXV70970.1,HTZ92_3045,1.079978871,Polyphosphate kinase 2 (PPK2),polyphosphate--AMP phosphotransferase,0.0,958.0,S,pap,-,PPK2,
+QXV71015.1,HTZ92_3090,1.611188307,Involved in the aerobic and anaerobic degradation of long-chain fatty acids via beta-oxidation cycle. Catalyzes the formation of 3-oxoacyl-CoA from enoyl-CoA via L-3-hydroxyacyl-CoA. It can also use D-3-hydroxyacyl-CoA and cis-3-enoyl-CoA as substrate,fatty acid oxidation complex subunit alpha,0.0,1396.0,I,fadB,"K01782,K01825","3HCDH,3HCDH_N,ECH_1",Fatty acid degradation
+QXV71015.1,HTZ92_3090,1.611188307,Involved in the aerobic and anaerobic degradation of long-chain fatty acids via beta-oxidation cycle. Catalyzes the formation of 3-oxoacyl-CoA from enoyl-CoA via L-3-hydroxyacyl-CoA. It can also use D-3-hydroxyacyl-CoA and cis-3-enoyl-CoA as substrate,fatty acid oxidation complex subunit alpha,0.0,1396.0,I,fadB,"K01782,K01825","3HCDH,3HCDH_N,ECH_1"," Valine, leucine and isoleucine degradation"
+QXV71015.1,HTZ92_3090,1.611188307,Involved in the aerobic and anaerobic degradation of long-chain fatty acids via beta-oxidation cycle. Catalyzes the formation of 3-oxoacyl-CoA from enoyl-CoA via L-3-hydroxyacyl-CoA. It can also use D-3-hydroxyacyl-CoA and cis-3-enoyl-CoA as substrate,fatty acid oxidation complex subunit alpha,0.0,1396.0,I,fadB,"K01782,K01825","3HCDH,3HCDH_N,ECH_1", Lysine degradation
+QXV71015.1,HTZ92_3090,1.611188307,Involved in the aerobic and anaerobic degradation of long-chain fatty acids via beta-oxidation cycle. Catalyzes the formation of 3-oxoacyl-CoA from enoyl-CoA via L-3-hydroxyacyl-CoA. It can also use D-3-hydroxyacyl-CoA and cis-3-enoyl-CoA as substrate,fatty acid oxidation complex subunit alpha,0.0,1396.0,I,fadB,"K01782,K01825","3HCDH,3HCDH_N,ECH_1", Benzoate degradation
+QXV71015.1,HTZ92_3090,1.611188307,Involved in the aerobic and anaerobic degradation of long-chain fatty acids via beta-oxidation cycle. Catalyzes the formation of 3-oxoacyl-CoA from enoyl-CoA via L-3-hydroxyacyl-CoA. It can also use D-3-hydroxyacyl-CoA and cis-3-enoyl-CoA as substrate,fatty acid oxidation complex subunit alpha,0.0,1396.0,I,fadB,"K01782,K01825","3HCDH,3HCDH_N,ECH_1", Tryptophan metabolism
+QXV71015.1,HTZ92_3090,1.611188307,Involved in the aerobic and anaerobic degradation of long-chain fatty acids via beta-oxidation cycle. Catalyzes the formation of 3-oxoacyl-CoA from enoyl-CoA via L-3-hydroxyacyl-CoA. It can also use D-3-hydroxyacyl-CoA and cis-3-enoyl-CoA as substrate,fatty acid oxidation complex subunit alpha,0.0,1396.0,I,fadB,"K01782,K01825","3HCDH,3HCDH_N,ECH_1", beta-Alanine metabolism
+QXV71015.1,HTZ92_3090,1.611188307,Involved in the aerobic and anaerobic degradation of long-chain fatty acids via beta-oxidation cycle. Catalyzes the formation of 3-oxoacyl-CoA from enoyl-CoA via L-3-hydroxyacyl-CoA. It can also use D-3-hydroxyacyl-CoA and cis-3-enoyl-CoA as substrate,fatty acid oxidation complex subunit alpha,0.0,1396.0,I,fadB,"K01782,K01825","3HCDH,3HCDH_N,ECH_1", Propanoate metabolism
+QXV71015.1,HTZ92_3090,1.611188307,Involved in the aerobic and anaerobic degradation of long-chain fatty acids via beta-oxidation cycle. Catalyzes the formation of 3-oxoacyl-CoA from enoyl-CoA via L-3-hydroxyacyl-CoA. It can also use D-3-hydroxyacyl-CoA and cis-3-enoyl-CoA as substrate,fatty acid oxidation complex subunit alpha,0.0,1396.0,I,fadB,"K01782,K01825","3HCDH,3HCDH_N,ECH_1", Butanoate metabolism
+QXV71015.1,HTZ92_3090,1.611188307,Involved in the aerobic and anaerobic degradation of long-chain fatty acids via beta-oxidation cycle. Catalyzes the formation of 3-oxoacyl-CoA from enoyl-CoA via L-3-hydroxyacyl-CoA. It can also use D-3-hydroxyacyl-CoA and cis-3-enoyl-CoA as substrate,fatty acid oxidation complex subunit alpha,0.0,1396.0,I,fadB,"K01782,K01825","3HCDH,3HCDH_N,ECH_1"," Pinene, camphor and geraniol degradation"
+QXV71015.1,HTZ92_3090,1.611188307,Involved in the aerobic and anaerobic degradation of long-chain fatty acids via beta-oxidation cycle. Catalyzes the formation of 3-oxoacyl-CoA from enoyl-CoA via L-3-hydroxyacyl-CoA. It can also use D-3-hydroxyacyl-CoA and cis-3-enoyl-CoA as substrate,fatty acid oxidation complex subunit alpha,0.0,1396.0,I,fadB,"K01782,K01825","3HCDH,3HCDH_N,ECH_1", Caprolactam degradation
+QXV71015.1,HTZ92_3090,1.611188307,Involved in the aerobic and anaerobic degradation of long-chain fatty acids via beta-oxidation cycle. Catalyzes the formation of 3-oxoacyl-CoA from enoyl-CoA via L-3-hydroxyacyl-CoA. It can also use D-3-hydroxyacyl-CoA and cis-3-enoyl-CoA as substrate,fatty acid oxidation complex subunit alpha,0.0,1396.0,I,fadB,"K01782,K01825","3HCDH,3HCDH_N,ECH_1", Metabolic pathways
+QXV71015.1,HTZ92_3090,1.611188307,Involved in the aerobic and anaerobic degradation of long-chain fatty acids via beta-oxidation cycle. Catalyzes the formation of 3-oxoacyl-CoA from enoyl-CoA via L-3-hydroxyacyl-CoA. It can also use D-3-hydroxyacyl-CoA and cis-3-enoyl-CoA as substrate,fatty acid oxidation complex subunit alpha,0.0,1396.0,I,fadB,"K01782,K01825","3HCDH,3HCDH_N,ECH_1", Biosynthesis of secondary metabolites
+QXV71015.1,HTZ92_3090,1.611188307,Involved in the aerobic and anaerobic degradation of long-chain fatty acids via beta-oxidation cycle. Catalyzes the formation of 3-oxoacyl-CoA from enoyl-CoA via L-3-hydroxyacyl-CoA. It can also use D-3-hydroxyacyl-CoA and cis-3-enoyl-CoA as substrate,fatty acid oxidation complex subunit alpha,0.0,1396.0,I,fadB,"K01782,K01825","3HCDH,3HCDH_N,ECH_1", Microbial metabolism in diverse environments
+QXV71015.1,HTZ92_3090,1.611188307,Involved in the aerobic and anaerobic degradation of long-chain fatty acids via beta-oxidation cycle. Catalyzes the formation of 3-oxoacyl-CoA from enoyl-CoA via L-3-hydroxyacyl-CoA. It can also use D-3-hydroxyacyl-CoA and cis-3-enoyl-CoA as substrate,fatty acid oxidation complex subunit alpha,0.0,1396.0,I,fadB,"K01782,K01825","3HCDH,3HCDH_N,ECH_1", Carbon metabolism
+QXV71015.1,HTZ92_3090,1.611188307,Involved in the aerobic and anaerobic degradation of long-chain fatty acids via beta-oxidation cycle. Catalyzes the formation of 3-oxoacyl-CoA from enoyl-CoA via L-3-hydroxyacyl-CoA. It can also use D-3-hydroxyacyl-CoA and cis-3-enoyl-CoA as substrate,fatty acid oxidation complex subunit alpha,0.0,1396.0,I,fadB,"K01782,K01825","3HCDH,3HCDH_N,ECH_1", Fatty acid metabolism
+QXV71016.1,HTZ92_3091,1.803055372,Catalyzes the final step of fatty acid oxidation in which acetyl-CoA is released and the CoA ester of a fatty acid two carbons shorter is formed,3-ketoacyl-CoA thiolase,1.38e-275,754.0,I,fadA,K00632,"Thiolase_C,Thiolase_N",Fatty acid degradation
+QXV71016.1,HTZ92_3091,1.803055372,Catalyzes the final step of fatty acid oxidation in which acetyl-CoA is released and the CoA ester of a fatty acid two carbons shorter is formed,3-ketoacyl-CoA thiolase,1.38e-275,754.0,I,fadA,K00632,"Thiolase_C,Thiolase_N"," Valine, leucine and isoleucine degradation"
+QXV71016.1,HTZ92_3091,1.803055372,Catalyzes the final step of fatty acid oxidation in which acetyl-CoA is released and the CoA ester of a fatty acid two carbons shorter is formed,3-ketoacyl-CoA thiolase,1.38e-275,754.0,I,fadA,K00632,"Thiolase_C,Thiolase_N", Benzoate degradation
+QXV71016.1,HTZ92_3091,1.803055372,Catalyzes the final step of fatty acid oxidation in which acetyl-CoA is released and the CoA ester of a fatty acid two carbons shorter is formed,3-ketoacyl-CoA thiolase,1.38e-275,754.0,I,fadA,K00632,"Thiolase_C,Thiolase_N", alpha-Linolenic acid metabolism
+QXV71016.1,HTZ92_3091,1.803055372,Catalyzes the final step of fatty acid oxidation in which acetyl-CoA is released and the CoA ester of a fatty acid two carbons shorter is formed,3-ketoacyl-CoA thiolase,1.38e-275,754.0,I,fadA,K00632,"Thiolase_C,Thiolase_N", Ethylbenzene degradation
+QXV71016.1,HTZ92_3091,1.803055372,Catalyzes the final step of fatty acid oxidation in which acetyl-CoA is released and the CoA ester of a fatty acid two carbons shorter is formed,3-ketoacyl-CoA thiolase,1.38e-275,754.0,I,fadA,K00632,"Thiolase_C,Thiolase_N"," Pinene, camphor and geraniol degradation"
+QXV71016.1,HTZ92_3091,1.803055372,Catalyzes the final step of fatty acid oxidation in which acetyl-CoA is released and the CoA ester of a fatty acid two carbons shorter is formed,3-ketoacyl-CoA thiolase,1.38e-275,754.0,I,fadA,K00632,"Thiolase_C,Thiolase_N", Metabolic pathways
+QXV71016.1,HTZ92_3091,1.803055372,Catalyzes the final step of fatty acid oxidation in which acetyl-CoA is released and the CoA ester of a fatty acid two carbons shorter is formed,3-ketoacyl-CoA thiolase,1.38e-275,754.0,I,fadA,K00632,"Thiolase_C,Thiolase_N", Biosynthesis of secondary metabolites
+QXV71016.1,HTZ92_3091,1.803055372,Catalyzes the final step of fatty acid oxidation in which acetyl-CoA is released and the CoA ester of a fatty acid two carbons shorter is formed,3-ketoacyl-CoA thiolase,1.38e-275,754.0,I,fadA,K00632,"Thiolase_C,Thiolase_N", Microbial metabolism in diverse environments
+QXV71016.1,HTZ92_3091,1.803055372,Catalyzes the final step of fatty acid oxidation in which acetyl-CoA is released and the CoA ester of a fatty acid two carbons shorter is formed,3-ketoacyl-CoA thiolase,1.38e-275,754.0,I,fadA,K00632,"Thiolase_C,Thiolase_N", Fatty acid metabolism
+QXV71018.1,HTZ92_3093,1.599161718,Serine hydrolase,signal peptide-containing protein,3.38e-133,377.0,S,ydeN,K07002,Ser_hydrolase,No pathway found
+QXV71022.1,HTZ92_3097,1.684651952,-,hypothetical protein,7.33e-270,739.0,-,-,-,-,
+QXV71024.1,HTZ92_3099,1.41183909,Molecular chaperone. Has ATPase activity,molecular chaperone HtpG,0.0,1241.0,O,htpG,K04079,"HATPase_c,HATPase_c_3,HSP90",Protein processing in endoplasmic reticulum
+QXV71024.1,HTZ92_3099,1.41183909,Molecular chaperone. Has ATPase activity,molecular chaperone HtpG,0.0,1241.0,O,htpG,K04079,"HATPase_c,HATPase_c_3,HSP90", PI3K-Akt signaling pathway
+QXV71024.1,HTZ92_3099,1.41183909,Molecular chaperone. Has ATPase activity,molecular chaperone HtpG,0.0,1241.0,O,htpG,K04079,"HATPase_c,HATPase_c_3,HSP90", Necroptosis
+QXV71024.1,HTZ92_3099,1.41183909,Molecular chaperone. Has ATPase activity,molecular chaperone HtpG,0.0,1241.0,O,htpG,K04079,"HATPase_c,HATPase_c_3,HSP90", Antigen processing and presentation
+QXV71024.1,HTZ92_3099,1.41183909,Molecular chaperone. Has ATPase activity,molecular chaperone HtpG,0.0,1241.0,O,htpG,K04079,"HATPase_c,HATPase_c_3,HSP90", NOD-like receptor signaling pathway
+QXV71024.1,HTZ92_3099,1.41183909,Molecular chaperone. Has ATPase activity,molecular chaperone HtpG,0.0,1241.0,O,htpG,K04079,"HATPase_c,HATPase_c_3,HSP90", Plant-pathogen interaction
+QXV71024.1,HTZ92_3099,1.41183909,Molecular chaperone. Has ATPase activity,molecular chaperone HtpG,0.0,1241.0,O,htpG,K04079,"HATPase_c,HATPase_c_3,HSP90", IL-17 signaling pathway
+QXV71024.1,HTZ92_3099,1.41183909,Molecular chaperone. Has ATPase activity,molecular chaperone HtpG,0.0,1241.0,O,htpG,K04079,"HATPase_c,HATPase_c_3,HSP90", Th17 cell differentiation
+QXV71024.1,HTZ92_3099,1.41183909,Molecular chaperone. Has ATPase activity,molecular chaperone HtpG,0.0,1241.0,O,htpG,K04079,"HATPase_c,HATPase_c_3,HSP90", Progesterone-mediated oocyte maturation
+QXV71024.1,HTZ92_3099,1.41183909,Molecular chaperone. Has ATPase activity,molecular chaperone HtpG,0.0,1241.0,O,htpG,K04079,"HATPase_c,HATPase_c_3,HSP90", Estrogen signaling pathway
+QXV71024.1,HTZ92_3099,1.41183909,Molecular chaperone. Has ATPase activity,molecular chaperone HtpG,0.0,1241.0,O,htpG,K04079,"HATPase_c,HATPase_c_3,HSP90", Salmonella infection
+QXV71024.1,HTZ92_3099,1.41183909,Molecular chaperone. Has ATPase activity,molecular chaperone HtpG,0.0,1241.0,O,htpG,K04079,"HATPase_c,HATPase_c_3,HSP90", Pathways in cancer
+QXV71024.1,HTZ92_3099,1.41183909,Molecular chaperone. Has ATPase activity,molecular chaperone HtpG,0.0,1241.0,O,htpG,K04079,"HATPase_c,HATPase_c_3,HSP90", Chemical carcinogenesis - receptor activation
+QXV71024.1,HTZ92_3099,1.41183909,Molecular chaperone. Has ATPase activity,molecular chaperone HtpG,0.0,1241.0,O,htpG,K04079,"HATPase_c,HATPase_c_3,HSP90", Prostate cancer
+QXV71024.1,HTZ92_3099,1.41183909,Molecular chaperone. Has ATPase activity,molecular chaperone HtpG,0.0,1241.0,O,htpG,K04079,"HATPase_c,HATPase_c_3,HSP90", Lipid and atherosclerosis
+QXV71024.1,HTZ92_3099,1.41183909,Molecular chaperone. Has ATPase activity,molecular chaperone HtpG,0.0,1241.0,O,htpG,K04079,"HATPase_c,HATPase_c_3,HSP90", Fluid shear stress and atherosclerosis
+QXV71025.1,HTZ92_3100,1.406349243,4-amino-4-deoxy-alpha-L-arabinopyranosyl undecaprenyl phosphate biosynthetic process,signal peptide protein,2.61e-79,235.0,G,-,-,LprI,
+QXV71028.1,HTZ92_3103,1.345632928,Alpha/beta hydrolase family,alpha/beta hydrolase,5.16e-216,595.0,S,-,-,"Abhydrolase_1,adh_short",
+QXV71030.1,HTZ92_3105,7.468038581,-,DNA transfer protein p32,8.93e-17,77.4,-,-,-,"Gly-zipper_Omp,Gly-zipper_YMGG",
+QXV71031.1,HTZ92_3106,7.571498652,-,DNA transfer protein p32,5.33e-17,78.2,-,-,-,Gly-zipper_Omp,
+QXV71110.1,HTZ92_3185,2.826997228,Belongs to the LOG family,putative lysine decarboxylase,3.72e-145,409.0,S,-,K06966,Lysine_decarbox,Purine metabolism
+QXV71110.1,HTZ92_3185,2.826997228,Belongs to the LOG family,putative lysine decarboxylase,3.72e-145,409.0,S,-,K06966,Lysine_decarbox, Pyrimidine metabolism
+QXV71110.1,HTZ92_3185,2.826997228,Belongs to the LOG family,putative lysine decarboxylase,3.72e-145,409.0,S,-,K06966,Lysine_decarbox, Metabolic pathways
+QXV71110.1,HTZ92_3185,2.826997228,Belongs to the LOG family,putative lysine decarboxylase,3.72e-145,409.0,S,-,K06966,Lysine_decarbox, Nucleotide metabolism
+QXV71119.1,HTZ92_3194,4.152163987,Protein of unknown function (DUF2938),hypothetical protein,1.55e-110,318.0,S,-,-,DUF2938,
+QXV71120.1,HTZ92_3195,3.844452038,NADPH-dependent FMN reductase,FMN reductase,2.47e-136,385.0,S,-,-,FMN_red,
+QXV71121.1,HTZ92_3196,1.533008936,Transglycosylase SLT domain,soluble lytic murein transglycosylase,3.5e-112,322.0,M,-,-,SLT,
+QXV71125.1,HTZ92_3200,2.62687623,Uncharacterized protein conserved in bacteria (DUF2236),hypothetical protein,2.24e-304,828.0,S,-,-,DUF2236,
+QXV71137.1,HTZ92_3212,1.587707573,Glutathione peroxidase,glutathione peroxidase,8.68e-129,365.0,O,btuE,K00432,GSHPx,Glutathione metabolism
+QXV71137.1,HTZ92_3212,1.587707573,Glutathione peroxidase,glutathione peroxidase,8.68e-129,365.0,O,btuE,K00432,GSHPx, Metabolic pathways
+QXV71137.1,HTZ92_3212,1.587707573,Glutathione peroxidase,glutathione peroxidase,8.68e-129,365.0,O,btuE,K00432,GSHPx, Thyroid hormone synthesis
+QXV71137.1,HTZ92_3212,1.587707573,Glutathione peroxidase,glutathione peroxidase,8.68e-129,365.0,O,btuE,K00432,GSHPx, Amyotrophic lateral sclerosis
+QXV71137.1,HTZ92_3212,1.587707573,Glutathione peroxidase,glutathione peroxidase,8.68e-129,365.0,O,btuE,K00432,GSHPx, Huntington disease
+QXV71137.1,HTZ92_3212,1.587707573,Glutathione peroxidase,glutathione peroxidase,8.68e-129,365.0,O,btuE,K00432,GSHPx, Pathways of neurodegeneration - multiple diseases
+QXV71138.1,HTZ92_3213,3.849277143,-,hypothetical protein,2.41e-128,366.0,-,-,-,-,
+QXV71154.1,HTZ92_3229,1.115495521,malate dehydrogenase (decarboxylating) (NAD+) activity,NAD-dependent malic enzyme,0.0,1130.0,C,maeA,"K00027,K00029","Malic_M,malic",Pyruvate metabolism
+QXV71154.1,HTZ92_3229,1.115495521,malate dehydrogenase (decarboxylating) (NAD+) activity,NAD-dependent malic enzyme,0.0,1130.0,C,maeA,"K00027,K00029","Malic_M,malic", Carbon metabolism
+QXV71154.1,HTZ92_3229,1.115495521,malate dehydrogenase (decarboxylating) (NAD+) activity,NAD-dependent malic enzyme,0.0,1130.0,C,maeA,"K00027,K00029","Malic_M,malic", Two-component system
+QXV71154.1,HTZ92_3229,1.115495521,malate dehydrogenase (decarboxylating) (NAD+) activity,NAD-dependent malic enzyme,0.0,1130.0,C,maeA,"K00027,K00029","Malic_M,malic", Carbon fixation by Calvin cycle
+QXV71154.1,HTZ92_3229,1.115495521,malate dehydrogenase (decarboxylating) (NAD+) activity,NAD-dependent malic enzyme,0.0,1130.0,C,maeA,"K00027,K00029","Malic_M,malic", Metabolic pathways
+QXV71154.1,HTZ92_3229,1.115495521,malate dehydrogenase (decarboxylating) (NAD+) activity,NAD-dependent malic enzyme,0.0,1130.0,C,maeA,"K00027,K00029","Malic_M,malic", Microbial metabolism in diverse environments
+QXV71154.1,HTZ92_3229,1.115495521,malate dehydrogenase (decarboxylating) (NAD+) activity,NAD-dependent malic enzyme,0.0,1130.0,C,maeA,"K00027,K00029","Malic_M,malic", PPAR signaling pathway
+QXV71157.1,HTZ92_3232,1.165649566,Glutathione S-transferase,glutathione S-transferase,4.68e-160,448.0,O,gstA,K00799,"GST_C,GST_C_3,GST_N",Glutathione metabolism
+QXV71157.1,HTZ92_3232,1.165649566,Glutathione S-transferase,glutathione S-transferase,4.68e-160,448.0,O,gstA,K00799,"GST_C,GST_C_3,GST_N", Metabolism of xenobiotics by cytochrome P450
+QXV71157.1,HTZ92_3232,1.165649566,Glutathione S-transferase,glutathione S-transferase,4.68e-160,448.0,O,gstA,K00799,"GST_C,GST_C_3,GST_N", Drug metabolism - cytochrome P450
+QXV71157.1,HTZ92_3232,1.165649566,Glutathione S-transferase,glutathione S-transferase,4.68e-160,448.0,O,gstA,K00799,"GST_C,GST_C_3,GST_N", Drug metabolism - other enzymes
+QXV71157.1,HTZ92_3232,1.165649566,Glutathione S-transferase,glutathione S-transferase,4.68e-160,448.0,O,gstA,K00799,"GST_C,GST_C_3,GST_N", Metabolic pathways
+QXV71157.1,HTZ92_3232,1.165649566,Glutathione S-transferase,glutathione S-transferase,4.68e-160,448.0,O,gstA,K00799,"GST_C,GST_C_3,GST_N", Platinum drug resistance
+QXV71157.1,HTZ92_3232,1.165649566,Glutathione S-transferase,glutathione S-transferase,4.68e-160,448.0,O,gstA,K00799,"GST_C,GST_C_3,GST_N", Longevity regulating pathway - worm
+QXV71157.1,HTZ92_3232,1.165649566,Glutathione S-transferase,glutathione S-transferase,4.68e-160,448.0,O,gstA,K00799,"GST_C,GST_C_3,GST_N", Pathways in cancer
+QXV71157.1,HTZ92_3232,1.165649566,Glutathione S-transferase,glutathione S-transferase,4.68e-160,448.0,O,gstA,K00799,"GST_C,GST_C_3,GST_N", Chemical carcinogenesis - DNA adducts
+QXV71157.1,HTZ92_3232,1.165649566,Glutathione S-transferase,glutathione S-transferase,4.68e-160,448.0,O,gstA,K00799,"GST_C,GST_C_3,GST_N", Chemical carcinogenesis - receptor activation
+QXV71157.1,HTZ92_3232,1.165649566,Glutathione S-transferase,glutathione S-transferase,4.68e-160,448.0,O,gstA,K00799,"GST_C,GST_C_3,GST_N", Chemical carcinogenesis - reactive oxygen species
+QXV71157.1,HTZ92_3232,1.165649566,Glutathione S-transferase,glutathione S-transferase,4.68e-160,448.0,O,gstA,K00799,"GST_C,GST_C_3,GST_N", Hepatocellular carcinoma
+QXV71157.1,HTZ92_3232,1.165649566,Glutathione S-transferase,glutathione S-transferase,4.68e-160,448.0,O,gstA,K00799,"GST_C,GST_C_3,GST_N", Fluid shear stress and atherosclerosis
+QXV71199.1,HTZ92_3274,1.220494254,SnoaL-like domain,polyketide cyclase,6.93e-88,258.0,S,-,-,SnoaL_2,
+QXV71213.1,HTZ92_3288,1.004137398,Domain of unknown function (DUF4126),hypothetical protein,1.21e-124,356.0,S,-,-,DUF4126,
+QXV71217.1,HTZ92_3292,1.418464284,Catalyzes the isomerization of citrate to isocitrate via cis-aconitate,AcnM,0.0,1722.0,C,acnD,"K01681,K20455","Aconitase,Aconitase_C",Citrate cycle (TCA cycle)
+QXV71217.1,HTZ92_3292,1.418464284,Catalyzes the isomerization of citrate to isocitrate via cis-aconitate,AcnM,0.0,1722.0,C,acnD,"K01681,K20455","Aconitase,Aconitase_C", Glyoxylate and dicarboxylate metabolism
+QXV71217.1,HTZ92_3292,1.418464284,Catalyzes the isomerization of citrate to isocitrate via cis-aconitate,AcnM,0.0,1722.0,C,acnD,"K01681,K20455","Aconitase,Aconitase_C", Other carbon fixation pathways
+QXV71217.1,HTZ92_3292,1.418464284,Catalyzes the isomerization of citrate to isocitrate via cis-aconitate,AcnM,0.0,1722.0,C,acnD,"K01681,K20455","Aconitase,Aconitase_C", Metabolic pathways
+QXV71217.1,HTZ92_3292,1.418464284,Catalyzes the isomerization of citrate to isocitrate via cis-aconitate,AcnM,0.0,1722.0,C,acnD,"K01681,K20455","Aconitase,Aconitase_C", Biosynthesis of secondary metabolites
+QXV71217.1,HTZ92_3292,1.418464284,Catalyzes the isomerization of citrate to isocitrate via cis-aconitate,AcnM,0.0,1722.0,C,acnD,"K01681,K20455","Aconitase,Aconitase_C", Microbial metabolism in diverse environments
+QXV71217.1,HTZ92_3292,1.418464284,Catalyzes the isomerization of citrate to isocitrate via cis-aconitate,AcnM,0.0,1722.0,C,acnD,"K01681,K20455","Aconitase,Aconitase_C", Carbon metabolism
+QXV71217.1,HTZ92_3292,1.418464284,Catalyzes the isomerization of citrate to isocitrate via cis-aconitate,AcnM,0.0,1722.0,C,acnD,"K01681,K20455","Aconitase,Aconitase_C", 2-Oxocarboxylic acid metabolism
+QXV71217.1,HTZ92_3292,1.418464284,Catalyzes the isomerization of citrate to isocitrate via cis-aconitate,AcnM,0.0,1722.0,C,acnD,"K01681,K20455","Aconitase,Aconitase_C", Biosynthesis of amino acids
+QXV71217.1,HTZ92_3292,1.418464284,Catalyzes the isomerization of citrate to isocitrate via cis-aconitate,AcnM,0.0,1722.0,C,acnD,"K01681,K20455","Aconitase,Aconitase_C", Propanoate metabolism
+QXV71218.1,HTZ92_3293,1.169321355,Belongs to the citrate synthase family,methylcitrate synthase,3.18e-283,773.0,C,prpC,K01659,Citrate_synt,Citrate cycle (TCA cycle)
+QXV71218.1,HTZ92_3293,1.169321355,Belongs to the citrate synthase family,methylcitrate synthase,3.18e-283,773.0,C,prpC,K01659,Citrate_synt, Glyoxylate and dicarboxylate metabolism
+QXV71218.1,HTZ92_3293,1.169321355,Belongs to the citrate synthase family,methylcitrate synthase,3.18e-283,773.0,C,prpC,K01659,Citrate_synt, Propanoate metabolism
+QXV71218.1,HTZ92_3293,1.169321355,Belongs to the citrate synthase family,methylcitrate synthase,3.18e-283,773.0,C,prpC,K01659,Citrate_synt, Metabolic pathways
+QXV71218.1,HTZ92_3293,1.169321355,Belongs to the citrate synthase family,methylcitrate synthase,3.18e-283,773.0,C,prpC,K01659,Citrate_synt, Biosynthesis of secondary metabolites
+QXV71218.1,HTZ92_3293,1.169321355,Belongs to the citrate synthase family,methylcitrate synthase,3.18e-283,773.0,C,prpC,K01659,Citrate_synt, Microbial metabolism in diverse environments
+QXV71218.1,HTZ92_3293,1.169321355,Belongs to the citrate synthase family,methylcitrate synthase,3.18e-283,773.0,C,prpC,K01659,Citrate_synt, Carbon metabolism
+QXV71218.1,HTZ92_3293,1.169321355,Belongs to the citrate synthase family,methylcitrate synthase,3.18e-283,773.0,C,prpC,K01659,Citrate_synt, 2-Oxocarboxylic acid metabolism
+QXV71218.1,HTZ92_3293,1.169321355,Belongs to the citrate synthase family,methylcitrate synthase,3.18e-283,773.0,C,prpC,K01659,Citrate_synt, Biosynthesis of amino acids
+QXV71220.1,HTZ92_3295,1.225679885,FCD,GntR family transcriptional regulator,6.88e-169,471.0,K,prpR,-,"FCD,GntR",
+QXV71226.1,HTZ92_3301,1.479688452,"Phosphoglucomutase/phosphomannomutase, C-terminal domain",phosphomannomutase,0.0,910.0,G,manB,"K01840,K15778","PGM_PMM_I,PGM_PMM_II,PGM_PMM_III,PGM_PMM_IV",Fructose and mannose metabolism
+QXV71226.1,HTZ92_3301,1.479688452,"Phosphoglucomutase/phosphomannomutase, C-terminal domain",phosphomannomutase,0.0,910.0,G,manB,"K01840,K15778","PGM_PMM_I,PGM_PMM_II,PGM_PMM_III,PGM_PMM_IV", Amino sugar and nucleotide sugar metabolism
+QXV71226.1,HTZ92_3301,1.479688452,"Phosphoglucomutase/phosphomannomutase, C-terminal domain",phosphomannomutase,0.0,910.0,G,manB,"K01840,K15778","PGM_PMM_I,PGM_PMM_II,PGM_PMM_III,PGM_PMM_IV", Metabolic pathways
+QXV71226.1,HTZ92_3301,1.479688452,"Phosphoglucomutase/phosphomannomutase, C-terminal domain",phosphomannomutase,0.0,910.0,G,manB,"K01840,K15778","PGM_PMM_I,PGM_PMM_II,PGM_PMM_III,PGM_PMM_IV", Biosynthesis of secondary metabolites
+QXV71226.1,HTZ92_3301,1.479688452,"Phosphoglucomutase/phosphomannomutase, C-terminal domain",phosphomannomutase,0.0,910.0,G,manB,"K01840,K15778","PGM_PMM_I,PGM_PMM_II,PGM_PMM_III,PGM_PMM_IV", Biosynthesis of nucleotide sugars
+QXV71226.1,HTZ92_3301,1.479688452,"Phosphoglucomutase/phosphomannomutase, C-terminal domain",phosphomannomutase,0.0,910.0,G,manB,"K01840,K15778","PGM_PMM_I,PGM_PMM_II,PGM_PMM_III,PGM_PMM_IV", Glycolysis / Gluconeogenesis
+QXV71226.1,HTZ92_3301,1.479688452,"Phosphoglucomutase/phosphomannomutase, C-terminal domain",phosphomannomutase,0.0,910.0,G,manB,"K01840,K15778","PGM_PMM_I,PGM_PMM_II,PGM_PMM_III,PGM_PMM_IV", Pentose phosphate pathway
+QXV71226.1,HTZ92_3301,1.479688452,"Phosphoglucomutase/phosphomannomutase, C-terminal domain",phosphomannomutase,0.0,910.0,G,manB,"K01840,K15778","PGM_PMM_I,PGM_PMM_II,PGM_PMM_III,PGM_PMM_IV", Galactose metabolism
+QXV71226.1,HTZ92_3301,1.479688452,"Phosphoglucomutase/phosphomannomutase, C-terminal domain",phosphomannomutase,0.0,910.0,G,manB,"K01840,K15778","PGM_PMM_I,PGM_PMM_II,PGM_PMM_III,PGM_PMM_IV", Purine metabolism
+QXV71226.1,HTZ92_3301,1.479688452,"Phosphoglucomutase/phosphomannomutase, C-terminal domain",phosphomannomutase,0.0,910.0,G,manB,"K01840,K15778","PGM_PMM_I,PGM_PMM_II,PGM_PMM_III,PGM_PMM_IV", Starch and sucrose metabolism
+QXV71226.1,HTZ92_3301,1.479688452,"Phosphoglucomutase/phosphomannomutase, C-terminal domain",phosphomannomutase,0.0,910.0,G,manB,"K01840,K15778","PGM_PMM_I,PGM_PMM_II,PGM_PMM_III,PGM_PMM_IV", Streptomycin biosynthesis
+QXV71226.1,HTZ92_3301,1.479688452,"Phosphoglucomutase/phosphomannomutase, C-terminal domain",phosphomannomutase,0.0,910.0,G,manB,"K01840,K15778","PGM_PMM_I,PGM_PMM_II,PGM_PMM_III,PGM_PMM_IV", Microbial metabolism in diverse environments
+QXV71250.1,HTZ92_3325,2.146201736,Belongs to the NadC ModD family,nicotinate-nucleotide pyrophosphorylase,3.28e-194,539.0,H,nadC,K00767,"QRPTase_C,QRPTase_N",Nicotinate and nicotinamide metabolism
+QXV71250.1,HTZ92_3325,2.146201736,Belongs to the NadC ModD family,nicotinate-nucleotide pyrophosphorylase,3.28e-194,539.0,H,nadC,K00767,"QRPTase_C,QRPTase_N", Metabolic pathways
+QXV71250.1,HTZ92_3325,2.146201736,Belongs to the NadC ModD family,nicotinate-nucleotide pyrophosphorylase,3.28e-194,539.0,H,nadC,K00767,"QRPTase_C,QRPTase_N", Biosynthesis of cofactors
+QXV71251.1,HTZ92_3326,3.944357623,-,hypothetical protein,9.33e-29,103.0,-,-,-,-,
+QXV71281.1,HTZ92_3356,1.359817265,Sodium Bile acid symporter family,arsenic transporter,2.17e-243,670.0,P,arsB,K03325,SBF,No pathway found
+QXV71302.1,HTZ92_3377,1.157013478,Oxidoreductase NAD-binding domain,oxidoreductase,8.51e-243,667.0,C,-,K03863,"FAD_binding_6,Fer2,NAD_binding_1",Aminobenzoate degradation
+QXV71302.1,HTZ92_3377,1.157013478,Oxidoreductase NAD-binding domain,oxidoreductase,8.51e-243,667.0,C,-,K03863,"FAD_binding_6,Fer2,NAD_binding_1", Microbial metabolism in diverse environments
+QXV71305.1,HTZ92_3380,2.795494896,Thiol disulfide interchange protein,DSBA oxidoreductase,6.44e-145,408.0,O,dsbA,K03673,DSBA,Cationic antimicrobial peptide (CAMP) resistance
+QXV71306.1,HTZ92_3381,1.085287599,O-methyltransferase that catalyzes the 2 O-methylation steps in the ubiquinone biosynthetic pathway,bifunctional 3-demethylubiquinone 3-O-methyltransferase/2-octaprenyl-6-hydroxy phenol methylase,8.41e-175,486.0,H,ubiG,K00568,Methyltransf_23,Ubiquinone and other terpenoid-quinone biosynthesis
+QXV71306.1,HTZ92_3381,1.085287599,O-methyltransferase that catalyzes the 2 O-methylation steps in the ubiquinone biosynthetic pathway,bifunctional 3-demethylubiquinone 3-O-methyltransferase/2-octaprenyl-6-hydroxy phenol methylase,8.41e-175,486.0,H,ubiG,K00568,Methyltransf_23, Metabolic pathways
+QXV71306.1,HTZ92_3381,1.085287599,O-methyltransferase that catalyzes the 2 O-methylation steps in the ubiquinone biosynthetic pathway,bifunctional 3-demethylubiquinone 3-O-methyltransferase/2-octaprenyl-6-hydroxy phenol methylase,8.41e-175,486.0,H,ubiG,K00568,Methyltransf_23, Biosynthesis of secondary metabolites
+QXV71306.1,HTZ92_3381,1.085287599,O-methyltransferase that catalyzes the 2 O-methylation steps in the ubiquinone biosynthetic pathway,bifunctional 3-demethylubiquinone 3-O-methyltransferase/2-octaprenyl-6-hydroxy phenol methylase,8.41e-175,486.0,H,ubiG,K00568,Methyltransf_23, Biosynthesis of cofactors
+QXV71309.1,HTZ92_3384,4.938594533,Nickel/cobalt transporter regulator,signal peptide protein,1.2e-95,278.0,S,-,-,RcnB,
+QXV71310.1,HTZ92_3385,8.165029326,Nickel/cobalt transporter regulator,Nickel/cobalt transporter regulator,1.2e-74,223.0,S,yohN,-,RcnB,
+QXV71311.1,HTZ92_3386,3.196832286,Belongs to the acetyltransferase family. ArgA subfamily,N-acetylglutamate synthase,0.0,906.0,E,argA,K14682,"AA_kinase,Acetyltransf_1",Arginine biosynthesis
+QXV71311.1,HTZ92_3386,3.196832286,Belongs to the acetyltransferase family. ArgA subfamily,N-acetylglutamate synthase,0.0,906.0,E,argA,K14682,"AA_kinase,Acetyltransf_1", Metabolic pathways
+QXV71311.1,HTZ92_3386,3.196832286,Belongs to the acetyltransferase family. ArgA subfamily,N-acetylglutamate synthase,0.0,906.0,E,argA,K14682,"AA_kinase,Acetyltransf_1", Biosynthesis of secondary metabolites
+QXV71311.1,HTZ92_3386,3.196832286,Belongs to the acetyltransferase family. ArgA subfamily,N-acetylglutamate synthase,0.0,906.0,E,argA,K14682,"AA_kinase,Acetyltransf_1", 2-Oxocarboxylic acid metabolism
+QXV71311.1,HTZ92_3386,3.196832286,Belongs to the acetyltransferase family. ArgA subfamily,N-acetylglutamate synthase,0.0,906.0,E,argA,K14682,"AA_kinase,Acetyltransf_1", Biosynthesis of amino acids
+QXV71324.1,HTZ92_3399,1.35161838,NADPH-dependent FMN reductase,flavoprotein,7.42e-125,355.0,S,-,-,FMN_red,
+QXV71328.1,HTZ92_3403,7.131456267,-,hypothetical protein,2.08e-42,141.0,-,-,-,-,
+QXV71329.1,HTZ92_3404,4.524295401,-,hypothetical protein,2.75e-37,126.0,-,-,-,-,
+QXV71337.1,HTZ92_3412,1.180820531,Lytic murein transglycosylase,lytic transglycosylase,0.0,856.0,M,-,"K01792,K08305","Aldose_epim,PG_binding_1,SLT_2",Glycolysis / Gluconeogenesis
+QXV71337.1,HTZ92_3412,1.180820531,Lytic murein transglycosylase,lytic transglycosylase,0.0,856.0,M,-,"K01792,K08305","Aldose_epim,PG_binding_1,SLT_2", Metabolic pathways
+QXV71337.1,HTZ92_3412,1.180820531,Lytic murein transglycosylase,lytic transglycosylase,0.0,856.0,M,-,"K01792,K08305","Aldose_epim,PG_binding_1,SLT_2", Biosynthesis of secondary metabolites
+QXV71337.1,HTZ92_3412,1.180820531,Lytic murein transglycosylase,lytic transglycosylase,0.0,856.0,M,-,"K01792,K08305","Aldose_epim,PG_binding_1,SLT_2", Microbial metabolism in diverse environments
+QXV71351.1,HTZ92_3426,2.444611676,Transglycosylase associated protein,transglycosylase,8.04e-49,155.0,S,-,-,Transgly_assoc,
+QXV71352.1,HTZ92_3427,1.856041622,Required for disulfide bond formation in some periplasmic proteins. Acts by transferring its disulfide bond to other proteins and is reduced in the process,thiol:disulfide interchange protein,9.8e-167,466.0,O,-,K03981,"DsbC_N,Thioredoxin_2",No pathway found
+QXV71387.1,HTZ92_3462,2.044295735,Belongs to the membrane fusion protein (MFP) (TC 8.A.1) family,RND transporter,7.06e-250,687.0,M,-,K18302,"Biotin_lipoyl_2,HlyD_3,HlyD_D23",No pathway found
+QXV71388.1,HTZ92_3463,2.120096554,Belongs to the resistance-nodulation-cell division (RND) (TC 2.A.6) family,RND efflux transporter,0.0,1978.0,V,-,"K18138,K18303",ACR_tran,beta-Lactam resistance
+QXV71388.1,HTZ92_3463,2.120096554,Belongs to the resistance-nodulation-cell division (RND) (TC 2.A.6) family,RND efflux transporter,0.0,1978.0,V,-,"K18138,K18303",ACR_tran, Cationic antimicrobial peptide (CAMP) resistance
+QXV71405.1,HTZ92_3480,1.053311193,dienelactone hydrolase,dienelactone hydrolase,9.41e-176,489.0,Q,-,-,"DLH,Peptidase_S9",
+QXV71406.1,HTZ92_3481,2.464372933,UPF0391 membrane protein,hypothetical protein,2.91e-24,91.7,S,-,-,DUF1328,
+QXV71440.1,HTZ92_3515,1.067521045,"Catalyzes the last two sequential reactions in the de novo biosynthetic pathway for UDP-N-acetylglucosamine (UDP- GlcNAc). The C-terminal domain catalyzes the transfer of acetyl group from acetyl coenzyme A to glucosamine-1-phosphate (GlcN-1-P) to produce N-acetylglucosamine-1-phosphate (GlcNAc-1-P), which is converted into UDP-GlcNAc by the transfer of uridine 5- monophosphate (from uridine 5-triphosphate), a reaction catalyzed by the N-terminal domain",bifunctional N-acetylglucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyltransferase,0.0,882.0,M,glmU,K04042,"Hexapep,Hexapep_2,NTP_transf_3",Amino sugar and nucleotide sugar metabolism
+QXV71440.1,HTZ92_3515,1.067521045,"Catalyzes the last two sequential reactions in the de novo biosynthetic pathway for UDP-N-acetylglucosamine (UDP- GlcNAc). The C-terminal domain catalyzes the transfer of acetyl group from acetyl coenzyme A to glucosamine-1-phosphate (GlcN-1-P) to produce N-acetylglucosamine-1-phosphate (GlcNAc-1-P), which is converted into UDP-GlcNAc by the transfer of uridine 5- monophosphate (from uridine 5-triphosphate), a reaction catalyzed by the N-terminal domain",bifunctional N-acetylglucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyltransferase,0.0,882.0,M,glmU,K04042,"Hexapep,Hexapep_2,NTP_transf_3", Biosynthesis of various nucleotide sugars
+QXV71440.1,HTZ92_3515,1.067521045,"Catalyzes the last two sequential reactions in the de novo biosynthetic pathway for UDP-N-acetylglucosamine (UDP- GlcNAc). The C-terminal domain catalyzes the transfer of acetyl group from acetyl coenzyme A to glucosamine-1-phosphate (GlcN-1-P) to produce N-acetylglucosamine-1-phosphate (GlcNAc-1-P), which is converted into UDP-GlcNAc by the transfer of uridine 5- monophosphate (from uridine 5-triphosphate), a reaction catalyzed by the N-terminal domain",bifunctional N-acetylglucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyltransferase,0.0,882.0,M,glmU,K04042,"Hexapep,Hexapep_2,NTP_transf_3", Metabolic pathways
+QXV71440.1,HTZ92_3515,1.067521045,"Catalyzes the last two sequential reactions in the de novo biosynthetic pathway for UDP-N-acetylglucosamine (UDP- GlcNAc). The C-terminal domain catalyzes the transfer of acetyl group from acetyl coenzyme A to glucosamine-1-phosphate (GlcN-1-P) to produce N-acetylglucosamine-1-phosphate (GlcNAc-1-P), which is converted into UDP-GlcNAc by the transfer of uridine 5- monophosphate (from uridine 5-triphosphate), a reaction catalyzed by the N-terminal domain",bifunctional N-acetylglucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyltransferase,0.0,882.0,M,glmU,K04042,"Hexapep,Hexapep_2,NTP_transf_3", Biosynthesis of nucleotide sugars
+QXV71460.1,HTZ92_3535,1.346004893,Belongs to the short-chain dehydrogenases reductases (SDR) family,short-chain dehydrogenase,1.11e-199,553.0,S,-,-,adh_short,
+QXV71461.1,HTZ92_3536,1.745678222,MatE,MATE efflux family protein,3.86e-299,819.0,V,-,-,MatE,
+QXV71464.1,HTZ92_3539,1.267702717,-,hypothetical protein,5.19e-133,377.0,-,-,-,-,
+QXV71465.1,HTZ92_3540,1.540988703,Bacterial protein of unknown function (DUF924),hypothetical protein,4.31e-128,363.0,S,-,-,DUF924,
+QXV71471.1,HTZ92_3546,1.020253887,PGAP1-like protein,PGAP1-like protein,0.0,920.0,S,-,-,PGAP1,
+QXV71489.1,HTZ92_3564,1.036636913,Uncharacterized protein conserved in bacteria (DUF2147),hypothetical protein,7.65e-101,292.0,S,-,-,DUF2147,
+QXV71516.1,HTZ92_3591,3.201799833,Putative general bacterial porin,Putative general bacterial porin,6.89e-183,508.0,S,-,-,Porin_7,
+QXV71537.1,HTZ92_3614,1.190113749,"The UvrABC repair system catalyzes the recognition and processing of DNA lesions. UvrA is an ATPase and a DNA-binding protein. A damage recognition complex composed of 2 UvrA and 2 UvrB subunits scans DNA for abnormalities. When the presence of a lesion has been verified by UvrB, the UvrA molecules dissociate",excinuclease subunit A,0.0,1880.0,L,uvrA,K03701,ABC_tran,Nucleotide excision repair

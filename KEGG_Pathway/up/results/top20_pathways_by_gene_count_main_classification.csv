@@ -1,0 +1,21 @@
+,Main. Classification. Pathway,GeneCount,FC,ypos
+2,Carbohydrate metabolism,40.0,1.4754028724689654,2
+0,Amino acid metabolism,37.0,1.597712545475728,0
+7,Energy metabolism,22.0,1.3972883476875,7
+12,Metabolism of cofactors and vitamins,21.0,1.6014989730882352,12
+10,Lipid metabolism,17.0,1.5786248137692307,10
+17,Signal transduction,16.0,1.7899112961071428,17
+13,Metabolism of other amino acids,13.0,1.4265242863809522,13
+6,Drug resistance: antimicrobial,10.0,1.8796651821794872,6
+14,Metabolism of terpenoids and polyketides,10.0,1.44358415995,14
+11,Membrane transport,9.0,2.9470877168571428,11
+5,Cellular community - prokaryotes,6.0,2.8167896983636362,5
+1,Biosynthesis of other secondary metabolites,6.0,1.9847768390769231,1
+15,Nucleotide metabolism,6.0,1.843642272526316,15
+8,"Folding, sorting and degradation",5.0,1.4177777995,8
+19,Transport and catabolism,4.0,1.5535613956666667,19
+9,Glycan biosynthesis and metabolism,3.0,2.1628195477272727,9
+16,Replication and repair,3.0,1.238682216,16
+18,Translation,2.0,1.36768470725,18
+4,Cell motility,1.0,1.074641574,4
+3,Cell growth and death,1.0,1.41183909,3
